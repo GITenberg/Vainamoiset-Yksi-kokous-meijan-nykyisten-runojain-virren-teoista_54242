@@ -1,0 +1,28 @@
+_repo: Vainamoiset-Yksi-kokous-meijan-nykyisten-runojain-virren-teoista_54242
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gottlund, C. A. (Carl Axel)
+    aliases:
+    - Gottlund, Kaarle Aksel
+    - Gottlund, Carl Axel
+    birthdate: 1796
+    deathdate: 1875
+    gutenberg_agent_id: '44225'
+    url: http://www.gutenberg.org/2009/agents/44225
+    wikipedia: http://fi.wikipedia.org/wiki/Carl_Axel_Gottlund
+description: ''
+gutenberg_issued: '2017-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54242'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folk literature, Finnish -- History and criticism'
+- !lcc 'PH'
+- GITenberg
+title: 'Väinämöiset: Yksi kokous meijän nykyisten runojain virren-teoista'
+url: http://www.gutenberg.org/ebooks/54242
