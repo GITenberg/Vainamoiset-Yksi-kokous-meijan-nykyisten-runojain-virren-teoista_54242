@@ -1,0 +1,4979 @@
+The Project Gutenberg eBook, Väinämöiset, by C. A. (Carl Axel) Gottlund
+
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions 
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at 
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+
+
+
+Title: Väinämöiset
+       Yksi kokous meijän nykyisten runojain virren-teoista
+
+
+Author: C. A. (Carl Axel) Gottlund
+
+
+
+Release Date: February 26, 2017  [eBook #54242]
+
+Language: Finnish
+
+Character set encoding: ISO-8859-1
+
+
+***START OF THE PROJECT GUTENBERG EBOOK VÄINÄMÖISET***
+
+
+E-text prepared by Jari Koivisto
+
+
+
+VÄINÄMÖISET
+
+Yksi kokous meijän nykyisten runojoin virren-teoista
+
+Toimitettu
+
+CARL AX. GOTTLUNDILTA
+
+I Osa.
+
+
+
+
+
+
+Tukhulmissa,
+Painettu Norstedtin Luonna Poikineen,
+Vuonma 1828.
+
+
+
+
+
+                Vita sine Musis mors;
+                Musae post funera florent.
+
+
+                         Sillen
+    Henkellisellen oppiallen, jumalan-opin opettajallen,
+    Tähti-miehellen keis. St. Annan 2:sesta tähti-kunnasta,
+                 Herra E. G. MELARTINILLEN,
+
+    Siitä Hänen palavasta Isänmoan-rakkautesta, jolla Hään,
+    Hänen Keisarilliselta Jaloueltansa Suomessa viimen
+    asetetussa Koulun-Toimituksessa, työskeli soahaksensa
+    Äitin-kielemme opillisessa tarkoituksessa ylös-harjoitetuksi,
+    ja Kouluissamme käytetyksi -- uskalletaan nöyryymmässä
+    hartautessa omistoo näitä kirjan-lehtiä, toistukseksi
+    Moamiesten yhteisestä suosiosta, ja siitä yksinnäisestä
+    arvoittamisesta ja kunnioittamisesta, jolla
+
+               Olen aina jeäpä hänen
+               nöyrimmäinen palveliansa
+
+                                 _Carl Ax. Gottlund_.
+
+
+
+SISÄLLÄPITO:
+
+        Esipuhe.
+     I. RUSI RYYNÄINEN.
+         Karhulan Peijaiset
+         Riemu-Laulu Juubel-Juhlasta
+   II.  YRJÖ HIRVOINEN.
+          Jyränkö
+          Heinolan Markkinat
+          Kurvilan Emäntä
+  III. LASSI LAPPALAINEN.
+          Hevo-Virsi
+  IV. JOAKKO KEÄRIÄINEN.
+          Hevois-Runo
+          Koiran-Runo
+   V. OATTO TUOVINEN.
+          Varsan-Runo
+          Kissan-Runo
+          Kassin-Runo
+          Kissan-Virsi
+   VI. HEIKKI HUUHTINEN.
+         Sian-Runo
+         Näpistäjä
+         Yötyri
+         Yö-Jalkalainen
+         Yötymykset
+         Yhtymiset
+         Syömäri
+  VII. HEIKKI SUMMAINEN.
+         Vävy-mies
+ VIII. POAVO HEIKKINEN.
+         Halpa-Poika
+   IX. IKOINEN.
+         Anttolan Herra
+    X. RISTO VILJAKAINEN.
+         Kukon-Runo
+   XI. LASSI NISSINEN.
+         Kissan-Runo
+  XII. MIKKO KOIVUINEN.
+         Nuotta-miehet
+         Nauris-Vartias
+ XIII. NIMEN TIETÄMÄTTÖMILTÄ.
+         Vaimon-Tappelia
+         Tapaillemiset
+         Ventisen Härän-Runo
+         Nälkä
+       Selitykset
+
+
+
+
+ESIPUHE.
+
+
+    Käki tuopi suven sanoman,
+    Peäsky päivän lämpymisen.
+
+                     _Sananlasku_.
+
+_Otavat_ ovat tuskin nousseet taivahalle, ennenkuin _Väinämöiset_ jo
+pilvestä pyrähti.
+
+Koska _Otava_ on jo kaikki valmiiks' painettuna, mutta koska vielä
+voaitaan aikoa, ennen kuin kaikki hänen kuvat (plancher) joutuu
+painin kanssa kaunistetuiksi (färglagde) niin olemme tahtoneet
+soveliaksi, että sillä välillä painuttoo tätä pientä kirjoo, että
+sillä ikeän kuin ennustoo hänen tulonsa, ja liesoamaan hänelle tietä
+pohjoisillen ilmoillen. Tämä kirja annetaan seneistä kaikillen
+_Otavan_ Peällentarjojoillen (Prenumeranter) huokiammalla hinnalla
+kuin muillen ostajoillen, kostoksi tästä heijän liian pitkästä
+outtamisesta.[1]
+
+       *       *       *       *       *
+
+Näinnä aikoina on Suomessa yksi merkillinen _muutos_ tapahtunnut
+mielellisessä tarkoituksessa. _Suomen kieli_, jota ennen piettiin
+halpana ja jaloinpoljettavana, kahotaan jo monelta paremmalla
+arvolla, ja pietään (niin kuin sen pitäis) meijän _äitinkieleksemme_.
+Ne monet harjoitukset, jotka jo monessa paikoin on tehty, koroittaa
+tätä kieltämme _kirjan-kieleksi_, tahi käyttää sitä _kirjallisissa
+tarkoituksissa_, toistaa että meissä on syttynyt _yksi rakkaus_,
+joka on varsin _luonnollinen_, ja sen suhteen myös luonnostaan
+_onnellinen_.
+
+Se on arvattava, että eroitettua Ruohtalaisista, piti ne kahleet
+aikoa myöten laukiaman, jotk' ei kiinittänneet eikä yhistänneet
+meitä heihin, voan jotka painovat meitä, heijän allesek. Näistä,
+oli _kielen_kahleet ne isommat ja vaikiammat, joilla kokivat meitä
+kiini-sitoa.
+
+Ei ouk mikään niin luonnotoin kuin poiskieltää yheltä ihmiseltä
+hänen _luonnollinen kielensä_, se on että varsin murhata hänen
+_mielen-luontoansa_; sillä koska _kielet_ ovat _mielen_ keinot
+(organer) niin on yksi heistä niin kallis kuin toinenkin, ja
+kumpaisetkin tarpeelliset meijän _mielen-valaistukseksi_.
+
+Tässä tarkoituksessa ovat Ruohtalaiset käyttäneet meitä varsin
+luonnottomasti, sillä hyö ovat poistaivuttanneet meijän mielestämme
+tämän _lunnollisen_ rakkauen omaan kieleemme, ja peällen-tunkeneet
+meille tätä _vierasta_ puhetta, jonka rakastaminen oli meillä
+_luonnotoin_, niin kauan kuin se moahankukisti meijän omoo
+puhettamme. Kuitenkin heitä ei soatetak tästä varsin syyttää; sillä
+jos tarkoitamme niitä aikoja jollon ensin tulimmo heijän alimaisiksi,
+niin olimme (heitä vastaan) yksi roaka pakanallinen kansa, kussa
+ei valaistus (kirjallisia harjoituksia) ollut soanut niin sioo; se
+piti seneistä tuotettaman meillen vieraasta moasta, ja vieraalla
+kielellä. Mutta vika on siinä, ettei se ouk siitten heittänyt tätä
+vierasta kielen-pukua, ja ottanut meijän emoamme, koska olimme jo
+niin paljon mielin-valaistunneet, että tämä ei ainoasti oisi ollut
+meille _mahollinen_, mutta myöskin varsin _tarpeellinen_. Voan
+sitä vastoin ovat hyö aina harjoittanneet meissä tätä muukalaista
+Ruohtalaista kieltä, jota ovat ehkä tehneet tästä vanhasta tavastaan,
+tahi luulessaan sillä paremmin sitoavasek meitä heijän ympärillensä.
+Mutta yksi _luonnotoin site_ ei kestäk kauan, ja yksi _luonnotoin
+rakkaus_ on aina voaran-alainen. Se on uskottava että jos oisimme
+vielä kauemminkin viipynyt Ruohtalaisten alla, niin oisi kerrankin
+tämä mieli meissä mielistynyt, katkaista näitä kielen-kapaloitamme
+ja harjoittoo omoo puhettamme. Sillä luontoa soahaan joksikin
+_pois-taivuttoo ja vierastuttoo_; mutta varsin muuttumaan -- sitä
+ej soa koskaan; ja _luonnon laki_, on ite se _ensimmäinen_, joka
+ajallansa rankaisee näitä hänen rikoittajoitansa. Yksi mehän-elävä,
+yksi peto, pietään siteillä ja kahleilla; mutta yksi ihminen,
+liioitenkin yksi valaistu (tahi ihmis-kansoa, joka on muka yhtä)
+kiinitetään vapaallisella ja vilpittömällä käytettämisellä. Se on
+nykyisen-ajan valaistus, jota meijän tuloo kiittee, ett'ei voittajat
+eneän tie voitettujansa orjiksensa, tahi alentaa heitä ihmisyytessä
+(i menskliheten); mutta että nyt pyytäävät heistä hyviä ihmisiä,
+onnellisia alammaisia, ja vapaallaisia kansalaisia (medborgare). Ja
+se on tästä syystä; josta ne kansat, joita nyt eroitetaan yheltä
+ja yhistetään toisen Hallituksen kanssa, aina ovat soanneet piteä
+_Uskomuksensa_ (sin Religion) _Kielensä ja Lakinsa_, jos nämät
+ovat muka siinä toimessa, että ovat kunnolliset ja soveltuvaiset
+aikoin-soaha heijän totuullista parasta ja onnellisuutta. Tätä,
+jota aina tehään yheksi ehoksi rauhan-teoissa, vahvistettiin myös
+tässä viimeisessä rauhassa v. 1809, ja se on sillä perustuksella, ja
+meijän Valtioin armolla, jolla myö oommo soanneet piteä ei ainoasti
+tätä omoo _Uskomustamme ja Lakiamme_, mutta myös tätä _muukalaista
+puhettamme_, joka ei ouk omamme, voan joka on meille peällen-tunkettu
+muualta, Suomen-kielen hävitökseksi. Se on epäillemätäk, että
+hallitus, joka suopi meijän parasta, ei oisi tätä asiata vastaan,
+jos luettaisiin vähittäin poisriisua tätä vierasta pukua, ja
+näitä vieraita kielen-kahleita, jotka jo kauan ovat ollut meille
+vastukseksi oman kielen harjoittamisessamme. Uskottavampi oisi, että
+se oisi meillen avuksi tässä tarkoituksessa, jos kerran pyytäisimme
+tätä omoo puhettamme kirjakieleksemme. Mutta siihen voaitaan, että
+sitä ensin tehään kunnolliseksi ja sovelliaksi tähän tarpeesen.
+Se on sen eistä sopiva että ruetaan ensin ylösharjoittamaan tätä
+emoa, puhettamme, ennen kuin ruetaan puhumaan hänen käyttämisestään
+yhteiseksi kirjoituskieleksemme.
+
+Mutta jos nyt ruettaisimme harjoittamaan tätä Suomen puhettamme kirja
+kieleksemme, niin kysytään ehkä mitenkä sitä tehtäneeni, ja mistä
+tätä työtä alottaisime? Sanotaan _"peästä pinoa aletaan, hyvä asia
+alusta"!_ Mutta missäpä tässä on alku, ja missä tässä peätä tavataan?
+Se on meijän kielen _tiustelemisella, tutkimisella_ hänen tapojaan
+ja puheenmutkiansa, hänen henkellisen luonnon käsittämisellä, jolla
+meijän ensin pitäis aloittoo hänen harjoittamista. Siitten voaitaan
+vielä hänen puhtauteksi, _kitkemistä ja kumoon kyntämistä_ kaikkein
+niiten vierain sanoin ja sana-tapoin, jotka ovat häneen tartuneet, ja
+pahentaneet hänen luontonsa. Viimeksi tarvitaan tätä _henkellistä,
+siemenettä_, joka löytyy Tietomuksissa, ja miehiä joka sitä _kylvää_
+ja karhii.[2]
+
+Meijän kielen luonto tavataan _peripuhtautessaan_ meijän vanhoissa
+Runoissamme, ja muissa kansallisissa puheissamme, kussa heijän
+_Runomus_ (Poesi) ja _Salamus_ (Mythologi) ilmoittaiksen, jotka ovat
+ne _henkellisimmät sikiät_ kussakin kielessä. Näitä vanhoja Runoja
+on vähittäin ruettu ylös-hakeamaan ja julistettamaan, _Ganander,
+Porthan, Toppelius_, ja osittain jo myökin oommo koittaneet heitä
+soaha painetuiksi, milloin valaistettunna omilla selitöksillämme,
+milloin myös ilman selittämätäk. Mutta se on tapahtunnut, niin
+kuin usseen tapahtuu, koska haetaan joen takoa vettä, että näitä
+_nykyisiämme Runojamme_ on sillä välillä heitettynnä unoukseen.
+Meijän kielen _henkitär_ (genius) tavataan ei ainoasti _vanhoissa_
+Runoissa, sitä tavataan myös _nykyisenimissä_; sillä oisihan se muutoin
+kuollut, ellei se vielä eläisi näissäkin. Yksi aika on kerran tuleva,
+jollon tiiustellaan näihen päivien tekoja, ja jollon kysytään:
+"minkälainen oli Suomalaisten Runomus alulla yheksäntoista kymmenälle
+sa'an luvulla" (19:de seklet)? (Sillä myö elämmö ei ainoasti meijän
+ajalla, mutta myös tulevillenkin ajoillen). Eikös se oisi silloin
+hyvä, soaha tällaisia kootuksia, tehtynnä juuri tään-ikuisilta?
+
+Tarkoitus tämän kirjan painamisella, on sen eistä ollut, ensin että
+osottoo _millä teloilla meijän Runomus seisoo näinnä päivinnä_, ja
+minkälainen hänen on luonto, jos häntä verrataan vanhoin aikoin. Tämä
+on tarpeellinen tietää, ei ainoasti _tulevillen_ ajoillen, mutta
+erinomattain näillen _nykyisillen_, jotta meillä oisi esimerkkiä sekä
+_vanhoilta että nuoremmiltakin_ kielen-käyttäjöiltä, mitenkä meijän
+pitännöön harjoittoo puhettamme ja runomustamme. Moni ehkä luuloo,
+että jokainen meistä tuntoo kyllä tään-aikuista puhetta ja runomusta,
+jota tarjoitetaan meillen sekä suullisesti että kirjallisesti.
+Ei ikään! Tätä ei ouk ykskään vielä oikeen käsittänyt. Tätä
+toistetaan tämän aikuisilta kirjuttajoilta ja laulun-laittajoilta,
+heijän omilla teoilla ja lauluillansa. Sillä meijän Runomus elää
+niissä pohjoisimmissa moakunnissa kansan suussa, ei nissä tyhmissä
+veisuissa, joita vuosittain painetaan ja levitetään ympärin moatamme,
+ja jotka multaavat ja murhaavat sekä kielemme että juohutuksemme
+(Fantasi, Diktkonst). Ne eivät ouk _Suomalaisia_, muuten kuin
+nimekseen, sillä heissä osoittaiksen yksi muukalainen Runomus puettu
+Suomalaisilla sanoilla, mutt' ei käytetty Suomalaisella kielellä.
+Hyö ovat sen eistä pian kaikki, sekä kielen että mielensä puolesta,
+_ulko-puolella_ kaiken Suomalaisen Runomuksen.[3]
+
+Myö olemme tähän asti ollut aivan _kiittämättömiä_ niitä miehiä
+vastaan, jotka ovat harjoittanneet henkissä pittee tätä meijän vanhoo
+Runomustamme. Myö ei ouk ainoasti unouttaneet heitä, niin kuin tapa
+on hyväntekiöimme vastaan, mutta olemme eesmänneinä aikoina monestin
+heitä vainoonneet ja ahistanneet; ja aina kahtoneet heijän puolella,
+jotka vieraalla puvulla ovat meitä villittänneet ja jouksuttelleet.
+Meijän tarkoitus on seneistä toiseksi, että Moamiehillemme _ilmoittoo
+meijän nykyisiä kunnollisempia Runo-niekkojamme_, että sillä, koko
+kansan kuulla, osottaisimme heillen kunniatamme, ja kehoittaisimme
+muita astuamaan heijän askelillen. Myö olemme tehneet tätä että
+yhellä puolella sekä käsittäisimme tätä meijän perullista (genuina)
+Suomalaista Runomustamme, että kostelisimme hänen valvojoitansa ja
+harjoittajoitansa, kuin että toisellakin puolella poispainettaisimme
+kansan mielestä niitä joutavia paha-päiväisiä remputoksia, jotka
+kuohuu meijän kirja-pajoistamme, ja jotka toistaa miten paljo meijän
+mielemme on jo poisvaipunut ja moahan-painunut siitä suloisesta
+Runomuksesta, joka on meijän kielen omainen.
+
+Tässä ensimäisessä Osassammo olemme koettaneet että
+toimittoo _Savolaissia Runoja sekä Savon pohjoisemmasta että
+eteleisemmestä peästä_. Jos tämä kirja mänestyis, niin meijän
+aivotus oisi että aikoakin myöten painuttoo ei ainoasti muita Osia,
+mutta myös että erittäin toimittoo _Pohjolaisten, Karjalaisten,
+Aunuksellaisten, Hämäläisten, Uuenmoalaisten ja Turkulaisten_
+runomuksia; että sillä selvemmin näkisimme minkälainen Runomus-taito
+on kussakin moakunnassa. Se on arvattava, että Runomus on aina _yksi
+ja yhölläinen_[4] ja että eroitus on ainoastaan kielessä eli puheen
+murressa, tahi juohtumuksessa ja hänen toimitus-tavoissaan. Kuitenkin
+tavataan kussakin kansassa eli moassa erinnäisiä juohtumuksia, ellei
+_eri-luontoisia_, ja se on tämä _erinnäisyys_, joka teköö heitä
+ikäänkuin _eri-luontoisiksikin_.[5]
+
+Voan ennen kuin myö näistä lähemme laveammasti puhumaan, niin tahomme
+ensin tästä osastamme tehä joitakuita muistutuksia, ja nimittää niitä
+tarpellisimpiä tarkoittamuksiamme.
+
+Se ensimäinen, joka kohtaa meitä, on yksi varsin merkillinen asia,
+jota löyämme, koska vertoomme näitä nykyisiä Runojamme niihin
+vanhoin. Nimittäin, eitä hyö _runollisessa tarkoituksessa_ (i
+Poetiskt hänseende) kielensä puolesta ovat aivan _samallaiset_ kuin
+ne kaikkiin vanhimmat, joita tunnetaan. Eli toisilla sanoilla: myö
+löyämme e.m. että tämän _Ryynäisen_ ja poika-_Huuhtisen_ Runot ovat
+verrattavinna meijän peä-Runojamme vanhan _Väinämöisen_ virsi-tekohin
+-- jos puhutaan muka _Runon-laitoksesta_ (versbyggnad) ja
+_kielen_-käyttämisestä. Nyt on kieli ainoasti yksi piiros (en form)
+jolla meijän ajatuksemme toimitetaan; ja Runon-laita on piiros meijän
+runomuksellemme. Myö neämme seneistä että ne vanhat piirokset
+runoissamme ovat vielä tänä päivänäkin varsin ne samat kuin olivat
+tiesi jo minä aikoina; niin että on varsin mahotoin meille, sekä
+kielen puolesta että runolaitoksestaan, eroittoo niitä vanhimpia
+näistä nuoremmista. Tämä on varsin luonnollinen asia, sillä ikeän
+kuin meijän kielemme on vielä tänä päivänäkin samalla kannallansa,
+kuin oli 600 oastaikoa siitten, niin on myös meijän Runomus
+samalla laitoksella. Eli meijän kielemme ja meijän runomuksemme
+ovat seisoneet varsin yhellä paikalla lähes 1000 oastaikoa, ellei
+enemmin. Mistä se tuloo, ellei siitä että Suomalaiset Runojot
+ovat toinen toisesek perästä työskentelleet niissä vanhoissa
+piiroksissa, ilman että heitä levittee tahi muuteskentella; hyö ovat
+heissä askaroittanneet, ikeän kuin meijän kirjantoimittajat, joita
+vielä tavataan samassa tavattomuutessaan, kuin olivat koska ensin
+rupeisivat tätä kieltämme kirjuttamaan. Sitä vastoin jos kahomme
+toisten kansoin kieliä, miten paljon eivätkös ou muuttuneet muutaman
+sa'an vuuen peästä. Jos luetaan e.m. Ruotin kieltä, vuotesta 1200,
+1400, 1600, ja 1800, niin se aina kahensaan vuuen peästä eroittaiksen
+jo niin paljon, että hyvin tunnetaan minkä aikuiseksi se on luettava.
+Jos otetaan pitempätä aikoo, niin eroitus on aina suurempi, niin
+että tuskin tunnetaan samaksi kieleksi. Niin e.m. jos verroitaan
+sitä vanhoo Messo-Göthin kieltä tähän nykyiseen Ruohtalaisten, eli
+niihen vanhoin Ruomalaisten tähän nykyisten Italialaisten, niin eivät
+eneän toinen toisiansa ymmärtäisik. Sitävastoin niin Suomen kieli
+(niin kauaksi kuin käyp tutkiminen) on muuttumatoin. Sekä hänen oma
+luontonsa, että hänen erikummainen rakennus (jolla se rajattaiksen
+kaikista muista kielistä) toistaa tätä hänen peri-vanhuuttansa.
+Samalla tavalla osottaa meijän runot, sillä omalla luonnollansa
+(jolla heitä eroitetaan kaikkein muihen kansoin runomuksesta) että
+ovat varsin vanhan aikuisia.[6] Niinikkään myös meijän runon- ja
+paimenen-soitot, jotka erimukaisuuellansa (joilla heitä luovutetaan
+kaikesta nykyisestä soittamuksesta) muistuttaa meitä, etteivät ouk
+meijän aikuisia.[7]
+
+Jos nyt tutkitaan _kielen-harjoittamusta_, niin se on kielen kanssa
+niin kuin moan kanssa, joka harjoittamattomuutessaan kasvattaa näitä
+synkiä mehtiä, näitä kauniita notkelmoita ja noroja, näitä sakkeita
+saloja ja jylhäkköitä, kussa nähään koreita koivuja ja lehto-puita,
+eli isoja honkia ja masto-puita, jotka kauneuellansa meitä mielyttää,
+ja hirvittää jalouellansa; mutta kussa myös löytyy karkeita paikkoja,
+monta kivi-louhua ja suo-silmee. Ja joita kaikkia ei millään
+konstilla soaha syntymään. Tämä mehtä, joka vuosittain kasvaa, ja
+vuosittain katoaa, se muuttuu kyllä puuksi, mutta yhölläinen se on
+luonnostaan, sillä se kasvattaa aina näitä nuoria vesoja niihin
+vanhoin piiroksiin. Sitä-vastoin, jos tätä moata harjoitetaan, ja
+konstilla korjataan, miten paljon eikös se muuttuk? Näitä ikuisia
+mehtiä lasketaan kirvellä moahan, ja heijän siassa nähään karsittuja
+puita, joihen välissä kasvatetaan monellaisia kirjavia vilja-maita,
+jotka vuosittain käytetään milloin Ruiksi tahi Otraksi, milloin
+Kauroiksi tahi Vehniksi, milloin Pavuiksi, Herneiksi, Koaliksi,
+Nauriiksi, Potatiksi, Tattariksi, Omenoiksi ja Viina puiksi, sanalla
+-- kaikeks mitä konstilla soahaan kasvattaneeksi; mutta jotk' eivät
+kuitenkaan annak meille sen suosion ja luonnollisen huvituksen, kuin
+nämät mieluisat mehet, kussa vietellimme nuoruuen aikojamme. Nyt
+oisi vaikea ehkä sanoa, mitä heistä on parempi, nämät lehvakkaat
+lehto-moat, vai nämät avonnaiset pelto-moat. Kieliin kanssa on
+asian-laita samallainen: vanhuuessaan ja omassa mieli-vallassaan ovat
+synkät ja mieluisat, jos kohta karkeetkin; mutta harjoitettunna (eli
+yhellä puolella vesoittunna ja karsittunna; toisella, kynnettynnä
+ja kylvettynnä) ovat sopivat käsittämään viisauten hetelmiä ja
+oppimuksen omenoita. Se on seneistä työläs sanoa, jos se on meille
+_voitoksi tahi vahinkoksi_, että kielemme on näin kauan seisonna
+harjoittamatoin. Meijän luullo oisi, ett'ei meillä ouk syytä katoa
+yhtä, eikä toisesta ilotella; mutta tyytyä siihen kussa tilassa
+häntä nyt tavataan. Jos ainoastaan kahotaan _huvittamisen puolesta_
+(eli mitä _kieleen tuloo_) niin se on tässä harjoittomattomassa
+tilassaan suloisempi, mieluisampi ja jalompi, luonnostaan; mutta jos
+tarkoitetaan _hyövyttämisen puolesta_ (eli mitä _meijän tuloo_) niin
+se hyövyttää meitä enemmin harjoitettuaan. Ja koska kielet, ikeän
+kuin moat, arvataan sitä myöten kuin hyö meitä hyövyttää, niin se on
+ainoasti _harjoitettunna_ kuin se on meillen _otollinen_.
+
+Koska meijän Runon-piirokset ei eroitak niitä vanhoja Runoja
+näistä nuorista, niin mikä siitten heitä eroittaa, ellei piiros?
+Se on heijän sisällinen luontonsa, heijän aineensa. Hyö ovat kyllä
+ulkopuoleltaan yhölläiset, mutta sisältään varsin erillaiset. Koska
+kunkin ajan runomus aina toimittaa sen ajan mieli-juohutosta, ja
+osottaa kansan henkellistä mielenluontoa, niin taijamme näistä
+runoin sisällisestä olosta joten-kuten käsittää Suomen kansan
+mielen-luontoa erinnäisinnä aikoinna. Myö havaimme että meijän
+vanhimmissa runoissamme aina puhutaan ja lauletaan semmoisia
+asioita, jotka olivat luonnostaan henkellisimpiä ja jalompia
+kuin nykyisin; niin kuin e.m._ Moailman luomisesta, tulen
+syntymisestä, kanteleen suloisuutesta, rauan rakentamisesta_,
+ja muita semmoisia, joita tahtovat käsittää ymmärryksellänsä,
+ja selittää runomuksellansa; ja jotta tällä runollisella ja
+sala-luonnollisella puvullansa mielyttivät koko kansan. Eli myö
+löyämme, että heijän runomus silloin sulki sisällänsä kaikken
+heijän moallisen että henkellisen viisauen (ja niin se on ollut
+muissakin kansoissa, vanhoina aikoina). Silloin oli Runomus Suomessa
+korkeimmallansa. Mutta koska siitten, valaistuksen levittämisellä,
+kaikki nämät tieton- ja viisauen-aineet riisutettiin pois tästä
+heijän runollisesta ja salallisesta (mytiska) puvusta,[8] ja
+selkiemmästi toimitettiin ite Tietomuksilta, niin ei jeänyt meillen
+muuta jälellä, kuin piiros tahi puku tästä vanhasta runomuksestamme.
+Mutta koska yksi piiros on ajateltamatoin (otänkbart) ilman
+jotaik ainetta (jota se piirittää) niin tehtiin aineeksi näitä
+pieniä joka-päivällisiä asioita ja tapauksia, jotka kohtaavat
+meitä tään-aikuisessa elämisessämme. Sillä tavalla vaikeni meijän
+runomus, arvossansa, halvemmaksi henkellisyytessään, vaikka ne
+vanhat kielen- ja runon-piirokset jäivät seisallaan. Yksi tällainen
+yhteinen ja kansallinen runomus käsitettiin kaikilla, ja valaisi
+koko kansakunnan; sitävastoin niin ne kirjalliset tietomukset
+harjoitetaan nyt ainoasti muutamilta yksinäisiltä; eli tieto
+ja ymmärrys (mitkä oli heillä) tavattiin muinon mielessämme ja
+peässämme, nyt heitä tavataan ainoasti kirjoissamme. Mutta jos
+pitäävät meitä onnistoo ja hyövyttää, niin heijän pitäis toas
+kirjoista painumaan meijän mieleemme, ja se on tähän kirjalliseen ja
+mielelliseen harjoittamiseen, johon meijän aikuinen mieli-valaistus
+tarkoittaa. Se on seneistä arvattava, että se yhteinen kansa oli
+muinon iteän kuin enemmin tarkoitettu ja karaistettu henkellisyyteen
+runomisellansa; ja että se nykyinen kansa tyhjillä ja joutavilla
+mieli-kuvituksillaan, ja ruokottomilla runoillansa, soastuttaa
+ihtesek, vielä enemmin, moallisuuteen. Mutta Runomisessa on aina
+kuitenkin, moallisissakin asioissa, yksi henkellinen luonto, kussa
+se osoittaiksen omassa olennossaan. Ja jos se ei eneän valaisoo
+meitä ja johtattaa meitä henkellisyyteen ja ymmärrykseen, niin se
+nyt _nuhleloo_ meitä, ja _nauraa_ meijän tyhmyytestämme, että sillä
+johtattaa meissä ymmärrystä. Tarkoitus on aina samallainen; ennen se
+oli meijän _opettajanna_, nyt se on meijän _kurittajanna_.
+
+Jos tutkimme meijän nykyisiä runojamme (nimittäin niitä kunnollisia)
+niin havaimme että heissä aina _nauretaan_ ihmisen _tyhmyytestä_
+ja _hulluutesta_. Hyö ovat kaikki tehtynnä ikään kuin _nauruksi ja
+pilkaksi_ meijän mielettömästä käytöksestämme, että sillä varoittoo
+muita niistä villityksistä, jotka seuraa tätä moallista elämätä.[9]
+
+Jos seneistä yksi kuuluisa Runo-seppä (joka aina on verrattava
+_kansan-valaistajana_, sillä seseisoo aina älyllään muita _eillempänä_)
+teköö pilkkoo yhestä _kelvottomasta moahan-laskiaisesta_, yhestä
+_tyhmästä emännästä_, yhestä _luonnottomasta luontokappalen
+roattelemisesta_, yhestä _luattomasta omistamisesta toisen
+tavarasta_, yhestä _irtonaisesta elämästä_, ja muista semmoisista
+hävittömästä tahi kelvottomasta elämän-laitoksesta, niin ei
+meijän siitä pie pahastua, eikä lakihin männä, eikä sakoillen
+panna. Sillä tarkoitus on hyvä, se on yksi henkellinen rankastus
+mielen-oatoksellemme (inför Opinionen), joka vaikuttaa ehkä paljon
+enemmän kuin _vitat, rahan-sakko, ja sala-rippi_. Mutta niinpä se
+on kuitenkin käynyt; ne vanhat viisauen-runot haettiin ja hävitettiin
+ensin _poavilaisilta_ pappiloilta, koskei heissä luettu _Ristuksesta_
+eikä _Moariasta_ (josta heitä syytettiin _pakanallisuutesta_) ja
+sitten _nykyisimmiltäkin uskon-palvelioilta_, koska heissä kuultiin
+tätä nimee (joka teki heitä haisuviksi _poavilaisuutesta_). Niin kuin
+papillinen valta ahisti vanhoja Runoja, niin on laillinenkin oikeus
+puolestansa asettanut rankaistusta näillen _nuorillen_. Se oli ennen
+tapa meissä kulettoo Runo-niekkoja lakihin, ja ainoasti tämä tapa,
+että heitä sillä hätäyttää, toistaa jo että olivat uhkauksen alla; ja
+että heitä ennen-aikana paljon Suomessa tavattiin.
+
+Myö neämmö tästä, mikä hyötytys meillä oisi näihen runoin
+kootuksella, meijän Runomuksemme harjoittamiseksi. Nimittäin
+että nämät nykyisetkin runot osottaa kunnollisia esimerkkiä sekä
+_runonlaitoksistaan_ että kielen-käytöksistään; ja että _aineensakin_
+puolesta hyö, niin hyvin kuin nuo vanhatkin, tarkoittaa meijän
+_hyötymistä_ yhellä puolella, ja _huvittamista_ toistella, ellei
+henkellisissä, niin moallisissa asioissa.
+
+Se toinen hoksaus (obserwation) jota näihen runoin tulkitessa
+osoittaitsen meillen, ja joka on pian yhtä merkillinen, on ainoasti
+yksi seuraus (följd) tästä _yhteisestä kansallisesta Runomuksesta_,
+eli tästä _luonnollisesta_, ikeän kuin kansassa syntynystä, voan
+ei konstilla kasvatetusta, _runomisesta_. Myö löyämme, että vaikka
+tässä on 12:tä erinnäistä Runojata, niin heijän runot ovat kaikki
+niin _yhöllaiset_, ja niin _yhen-luontoiset_, että se on mahotoin
+eroittaa heitä, ilman nimittämätäk. Eli siinä yhessä virren-sepässä
+ei ouk mitään erinomaista, joka eroittais hänen runot toisista; tahi
+tekisi heitä jossa-kussa mainihtavammiksi, eli eri-luontoisemmiksi.
+Myö olemme jo ennen toistaneet, että meijän Runomus on ollut
+ytsitapainen pitkin aikoo, ja nyt nähään, (joka silloin jäi meiltä
+muistuttamatak) että se on myös yksimukainen _poikki aikoo_. Tämä
+seuraa kaikki siitä, että meissä kyllä _harjoitetaan_ runomusta,
+voan ej _ylös-harjoitetaan_. Se kasvaa ikeän kuin meijän kielemme
+luonnollisessa vapautessan ja omassa mieli-vallassaan, sill' on
+sentähen myös harjoittamattomiin luonto, nimittäin että olla
+_yksi-karvainen_; mutta myöskin _kaunis-karvainen_. Niin kuin e.m.
+kaikki elävät, kesyttämättömyytessään (i sitt wilda tillstånd) eli
+luonnollisessa vallollisuutessaan, ovat _yhölläiset, vallattomat
+ja voimalliset_; mutta kesytetyssä olemmisessaan, tuloovat
+_monenkarvaiseksi, siistiksi ja heikommaksi_, niin on myös kielen
+ja runomisenkin kanssa.
+
+Yks kolmaas asia seuraa seneistä vielä tästä heijän
+harjoittamattomuutestaan, nimittäin että ovat paikka-paikoin melkeen
+roakoja, tahi että heissä tavataan karkeita ruokottomia sanoja, jotka
+meijän mielestämme ovat sopimattomat, valaistetun kansan kuulla.
+Että heittee heitä varsin pois, oisi että hävittää näihen tapaa ja
+runon-luontoa, ja että varsin toimittoo heitä, oisi että ryettää
+meijän suutamme. Myö olemme seneistä käyneet ikään kuin keskellen
+heijän välillen. Heitä kuullaan vähän kussakin kansan seätyssä,
+ja tavataan sekä vanhoissa että nykyisissä kirjoissa, ja luetaan
+liiaksikin meijän henkellisessä Roamatussa, kussa ei semmoisia
+oisi luultu löytyvän. Hyö toistaavat enemmin tapoin puhtautta ja
+siveyttä, kuin tapoin pahenemusta (förskämda seder) sillä niin kauan
+kuin esi-ihmiset pysyivät pyhytessään, niin eivät kainustelleet
+alastomuuttansa, vasta kuin olivat toinen toisesek pilanneet, silloin
+tästä häpäisivät.
+
+Yksi neljääs seuraus tästä harjoittamattomuutesta meijän kielessämme,
+on että siihen on sisään tuotettu niin monta muukalaista sanoo,
+enemmitten _Ruotin ja Venäjän_ kielistä, jota meijän pitäis
+välttee, erinomattain kuin meillä löytyy omia, joill' on sama
+merkitys. Minä olen tässä monessa kohin heitä väijynyt; mutta olen
+myös antana heitä monessa paikoin olla joukossa, kussa hyö ikeän
+kuin naurattaa meitä tavattomuutellansa ja outouuellansa. Vaikka
+minun aivotus on ollut, ettei niin sanalla muuttoo näitä Runoja,
+voan painuttoo heitä varsin niin kuin ovat mullen laulettunna,
+niin löyän kuitenkin, että se on mahotoin heitä toimittoo varsin
+ilman oikaisematak, sillä ajatus toisinaan voatii, että ne
+erinnäiset juotteet nioitetaan ja liitetään toinentoisesek kanssa
+yhteen, paremmin kuin tehän laulatessa ja suu-sanoilla. Voan minä
+olen toisella puolella kavahtanut tehä tätä muuten kuin juuri
+tarpeellisimmissa paikoissa, ja silloinkin niin vähä kuin mahollinen,
+niin että moni ehkä moittii minun tehneen tätä kovin vähän.
+
+Mitä nyt vielä tulisi näistä sanottavaksi, niin tahon muistuttoo
+teitä, ettei nämät ouk meijän kauneimpia, eikä meijän kansallisimpia,
+Runojamme. Hyö ovat varsin meijän _nykyisiä jokapäiväisiä loilutoksia_,
+niin kuin nähään heijän aineista. Heitä lauletaan tänä pänä, ja
+huomena heitä jo unoutetaan uusiin virsiin. Meijän aivotus on ollut,
+ei että tuottaa mitä meijän kielessämme oisi kaunihinta, eikä mikä on
+suloisin Runomuksestamme; mutta että toimittoo meijän _tään-aikuista
+runomusta_, ei sellaista kuin se osoittaiksen painettuissa veisuissa
+(josta on jo sanottu, että ovat ulkopuolella meijän runomustamme)
+mutta sellaista kuin sitä tavataan meijän joka-päivällisessä
+käyttämisessä, runollisessa elämässämme. Myö jaettaisimme muuten
+meijän runollisia tekojamme vissiin peä-loatuin; nimittäin 1) ne
+_Pakanalliset_ (kaikkiin vanhimmat), jotka ovat vanhat kansalliset
+Runot, jotka muinon _laulettiin_, ja jotka usseemmittain toimittaavat
+puhtaita _Salamuksia, tahi luonnollista ihmis-viisautta_. 2) ne
+_Poavillaiset_, joka nyt ovat vanhimmat, ja joita _luetaan_: ja jotka
+ussemmittain toimittaa loihteita ja muita semmoisia _taikaus-sanoja_,
+kussa tavataan yhtä _luonnotointa ihmis-viisautta_; eli kussa se
+luonnollinen ymmärrys on tullut villitetyksi yhestä luonnottomasta
+(henkellisestä) uskomisesta. 3) Ne _nuoremmat kansalliset Runot_, jotka
+lauletaan ympäri moatamma, ilman että tunnetak heijän perustusta,
+eli heijän tekiätänsä. Heissä toimitetaan usseen _tarinallisia_
+(historiska) _aineita_. 4) Ne _kaikkiin nuorimmat_, synnytettynnä
+viimeisellä vuos-saalla, eli vuos-luvulla (olkoon yhtä), josta
+muutamat ovat painon kautta, tahi muuten laulamuksensa puolesta,
+tulleet levitetyiksi ympäri moata; voan muutamat toas syntyyvät ja
+kuoloovat koti-kylissänsä, kosk eivät heillä tarkoitetak mitään
+mainioisuutta, ainoasti kotonaisia _joka-päivällisiä asioita_. Se
+on näistä viimeisistä, joista tässä nyt tarjoiletaan teillen yhtä
+kokousta, ottakaatte sitä vastaan -- ei kuin mikään lahja meijän
+Suomalaisesta runomuksestamme; mutta kuin yksi laitos meijän
+koti-lauluistamme.[10] Hyö ovat aineensa puolesta pienimmästä
+arvosta mutta kielensä puolesta, suuremmasta.
+
+Mitä muuten tulisi sanottavaksi meijän _kirjakielestämme_, niin
+oommo jo siitä jutelleet Otavassamme, johon osotetaan lukioitamme;
+ja muistutamme ainoasti, että olemme tässä niinkuin muulloinkin
+nouattanut _Savon-puhetta_,[11] ja ottanut tavaksemme, että aina
+painuttoo näitä kansallisia Runojamme sillä puheen-murrella, kuin
+ovat tehtynnä, tahi tulleet meillen lauletuiksi.
+
+Se näyttää monesta ehkä joutavallen, että olen nimittänyt milloin,
+ja keltä, minä olen heitä soanut; mutta se olkoon sanottu heijän
+valaistukseksi, jos tarvis oisi heistä tarkemmin tiiustella,
+ja kunniaksi heillen, jotka ovat mullen näitä lukenneet; sillä
+minä olen aina luenut sitä kunniaksi -- ei että tulla kirjoissa
+nimitetyksi -- mutta että tulla mainituksi harjoituksistaan
+kansalliseen ja tietolliseen johtatukseen.
+
+Viimeiseksi tahomme myös jotaik sanoa tämän kirjan nimittämisestä. Koska
+meillä jo on _Otavat_ taivaallamme, niin olkaan myös _Väinämöisetkin_.
+Väinämöisiksi huhutaan Norjan Suomalaisissa (i Norrska Finskogarna) sitä
+tähtee, jota myö nimitämme _Väinämöisen-virsuksi tahi Venäjän-virsuksi_,
+eli niin kuin sitä myös muualla kuhutaan, _Seulajaiset, Seulajainen ja
+Rian-seulat_, joka kulkoo Otavan eillen, jo matkan peässä, ja kussa
+löytyy monta pientä selittämätöintä tähti-kipunata, josta sitä myös
+_Rysmäksi t. Rysmä-täheksi_ mainitaan. Ja koska Väinämöinen oli meijän
+Peä-Runojamme, niin olkaan nyt nämät pienet Väinämöiset hänen palveliat
+ja kielen-noutajat!
+
+Kirjutettu Tukhulmissa, Joulu-kuun 7:nä päivänä vuonna 1828.
+
+_C. A. Gottlund_.
+
+
+
+
+VÄINÄMÖISET.[12]
+
+
+    "Väinämöiset -- mikäs se on?"
+    Se on tähti taivoisessa,
+    Seulaisten pieni sikeri,
+    Virsu vanhan Väinämöisen,
+    Jok'on ilmassa, iässä,
+    _Otavasta_ oikeesehen,
+    Rajalla _Linnun-ratojen_.
+    Siinä kiiltääpi kitisee
+    Sätehellä seihtemällä,
+    Tuhannella tuikkarella
+    Viskoitteloo valkiansa
+    Tännek tuonnek taivoisehen.
+
+    Ukko vanha Väinämöinen
+    Heittiin pitkin pientarellen,
+    Maito-heinillen makoomaan.
+    Vuohen-kukat vuoteheksi,
+    Lehmän-kielet liepeheksi,
+    Apilat peän-alaksi.
+    Leivoiset ne lentelivät,
+    Virsiänsä viruttivat
+    Ukon korvissa koreesti.
+    Käki kukkui kuulusasti,
+    Onnen-kukko kuusikosta
+    Luki satoja sanoja.
+
+    Väinämöinen, vanha-miesi
+    Vetjusteliin väsyksissään
+    Päivän-paisteessa parraassa,
+    Kuumahassa kuun-valossa.
+    Etelätär, neito nuori,
+    Laskiin päivän-laskennolta,
+    Lännestä tähän lähättiin,
+    Hänen suutaan suikutteli,
+    Hänen leukojaan likisti.
+    Kukat hiljan kuiskuttivat,
+    Heinät hiljan heiluttivat,
+    Hyssytti häntä hyvästi.
+
+    Ukko vanha Väinämöinen
+    Nukahtipa nurmen peällä,
+    Uupui suloiseen unehen.
+    Näki unta viisi vuotta,
+    Seihtemettä sitä selitti.
+    Unessaan Ukko käveli
+    Taivaan pilviin piirtä myöten,
+    Witojen tähtiin tietä myöten
+    Kulki pitkin kuun kujasta,
+    Kantavansa kanteleensa
+    Tuonnek _Otavan_ ovillen,
+    _Pohjos-tähen_ porstuvillen,
+    _Sauvan Aaroisen_ salihin.[13]
+
+    Tullessaan tuonnek tuloovat
+    Ruomin muinoisat Runojat,
+    Troijan soan-toimittajat,
+    Uhoimmat soiton-urohot
+    Tunkeksivat tämän ympäir.
+    "Laula veikkonen vähäisen
+    Teijän moasta maistiksemme,
+    Koitteheksi teijän kielen!
+    Laula, laula Väinämöinen,
+    Hyräile hyvä Isäntä
+    Niitä soittoja somia,
+    Joita lauletaan Lapissa,
+    Soitettaneen Suomenmoassa!"
+
+    Ukko vanha Väinämöinen
+    Kauan ensin kainusteliin,[14]
+    Ujosti näitä Uroja;
+    Siitten otti kanteleensa,
+    Vasemmalla käsi-varalla
+    Peästi vyönsä vyötäisiltään,
+    Peästi helmat helppoisilleen,
+    Tuuleen hameensa hajotti.
+    Siitten hieroi kämmeniään,
+    Kämmeniään, kymmeniään:
+    "Soitammahan sortaammatak,
+    Laulammahan lakkaammatak,
+    Iloksi näiten Isänniin
+    Näiten miesten mieleheksi!"
+
+    Siitten rupeisi Runoillen,
+    Laulujansa lasketteli --
+    Lauloi päivät peättämätäk,
+    Lauloi yötä yöttymätäk,
+    Kolmet päivee perättäin
+    Soitti soittoja soreita.
+
+    Väinämöisen soiteltua
+    Tàhet tansi taiwahalla,
+    Kuu se kuuntel' pilven peästä,
+    Nauroi taivahan navalla.
+    Kuin hään lauloi lauat heilui,
+    Taivaan-parret parkaisivat,
+    Vinkuivat tuulen-vihinät.
+    Kuin hään soitti sormillansa,
+    Peukaloillansa peuhaisi,
+    Itki ite _Ilmarinen_,
+    _Vuolankoinen_ Vuoren-ukko
+    Vetiin vatsan-veänöksissään,
+    Ähmäröiset ähkäilivät,
+    _Voiperoiset_ voihkailivat
+    Tästä soitosta somasta,
+    Näistä lauluin-laitoksista.
+
+    Jo päiväntenä kolmantena
+    Rupeis Ukko Väinämöinen
+    Vasta parraaita panemaan,
+    Silloin laulujaan lateli,
+    Kajahutti kanteletta,
+    Jotta kielet kiljaisivat,
+    Eänet kaikki ärjäisivät,
+    Parkuisivat joka paikka.
+    Päiväntenä kolmantena
+    Ennen Kukon kuulumatak,
+    Päivän nuoren nousematak,
+    Rupeematak oamu-ruskon,
+    Lasketteli laulujansa,
+    Kaikkiin sakeemmat sanansa,
+    Jotta Hiijet himmenivät,
+    Taivaan vallat vapisivat,
+    -- Lumohutti ite Luojan.[15] -- --
+
+    Silloin soitti soitumellaan,
+    Kantelellaan kaikutteli,
+    Jotta rauat raukenivat,
+    Vasket vaipui kanteleesta.
+    Lauloi kaikki kanteleensa
+    Paljaaksi tähti-säteeksi,
+    Lauloi kielet kanteleessa
+    Paljaaksi päivän-paisteeksi,
+    Lauloi naulat kanteleessa
+    Paljaaksi kuun-kuumeeksi.
+    Soitti kynnet kynsistänsä,
+    Soitti suonet sormistansa,
+    Käsistänsä liha-keäpet -- --
+    -- -- -- -- --
+
+    Siinä muinot, muhkiammat,
+    Virren-sepät viisahammat
+    Seisoivatten säikähtyneet
+    Tämän yhen ympärillä.
+    Kaikki ihmitti isosti,
+    Mainittivat tätä miestä
+    Heijän parvesta parraaksi,
+    Sukaksi heijän suvusta.
+    Kukin kahto kummahaksi
+    Tätä Suomen soittamusta,
+    Käyttämistä meijän kielen.
+
+    Eipä tainut _Orpheus_-kaan,
+    Eikä _Ossian_ osanut
+    Parempia pannaksensa,
+    Rueta hänen rinnallen
+    Kieliin peälle kilvoitella,
+    Virren-töillen työskentellä.
+    Runottaret, Laulattanet,[16]
+    _Pindin_ piijat Soitottaret,
+    Eivät hyökään vielä nähneet
+    Eikä taivaassa tavaneet
+    Kauniimpia kanteleita,
+    Koreempia soiton-koneita.
+
+    Ite _Homerus_ ihastui,
+    Ihastui ja ihmetteli
+    Tätä Poikoo Pohjolasta,
+    Tätä parta-suu uroa;
+    Anto kättä, anto suuta.
+    Sylissään häntä sylitti.
+    Kahtoi vielä kanteleesen,
+    Hänen koppahan koputti,
+    Sanoi: "saatatkos salata; -- -- --
+    Sinä riähkä, riemullaisi
+    Sinä lempo, leuvoillaisi
+    Pi'ät sellaista iloa
+    Josta Hiijet himmenöövät,
+    Taivaan vallat vapisoovat
+    Hervehtiipi joka henki."
+    Vastais kielet kanteleessa,
+    Soiton-koneilla sopotti:
+    "Ei meit' laula kaikki lapset,
+    Soittanek sormi jokaisen.
+    Tämäpä Ukon tekemä,
+    Väinämöisen vestelemä,
+    Teki kopan koivun luusta,
+    Taitto tammesta jalakset,
+    Jota koversi kovalla
+    Väinämöinen veihtellänsä,
+    Suomen i'äksi iloksi,
+    Lappalaisten laulannoksi."
+
+    Ukko vanha Väinämöinen
+    Nukahti vasta nukuksiin.
+    Vielä makais vuotta viisi,
+    Vuotta viisi, vuotta kuusi,
+    Nukuksissa hyvän unen.
+    (Uni pettipä Ukonkin,
+    Vietteli makiaan makuun.)
+    Havaihtessaan hään havaihti
+    Kaikki tyhjäksi uneksi;
+    Heinät oli helvistynneet,
+    Ruohot kaikki jo ruostunneet,
+    Linnut lähteneet levollen.
+
+    Kuin hään kahtoi taivoisehen,
+    Siirsi sinnek silmiänsä,
+    (Voi, ihmettä! -- mitä näki)
+    Näki sielä virsuansa,
+    Taivaan räystäällä, renallaan.
+    Yks' oil löttöinen jalassa.
+    Toinen tallus taivahassa;
+    Siinä paulat paisteloovat,
+    Tuohet tulta tuiskuavat,
+    Vilahtaa virsun vitakset.
+
+           *   *   *
+
+    Kosk' oil nousuneet Otavat,
+    Tähet vanhat valaistunneet,
+    Kirkaistunneet kirjoissamme,
+    Sillon näimme myö tämänkin,
+    Virsun vanhan Väinämöisen
+    lässäpäin ilmaantuvan,
+    Väilyvän muihen välissä
+
+    Kuta lauletaan enemmin,
+    Somehimmin soitettaneen,
+    Sitä paremmin paistaavat
+    Nämät seulaisten sätehet.
+    Valkiansa varjeloovat
+    Suomen muinoisat Runojat,
+    Jotka autuast' asuuvat
+    Taivaan aukeella aholla,
+    Vanhanmiehen vainiolla.
+
+    Soita, soita Suomalainen
+    Kaunihisti kanteleellais,
+    Visusti virren-teollais,
+    Näillen vanhoillen uroillen,
+    Miehen kunkin kunniaksi
+    Suomalaisesta suvusta,
+    Joita taivaassa tavataan.
+
+    Kosk' ei peästä moata myöten,
+    Eikä merellä mänemään
+    Tuonek taivaiseen talohon
+    Sinne ikuisaan Ilolaan,
+    Niin on mieli miehillemme
+    Luotu Luojalta hyvältä,
+    Astuamaan aatoksissaan
+    Meren yheksän ylitten,
+    Taivaan puolen kymmenettä,
+    Aina asti aurinkohon,
+    Päivän peälle peäsemähän.
+
+    Meitä juohutus jokainen
+    Näissä meijän Runoissamme
+    Nosteloo moan noroista.
+    Kantaa taivaan koarehellen.
+    Ruvetkee siit' runoillenne
+    Suomen poikoiset poloiset,
+    Tehkee virret viisahammat
+    Jotta saisitten sanoa:
+    "Myö on käyty kerran tuolla
+    Kaikkivallan kartanossa
+    Juuri Jumaloin tykönä,
+    Maistamassa makkeitansa,
+    Naukeitansa nautimassa,
+    Jot' ei maistak moan elävät,
+    Eikä nauti luonnon nauta."
+
+                           G--nd
+
+
+
+
+Rusi Ryynäinen
+
+Moaninkalta.
+
+
+Rusi (t. Ambrósius) _Ryynäinen_ oli syntynyt nuon 1760:en vuuen
+tienoilla _Halolan_ kylässä _Moaninkan_ kappelissa _Kuopion_
+pitäjässä. Hään oli nuoruutessaan käynyt _Pohjanmoalla_, jossa
+hään oppi _puu-sepäksi_, jolla työllä hään elätti henkensäk saakka
+kuolemansa asti.
+
+Se tapahtui hänellen, niin kuin muillen älyillen (snillen)
+joihen täytyy moallisessa ihmis-joukossa suljeta taivaallisia
+aljeita (anlag) että hyö keäntyyvät _surun-lapsiksi_. Niinpä se
+kävi myös _Ryynäisen_ kanssa. Ainoasti silloin, kuin viina oli
+poisjuohuttanut hänen muistonsa _moallisista murheista_, niin hään
+taisi heittee mielensä näillen _henkellisillen huvituksillen_,
+kuhun ei muut kehujat yltynyt. Eli hänen täytyi unouttaa _olennonsa
+moalla_, tullaksensa osalliseksi siitä isommasta _henkellisestä
+ilosta_, joka Runomuksessa on Runojoillen luotu. Mutta "vilja
+voittaa viisahankin, tauti tappaa taitavankin;" hään joutui
+viimeiseksi _Runojasta juomariksi_, ja keänty verkaisillaan yhestä
+henkellisestä ja taivaallisesta nautimisesta siihen roakaan
+moalliseen nautimukseen, joka teki häntä luontokappaleeksi jälleen.
+Sillä jos Runojat jollon-kullon voiteloo kielensä viinan-mehulla,
+joka virvoittaa heijän mieli-juohutusta, niin se ei ouk siksi
+viina joka teki heitä Runojoiksi; -- se myrkyttää heitä, niin
+kuin muitakin Jumalan lapsia, ja soattaa heitä heikkouteen ja
+huonouteen. Sanotaan: "viina villin tekööpi, olut tuopi toisen
+mielen", ja niinpä se toi _Ryynäisellenkin_. Hään oli paha-kurinen
+ja pikainen päissä ollessaan, ja taisi silloin olla kelvotoin ja
+levee-suinen. Hään eli _köyhyytessä_ yhellä torpalla _Kermetlahen_
+kylässä (sillä hänen tavarat ei ollut tästä moailmasta) mutta
+mielensä puolesta hään oli rikas perätin, ja runsaasti lahjoitettu
+runollisilla mielen-juohutuksilla. Pioissa ja juominkissa hään
+oli aina soapuvilla. Kuin ei kuhtuneet häntä muut, niin hään
+tuli omalla käskyllä, aatellen: "koirat kuhtuin tuloovat, hyvät
+vieraat kuhtumatak." Harvoin häntä kaivattiin; mutta kuin ei heitä
+mielittänyt ykskään lauluillansa ja Runoillansa -- silloin oli
+Ryynänen poikessa.
+
+_Ryynäinen_ kuoli v. 1822, ja kannettiin _Moaninkan_ kirkollen, kussa
+häntä hauattiin kuin yhtä Koiroo, koska tämä nykyisin virattomaksi
+heitetty Kappalainen, nimeltä _Björklund_, ei lukena hautoa hänen
+ylitten -- siitä syystä, että hään näinnä viimeisinnä vuosiuna oli
+ollut _viinaan mänevä_(?!)
+
+Tässä loppui hänen _moallinen elämä_, kussa hänellä ei ollut paljon
+iloa viljelläkseen; mutta _henkellisessä tarkoituksessa_ on hään
+ikuistanut nimensä polvinpäiviksi meijän kirjoissamme. Seneistä,
+jos ei Pappi tahtona lukea hänellen ne viimeiset sanat, niin ei
+se kielläk meitä puhumasta hänen _runollisesta jaloutestaan ja
+ansiostaan_. Myö luemme sitävastoin kunniaksemme, että olemme
+ensimäiset, jotka moamiehillemme toimitamme muiston tästä
+miehestämme; ja sillä ikuistamme hänen nimensä meijän Suomalaiseen
+Tarinamukseemme.
+
+Kosk' emme ole käynyt hänen syntymäpaikoillansa, niin emme myös
+ouk soaneet tilaisuutta kuulustella ja ylös-kirjutella muita hänen
+_virren-tekoja_, joita sanotaan paljon vielä löytyvän _Moaninkassa_.
+Nämät kahet Runot, jotka tässä seuraa, ovat ne ainuat, jotka olemme
+hänestä käsittäneet, ja jotka saimme jo Upsalassa v. 1824 Herra
+Oppivalta _Greg. Aminofilta Venäänsoaresta_, samasta pitämästä.
+Meijän on siitten täytynyt kirjoin kautta hankkia parempia
+tiiustuksia sekä näistä _Karhulan peijaisista_, joista Runossa
+lauletaan, että niistä yksinäisistä _nimistä_, joista siinä monessa
+kohin puhutaan: joihen selityksestä meijän tuloo kiitoksella mainita
+Koulunkäyttäjätä (Rektorn) Herra Oppiata _A. Wenellia_ Kuopiossa.
+
+Mitä vielä tulisi tästä Ryynäisestä sanottavaksi, niin myö ilman
+epäillemätäk asetamme häntä ensimmäiseksi[17] tässä meijän
+kootuksessamme _Suomalaisista Peä-Runojoista_, ja annamme hänellen
+toveriksi _Konsan Heikin_[18] Pohjanmoalla, josta vastapäin puhutaan.
+_Ryynäisen_ runo-taito (skaldeförmåga) ilmoittaiksen erinomattain
+_kielen ja mielen sukkeluutessa_. Myö taijamme sanoa hänestä, että se
+oli varsin yksi _pilkka-suu_ (Satirikus) ja _irvi-hammas_ (Gyckelmakare)
+joka kielellisyyellänsä (Munwighet) ja puheen-suloisuuellansa
+nauratti ei ainoasti ne jäykkiämmät miehet, mutta joka
+puheliaisuuellansa (Wältalighet) käytti ne murheellisemmatkin aineet
+iloksi. Näissä kokeissa osoittaiksen hänessä yksi iso _peän-äly_ ja
+_tarkka muisti_, koska hään ilman että niin sanalla ylistää ihtesäk
+(nopeemmin hään alentaiksen) käytti yhen asian _i'äksi kunniaksensa_,
+joka oli aivottu hänellen häpiäksi, ja teki tätä heillen, jotka oli
+sitä aikoineet, _i'äksi häpiäksi_. Että hään mielessään viritti,
+ja taijolla sovitti näin pitkän runon, ilman kirjaan panematak,
+toistaa hänellä myös olleen ankaran muiston. Myö taitaisimme ehkä
+moittia häntä niistä _Ruohtalaisista sanoista_, jotka hään on pistänyt
+virteensä, mutta meijän tuloo muistamaan, että moni piti tätä ikään
+kuin yheksi kunniaksi, ruumentoo näitä _vieraita sanoja_, ja että se
+on aina ollut yksi tapa talonpojissa, nouattoo _herroin syljyksiä_.
+Että hään jollon kullon rypeilöö suutansa ruokottomilla sanoilla,
+muistuttaa meitä, että hään oli _Talonpoika_; ja ettemme näistä
+virheistä närkästy, eikä heitä heitä pois sanoinsa suhteen, toistaa
+että olemme kyllä valaistuneita ymmärtämään, ja suuttumattomatak
+käsittämään, sen _täyellisen luonnon_ hänen Runomuksessaan, ilman
+_sanan karsimatak_.
+
+
+
+KARHULAN PEIJAISET.
+
+
+Että paremmin ymmärtää näitä asioita, joista Runossa puhutaan,
+tahomme eiltäpäin selittää heitä, sitä myöten kuin puheet heistä
+vielä kuuluuvat Moaninkalla. Sanotaan että tämä Ryynäinen oisi
+ollut vähä viinoissaan Talonpojan _Risto Karhuisen_ hautaisissa,
+joita juotiin _Karhulan_ talossa _Halotan_ kylässä _Moaninkan_
+Kappelissa s. 3 p. Toukok. v. 1791, ja koska se silloinkin aina oli
+juonikas, eikä osanut suutansa hallita, niin oli joutunut toisten
+kanssa riitaan, ja tullut salvatuksi sika-pahnaan (eli vanhaan
+heinä-korsuun). Kuinka kauan hään siinä lie ollut ei nimitetäk;
+tiietään ainoasti että hään, peästyänsä sieltä, teki pitkän
+Runon, kussa hään laulaa näistä Karhulan Peijaisista, ja niistä
+villa-lakkiloista, jotka siinä häntä vihaisivat. Koska Lukkari _Jaakko
+Kyösti Hoffrén_ oli tässä Runossa tullut nauretuksi, niin hään,
+Lautamiehen _Poavo Eskelisen_ kautta, paituutti Ryynäisen (vielä samana
+syksynä) käräjään, ja laitto sinnek veljensä, Lautamiehen _Aaron
+Hoffrénin_ asiatansa ajamaan -- koskei hään viihtinyt ite tulla. Kuin
+ei tämä hänen puolus-mies ollut hyvä näyttämään toteen kanteitansa,
+niin Laintutkia (Häradshöfdingen) Herra Lainjulistaja (Lagman)
+_Fabritius_ pyysi _Ryynäistä_ ite laulamaan virttänsä. Oateltuaan
+vähän asiatansa rupeisi hään lauluillen, ja laulo monta tuntia (?)
+perättäin, mutta heitti aina pois ne pahimmat paikat, ja mätti uutta
+siaan. Kihlakunnan-Oikeus ei tainut ottoo kirjaansa kaikkia hänen
+laulujansa, mutta kuunteli heitä pystyllä korvalla, ja koska hään oli
+lakkanut laulamasta, mieleksi ja nauroksi kaiken läsnä-olevaisten,
+niin sanotaan koko riijan siihen loppuneen.
+
+
+
+RUNO.
+
+
+    "Ei sanat sanoihin puutuk,
+    Virret veisaten vähänek",
+    Sanan-laskussa sanoovat
+    Suomen syvät Suomalaiset;
+    Voan mun puuttuupi puheeni,
+    Laulu-virtteini lakkaapi,
+    Sill' on mulla mustat päivät,
+    Varsin vaikia elämä.
+    Sill' on kipu kintahissa,
+    Suoni sormia vetääpi,[19]
+    Pakottaapi peukalota.
+    Peä on kieleni kipiä,
+    Kuiva kurjan kulkku-torvi:
+    Eipä raiku raskas rinta,
+    Eikä kurjan kulkku-torvi,
+    Vaikka ainoiset asiat
+    Vielä varsin voatisivat.
+
+    Tok on vielä toimivampi,
+    Että soan sanan sanoa,
+    Puolen kymmentä puhua,
+    Kuink' on miehet _Moaninkalla_,
+    _Iisalmen_ ison rajalla --
+    Mont' on miestä _Moaninkalla_,
+    Mutta _Moaninkan_ kylissä,
+    Ei ouk monta mielellistä
+    Eikä vakaista varsin.
+
+    Uskon ensin Eskelistä,[20]
+    Pienen Poavalin parasna,
+    Lautamiehen mielellisnä;
+    Tok on _Torsti_ toimivampi,
+    Sata-vaimoinen sanoa.
+
+    Luulin Lukkarin hyväksi.
+    Kellon-soittajan somaksi,
+    Vaikka suuren vaivan kanssa,
+    Kivun kiussain keralla
+    Pyrki meillen meäkimään.
+    Kummat juonet _Kustavillen_,
+    _Joakopilla_ joaritokset.
+
+    Nyt minä puhun _Pukista_,
+    Aiottelen _Oaronista_,
+    (Vaikk' on vaterkin kohta,
+    Eli kuulus' Kummin-poika)
+    Kuin on suuresta suvusta.
+    Asennosta ankarasta.
+    Äväriäs oli Äijä kyllä,
+    Rikas riistaasta perätin --
+    Kunniasta kuuluisampi.
+    _Eskel-voari_ Äijän poika.
+    Sotaherrana somainen,
+    Upserikin uskollinen.
+
+    Is' oil kyllä ihmiseksi.[21]
+    Isä ihmisten tapainen;
+    Rakas varsin rannihinsa,
+    Kuin on ollut kummihinna;
+    Voan on Oaron ankarampi,
+    Viekas, vihasen-lainen.
+    Kyll' on kiltti kirkko-tiellä,
+    Kesti-paikoissa parempi,
+    Okkela on oluen luonna,
+    Viekas viinan-tienuilla.
+    Ei se seästä särpämiä,
+    Sian-kinttuja kitise.
+    Jos oisi Orihin potka.
+    Eli Tamman taka-roaja,
+    Eli sorkka sota-hevoisen.
+    Syöpi voita vuohen verran
+    Palon viiliä vitoopi;
+    Viel' on julma juustollenkin
+    Maito-ruuan maistelia.
+
+    Nyt minun täytyy sanoa
+    _Karhuisten_ kavalat neuot,
+    Kaupiaisten kauhiammat:
+    Ylpee on perätin _Pekka_,
+    Kotonansa suuri koira,
+    Joka pulskasti puhuupi:
+    "Soapi Karhuinen kasakan,
+    Tänä keitona kesänä.
+    Kapan annan _Kaukoisellen_,
+    Senkin otrina ojenan,
+    Kannan kaksi vanteheilla
+    Kuuen päivän kostennosta."
+    Ei _Rusi_ rupia tuohon,
+    Ryhy _Ryynäisen_ penikka.
+    Kapan tahtoopi tasaisen,
+    Puolentoista pulskiasti,
+    Ylisummahan yheksän
+    Viikon-peähän peästyänsä.
+
+    Tois't on juonet Toavitilla
+    Toiset _Toavitin_ asiat.
+    (Rouvarill' on rohkiammat)
+    Vettä viinahan panoopi,
+    Korvon korttelin osaksi,
+    Kaksi kannun kohennoksi.
+    Viel' on pieninen pikari,
+    Jok' on laitettu lasista;
+    Se esinä markan makso
+    Kohta kolmehen ylensi.
+    -- Tuota ouvot osteloopi.
+
+    Jos kukainen kummiksiipi,
+    Kenkin keskensä sanoopi:
+    "Kyll' on kallis kauppa-viina,
+    Suuros-pulloll' suuri hinta."
+    Toavit toisia puhuupi:
+    "Kylläs annat kymmenänkin,
+    Kaksitoista kaikitekkin
+    Ennenkuin elo tuloopi
+    Tänä syyssä syötäväksi."
+    Hyvä vielä Hyökärinä,
+    Kaunis Ruunun-kaupiana!
+    Ensin ostaapi eloa,
+    Rukihia roinistaapi,
+    Jotka leiviksi levittää;
+    Ostaa siitten otriakin,
+    Jotka soutelee sotahan,
+    Kuletteloo _Kuopiohon_.
+
+    Minun täytyypi sanoa,
+    Murehella muistutella
+    Kuin on ukko uupununna,
+    Vanha voari vaipununna,
+    Koatununna _Karhulasta_:
+    Nyt loppu Lohilta pelko,
+    Surma suuri-purstoisilta;
+    Soap nyt Siijat siivon olla,
+    Lahnat loavullans elee.
+    Jopa Muori murnistaiksen,
+    Vanha akka varustaiksen,
+    Leski leikkitäk puhuupi
+    Poijallensa, porstuassa,
+    Kahen kammarin välissä:
+    "Otapa avahin aitan,
+    Puoin pukkari sivala![22]
+    Otas otria vähänen,
+    Kapan kaksi, vantehiseen;
+    Joista juoma laitetahan,
+    Olut pannahan paraiten
+    Vanhan Voarin peijahiksi,
+    Iki-muistoksi Isäisi!"
+    _Marketallen_ mainihtoopi,
+    _Pekan_-vaimollen varottaa:
+    "Osootkos oluen panna,
+    Tehä viinan viisahasti?"
+    _Markettakin_ mainihtoopi:
+    "Viel' on leivät leipomatak,
+    Kakkarat kaputtamatak."
+
+    Sanoo Pekka pensiästi:
+    "Itekma olen isäntä,
+    Veärän-nenän vertahinen!
+    Minä laitan Lankolaiset,
+    Sisareinkin sieltä nouan,
+    Joka kyrsät kypsyttääpi,
+    Paksut leivät paisteloopi."
+    Jurahtaapi _Jussillenkin_,
+    Veljellensä vertahasti:
+    "Sivallappas siivon sihti,
+    Hovista käri hopia,
+    Kaputainin kakka-seula!
+    Minä peijahiin Papillen
+    _Samulillen_ sanelen
+    Tulla kestihin keralla.
+    Saisin sillen siivon-leivät,
+    Kymmen-kapan kyrsäisiä.
+    (Jospa jäisi _Jaakollenkin_,
+    Elikkä _Eskelisellen_,
+    -- Siitten antaisin Oarollen).
+    Muita ruokisin muruilla,
+    Tähtehillä täyttäisihin."
+
+    Tahto tietä _Toavettikin_
+    Kuita muita kutsutahan
+    Tähän kestihin keralla.
+    Sanoo _Pekka_ pensiästi:
+    "Minä laitan Lautamiehet,
+    Kutsun kunnia-sukuiset;
+    En tottele Tolpparista,
+    Loisimiehistä mitähän.
+    (Ruokkia _Rusia_ piteä.
+    Vaikk' on toisen tolparinna).
+    Vielä kutsun kuuluisammat,
+    Herratkin Hevoisten kanssa
+    _Taviniemeltä_ talutan,
+    Sihtierin sivalan tuolta.
+    Tapan valloillen Vasikan,
+    Hiehon hieno-seärisillen,"
+    (Vaan ei anna akka myöten,
+    Mutta puhuupi pulskasti):
+    "Anna vanhenna Vasikan,
+    Parata patukka-hännän!
+    Tuosta toista toivotahan
+    Moallen maijohon-antaja."
+
+    Siitten _Pekka_ pelmastaapi,
+    Pistää puikkohin punaisen,
+    Aika varsan valjahiisen;
+    Ennättääpi _Eskeliseen_ --
+    Tuossa _Poavollen_ puhuupi,
+    Lautamiehellen latelee:
+    "Nyt on Ukko uupununna,
+    Vanha Voari vaipununna,
+    Niin tule sinäkin tuone! --
+    Tuo pikari tullessaisi,
+    Suurus-pullo suurellainen
+    Vati vaskinen kuleta,
+    Tina-kannu kanssa vielä!
+    Ei taija talossa meijän
+    Olla kunnon astioita,
+    Joilla juoma kannetahan,
+    Olut tuuvahan tupahan,
+    Pöyvän peällen pulskiasti.
+    Katahis' on meillä kannut,
+    Tuopit tuohi-vantehiset".
+    Lautamies lupaisi tulla
+    Taitavalla Tammallansa,
+    Joll' on kaunihit kaviot.
+    Silmät kyllä varsin siistit.
+    Korvat korttelin-pituiset,
+    Syltty-keinot kelvolliset
+
+    Niin siitten tuloopi tuolta
+    Luoksen Lukkarin omansa.
+    Kellonsoittajan somaisen.
+    Kuhtuu tuolta kuusi miestä
+    Kahen konkarin keralla;[23]
+    Muorillensa muistuttaapi.
+    (Se oli siitten seitsemäänsi
+    -- Kaheksaas oli vanha _Kaisa_,
+    Aivan Lukkarin Anoppi).
+
+    Niin siitten tuloopi tuolta,
+    _Tavisalmehen_ samottain.
+    Heitti Hestansa pihallen,[24]
+    Tasa-turvan tantarellen.
+    Kulkoo kohta kuistin luokse,
+    Pontiuksen porstuahan;
+    Tuosta lemmaisten tupahan,
+    Aijaisten ala katoksen.
+    Turistaiksen tultuahan,
+    Peristäiksen peästyähän,
+    Puheleepi pulskiasti:
+    "Sais tästä savikko-pelto,
+    Tämän turvan tuomisia,
+    Tämän kärsän käyttähiä,
+    Tämän aivun antemia."
+    Puheleepi pulskiasti,
+    Hattu käissä hartahasti,
+    Kolmikanta kainalossa:
+    "Oli meilläkin meteli
+    Ennen nuorra oltahissa,
+    Naisten palto noapurikset
+    Oomma soanehet osammo,
+    Kumpaisetkin kumppalimmo.
+    -- Niin tule sinäkin tuonek,
+    Paakin Mari matkajaisin;[25]
+    Pane akka ahkiohon,
+    Istutek ite sylihin!
+    Anna konkarin kokea,
+    Töpö-hännän tölkyteliä!" --
+
+    Sieltä veistihin _Väisälään_,
+    Kohten _Kopoisen_ kotia,
+    Karva-kulman kartanohon;
+    Kuhtui tuolta kuulon miehen,
+    Ison-kirkon kirkko-veärti.
+    _Pekka Poavollen_ puhuupi,
+    Lateloopi Laukollensa:
+    Marketalle mainihtoopi,
+    Sisarellensä sivuise:
+    "Niin tule sinäkin tuonek
+    Isäisi itkemääni,
+    Kuinsa viijähään viluhun,
+    Laitetahan paikkaisehen!"
+
+           *   *   *
+
+    Kuin oli ukko uuvutettu,
+    Vanha Voari vaiputettu,
+    Multa peällehen muokattu,
+    Kohta joutuvat kovullen,[26]
+    Kaunihisti _Karhulahan_;
+    Tuossa ruuallen rupeisiit,
+    Pöyvän arihan akahtiit.
+    -- Jopa nurkasta nurahti,
+    Sano katko karsinasta,
+    Rusi runttihin seassa:
+    "Isot istuvat rahilla,
+    Pöyhkiämmät pöyvän-peässä,
+    Taitavaisimmat takana,
+    Lavihtalla Lautamiehet.
+    Minä katko karsinassa,
+    Sirkka-louhossa sihisin,
+    Vaikka suuren vaivan kanssa
+    Vestin kirstun kirvehellä,
+    Höylän kanssa kaunistelin
+    Karhuisellen kammariksi.
+    Muill' on tässä mustat pöksyt,
+    Sinertävät silkki-viivat;
+    Mull' on nuttu nukka-vieru,[27]
+    Takki tappuran-sekainen.
+    Muill' on tässä mustat turkit,
+    Turkin puuhat puuhkiammat,
+    Jotk' on lankoista lavottu,
+    Punaisista, pulskalaiset,
+    Siniset sivullen pannut;
+    Mull' on karvatoin kasukka,
+    Kurehihin kuivattunna
+    Kupehilta kummaltahan.
+    Muill' on tässä mustat kenkät,
+    Sekä soappahat somaiset,
+    Jos on alla anturatkin,
+    Korskat varsin konstilliset,
+    Kolmen tuuman korkeuiset.
+    Minä runhustan rajoilla,[28]
+    Kuin on katkon kalla-luista --
+    Ruunan-päillä runtustelen.
+    Muill' on pitkät piipun-varret
+    Kopat varsin konstilliset,
+    Koko kopran täyvelliset;
+    Minä tynkällä typitän,
+    Täpyttelen tähtehillen."
+
+    Tuosta suuttu suuret voarit,
+    Villa-lakkiset vihastui.
+    Alettiinpa arveltohon,
+    Minnäk pannahan pahoa,
+    Ruttoa kuletetaan?
+    _Pukki_ tiesi pulskan neuon,
+    _Oaron_ siitten ankaramman:
+    "Täss' on pahnoa pahanen,
+    Kuisti on kujan perällä --
+    Kannetahan katrakkahan!"
+    _Olli_ oikehen puhuupi,
+    _Husson_-poika pulskiasti:
+    "Ei sinnek Sikahin luokse,
+    Karva-kärsäisin käsiin
+    Vielä runtetak Rusia!
+    Hyvä on Nikkari nimeltä,
+    Puuni-seppä, sen mokoma;
+    Oikeen ovet tekööpi,
+    Akkunat asetteloopi.
+    Teki kahet kankas-tuolit,
+    Kahet kaunihit peräti,
+    Vasta sai ne valmihiksi
+    Eilen ennen ehtoisia.
+    Korskat korvihin rakensi.
+    Kaunisteli kakko-puikot.
+    Onhan tässä olki-huone,
+    Lato laitettu jalosti;
+    Pankaat pakanat sen tuone
+    Taitavasti -- jos tahotten!"
+
+    Rusi tuonek runtettihin,
+    Kannettihin katrakkahan.
+    _Ambrósius_ ajatteloopi
+    Tuolla yksin ollessansa:
+    "Olin minäkin ennen miessä,
+    Mies-lukua tehtähissä;
+    Nyt minä poloinen poika
+    Savohon sanaksi jouvun,
+    Kylän-juoksukski kykenen."
+    Isot istuivat tuvissa,
+    Pöyhkiämmät pöyvän-peässä,
+    Oven-suussa suuret muorit,
+    Karsinassa kalsihimmat.
+    Nuoret piikoiset pihalla,
+    Poika-miehet porstuassa,
+    Tuolla suutahan sukivat
+    Muna-voilla vehnäisillen,
+    Leivillen rukihisillen.
+    Minä _Rusi_ raukka-poika,
+    Heinä-korsussa kohisin.
+
+    Olipa auki akkunata,
+    Pikkuruisen piirullansa,
+    Tuosta pistäksen pihallen;
+    Siitten tunkeksen tupahan.
+    Olisin olutta juonut,
+    Voan ei _Oaron_ antanunna.
+    _Eskelinen_ ennättääpi
+    Puhumahan pulskiasti:
+    "Ei tämä olut olisi,
+    Juoma, markkaa maksavainen,
+    Voan on pullo pulskallainen,
+    Kuin on kullattu sisältä."
+
+    Istuin keskellen isoja,
+    Lauman lain-lukiaitten,
+    Syystä kylläkin kyselin:
+    "Ounko minä millonkahan
+    Tehnyt työtä törkyllistä --
+    -- Miksi minua sinne
+    Kannettihin katrakkahan?"
+
+    Sanoo Lukkari lujasti:
+    "Keltä on sinulla käsky,
+    Kusta oppisi otettu,
+    Soatu sanat mokomat,
+    Joit' ei muista mun sukuini,
+    Eikä tiiä _Eskelinen_?"
+
+    Sitten _Oaron_ ankarasti
+    Otti piiskan, pitkä-siiman,
+    Apiltansa aika ruoskan,
+    Joll' oil Juhtat neuvonunna,
+    Orihit opettanunna,
+    Tamman-pojat taitavaksi.
+    Alkoi runnella _Rusia_,
+    Pientä miestä pikkuruista.
+    _Mustavirran_ viisas _Husso_[29]
+    Autto ankara peräti,
+    Astupa avuksi kohta,
+    Ajo poikkeen _Pontiuksen_
+    _Pilatuksen_ pieksämästä.
+    -- Se on miestä _Moaninkalla_,
+    Kirkkokunnan kuuluisainen,
+    Jot' ei viina viivyttele,
+    Jouvuttele suuret juomat.
+    Joll' on akka aivan pieni,
+    Vaimo voaksahan pituinen.
+    Jok' on suuresta suvusta,
+    Asennosta ankarasta.
+
+    Vanha _Antti_ ajatteloo[30]
+    Kuin kahtoo katoksen alta,
+    Kuistin kusisen sisältä:
+    "Jospa joutuneen minäkin
+    Selkäsaunahan samahan!
+    Voan en minä mielelläni
+    Rupia _Rusin_ tavalla.
+    Riksin otan riinistäini,
+    Taskusta tasa-parisen,
+    Kura-suusta kukkarosta,
+    Jonka annan _Oaronillen_,
+    Tuolla seästän selkä-luini,
+    Vanhat hartiain vapahtan
+    Alta ruoskan ankaramman."
+    _Karhuisellen_ kanteloopi:
+    "On nyt ilkiät Isänät,
+    Kuin ne kuhtu vierahiksi
+    Tuohisepän _Tuppuraisen_,
+    Rautiain rakin-näköinen.
+    Joll' on silmät siivottomat,
+    Kasvot vielä karstasimmat
+    Kuin on kasvot suuren Karhun.
+    Peällä vanha verka-västi,
+    Aijas-karvainen kasukka,
+    Jot' on paljon paikattunna,
+    Röky-lailla röhnästetty;
+    Roasut roiskaiset jalassa,
+    Lian kanssa liitettynnä,
+    Paskan kanssa paatettunna.
+    Viel' on soappahat somaiset,
+    Niin kuin kuivat koskus-torvet."
+    Kohta korvallen tapaisi,
+    Kumautti kulmallehen
+    _Anttia_ äkkiä varsin.
+    Sai nyt _Antti_ aika paukun.
+    Kumauksen kulmallensa.
+
+    Ei Savosta sanat puutu,
+    _Kuopiosta_ kummat juonet,
+    Jos puhuisin puolen vuotta,
+    Eli kuuta viisi, kuusi.
+
+    Petettiinpä _Pekka_ vielä,[31]
+    _Musta-soaren_ sartti-poika.
+    _Hyttylän_ hyvät emännät,
+    Akat vanhat viettelykset,
+    Surulliset suuret muorit,
+    Saivat saunahan saloa
+    _Pekan_ olla yksinänsä
+    Jossa _Moaria_ makaisi,
+    Pieni tyttö pitkällänsä.
+    _Moaria_ makia...
+    Tuolla miehen mielitteli,
+    _Husson_ pojan hullutteli.
+    Oamulla äkin varahin,
+    Kohta päivän koittahissa,
+    Voati kohta _Vainikaista_
+    Puhumahan puolestansa.
+    Anto kihlat aika-lailla
+    Kautta vanhan _Vainikkaisen_.
+    Siitten _Kaisa_ karmistaiksen,
+    _Kaisa_ kolkosti puhuupi:
+    "Ei sinua Noijat noijek,
+    Hulluttele _Hussolassa_!
+    Kuinma annan kulkuhuisi
+    Lemmon-paskoa palaisen
+    Pirun-kusta pikkuruisen."
+
+    Virsi on tehty syytä myöten,
+    Asioita arveltunna:
+    Tät' on virttä viikon tehty,
+    Koko kolmet vuorokautta
+    -- Vast' on soatu valmihiksi.
+    Mutt' tuosta murehteleevät,
+    Toruvatkin toisen kerran.
+    _Oaron_ keänsi kulmahansa,
+    Kahteloopi karsahasti,
+    Eipä huoli _Eskelinen_
+    Virrestä vihanen olla,
+    Laulusta lakihin männä. --
+
+    Enkä voi minä enemmin,
+    Jaksa _Pukista_ puhua!
+    Nyt minä murehtin muuta,
+    Valittelen vaivojani
+    Kulettaissa _Kuopiossa_,
+    Kärähissä käyttähissä;
+    Siell' ei viina viskoo peätä,
+    Olut ohtoa kivistä.
+    Kyllä ois olutta ollut,
+    Karsta-vettä _Kuopiossa_,
+    Voan ol' kuiva kukkarossa
+    (Matti taskussa makaisi).[32]
+    Riimut rieskana mänivät,
+    Ketjut kesku-ruokaisina;
+    Ei niistä ehoni elätty,
+    Eikä kystä kyllin syötty.
+    Jo olisin kurja kuollut,
+    Koatununna kaupunkihin,
+    Mutt' oil _Kermo_ kelpo poika,
+    _Peräniemeltä_ peräisin,
+    Joka autto atrialla,
+    Muisti murkinan-palalla.
+    Anto vielä viina-ryypyn,
+    Olut-tuopin oivallisen.
+
+                     Ryynäinen.
+
+
+
+RIEMU-LAULU JUUBEL-JUHLASTA v. 1817.
+
+
+Tämä Ryynäisen Runo, jonka minä myös olen käsittänyt Herra Oppivalta
+_Gr. Aminofilta_, ja jossa Runoja koetteloo että kunnialla ylistää
+sitä juhlallista käyttämistä, jolla Kuopiossa rajuutettiin tätä
+meijän viimeistä Juubel-juhloo (eli Juhlin-juhloo, niin kuin myö
+tätä kuhuttaisimme) osottaa kyllä, että se on valinut yhen aineen,
+joka oli kokonaan ulkopuolella hänen mieli-luontoansa. Se ei tässä
+viritä virttensä viinan-tiloilla, eikä tuttavien parvessa, kussa se
+aina Runoillansa oli "Kukko linnassa." Tässä tavataan ainoasti yhtä
+yksinkertaista yritystä (sic!) että kehua näillä vierailla nimillä,
+joihen sovittamista meijän kieleemme aina on vaikia, ja teköo meijän
+Runojamme yheksi kuivaksi Tarinamukseksi; vielä siittennik, kuin
+heihin tunketaan näitä pitkiä vuosi-lukuja, jotka ovat luettavia,
+voan ei laulettavia. Tätä vikoo tavataan ussein nykyisämmissä
+Runoissa, joka on syntynyt siitä, että ne ovat ikään kuin yht-aikoo
+aivotut sekä Runomukseksi, että Tarinamuksen varaksi; mutta --
+"ei sovik kahta Kuninkasta yhteen linnaan." Muutoin niin kieli
+on tässäkin selvä ja sointuva, ja kussa ei puhutak _Lutheruksesta,
+Wittenbergistä, Melanchthonista, Tetzelistä, Samosatenista ja
+Upsalasta_, eli Rohvessoriloista ja Tohtoriloista (yksi merkellinen
+sanan-pepu talonpojan suussa) niin siinä aina äimistyy oatoksia aika
+Runojan.
+
+    Tuli toas kynälle kyyti,
+    Vuoro vuollulle sulalle.
+    Halaistulle höyhenille!
+    Pännä pistetty läkissä
+    Muisto-merkkiä tekeepi
+    Kansan kasvavan etehen.
+    Tulevaisten tunnustella
+    Juhlan julkisen pitosta,
+    Johon Keisari kehoitti,
+    Suuri voipa voimallinen,
+    Valtias Venäjän-moalla.
+
+    Kuin oli kulunut kaikki
+    Loka-kuu lopulle käynyt,
+    Vuonna kuin on kirjotettu
+    Ja tuli tuhannen peälle
+    Kului kaheksan sataa
+    Sen peälle seitsementoista:
+    Silloin siunattu Solenni,[33]
+    Juubel-juhla julkisesti
+    Vietettihin vielä kerran.
+
+    Esivalta ensin, kaikki
+    Herrat oikenen omaiset
+    Sitä suurella ilolla
+    Kuuluttivat, kunnialla.
+    Sitä Piispatkin pitivät,
+    Rohvessorit ja Rovastit,
+    Kaikki myöskin Kappalaiset,
+    Kaikki kappelin papitkin,
+    Apulaiset aivan kaikki
+    Henkellisellä halulla
+    Kutsuvat kokohon ensin
+    Seurakunnat selkiästi,
+    Aivan oamusta varahin.
+    Kaunistivat kirkot vielä
+    Varsin kynttälin valolla.
+    Itse peällensä pukivat
+    Juhla-voatteensa valitut;
+    Siitten astuivat sisällen
+    Heti Herran huonehensa,
+    Voimalla varustetulla
+    Seurakunnillen selitit,
+    Ilmoittivat ihmisillen
+    Opin oikian menoista,
+    Jonka Tohtori totuinen,
+    Julkinen Jumalan pappi,
+    _Lutherus_ lujaksi laitti[34]
+    Kaupunkissa kaukaisessa,
+    _Wittenbergissä_ perusti.
+
+    Paljon siitäkin puhuivat,
+    Kuinka kunnian Jumala
+    Hänen voimalla varusti,
+    Lahjoitti lavian tievon
+    Henkellisissä hänellen;
+    Pani paljon uskallusta,
+    Rohkeutta runsahasti
+    Yli Poavin ylpeyven.
+    Apulaisen annoi vielä
+    _Melanchthonin_ mainittavan.[35]
+    Nämät tohti toimellansa
+    Vastoin Poavia puhua,
+    Sekä _Tetzelin_ tekoja,
+    Niin myös _Samosateninkin_,
+    Jotka oli Poavi pannut
+    Synnin kaupalle sysänyt;
+    Raha rikosten etestä
+    Piti Poavillen tuleman,
+    Kirja siitten synnin peälle
+    Piti _Tetzelin_ tekemän,
+    Että vielä eteskinpäin
+    Soapi synnissä eleä.
+    Monta muuta kauhistusta,
+    Taikaisiakin tapoja,
+    Muita Munkkien menoja,[36]
+    Jot' ei kykene kynällä
+    Panemaan paperin peälle,
+    Oppimatoin ollenkaan,
+    Kosk' ei Oppinut osaja[37]
+    Poavin juonia jutella.
+    Katoi kirjat kaupunkeista,
+    Katoi kaikista kylistä,
+    Ei soatu sitä lukea.
+    Vähä kuulla kirkoissakin,
+    Eikä yhellä ajalla
+    Soanut soarnata kukana
+    Siinä selvässä valossa,
+    Kuin sen _Jesus_ jätti meillen.
+
+    Voan koska herahti Herra
+    Tämän sankarin sytämmen,
+    Josta silloin soarnattihin;
+    Tämä soatti soarnoillansa,
+    Kaunihilla kirjoillansa
+    Ristikunnat rikkahaiksi.
+    Annoi Roamatut avata,
+    Laitti lapsille osansa.
+    Kirjat kaunihit kätehen,
+    Joihin kuitenkin käsittit
+    Kaikki kalliimmat asiat.
+
+    Koska nyt kolmet sataa
+    Aastaikoja alusta
+    On jo kuitenkin kulunut,
+    Koska yhteinen kokous
+    Sattunut on Upsalassa,[38]
+    Kussa nyt itse Kuninkas,
+    Seävyt kaikki suosiolla,
+    Isät suurella ilolla
+    Otit vastahan vapaasti
+    Tämän opin onnellisen.
+    Tämän toivotun totuuen.
+
+    Niistä syistä on näkynyt
+    Kuninkaitten kuuluisillen
+    Ruotsin vallassa vapaassa
+    Panna pyhäksi iloksi
+    Ristittyillen riemu-päivä,
+    Jonka Jumala sovitti,
+    Että meille, kuin elämme
+    Sa'an yheksän ajalla --
+    Saimme jo kahesti kuulla[39]
+    Juubel-juhlan vietetyksi.
+
+    Ei tämä elävä kansa,
+    Tuskin myös tuleva kansa,
+    Soane kuulla kutsuttavan
+    Juubel-juhlalle kokohon,
+    Solennille soitettavan.
+    Asiat on aivan suuret,
+    Josta puhumaan pitäisi;
+    Voan on puhe puuttuvainen,
+    Yksinkertainen yritys.
+
+
+
+
+Yrjö Hirvoinen
+
+Ristiinasta.
+
+
+Talvella vuonna 1823 kulki Juvalla yksi miero-ukko, joka Hevoisineen
+kävi kylästä kylään kiertämässä, eli kerjäilemässä niin kuin meillä
+sanotaan. Hänellä ei ollut muuta reissä kuin yksi säkki, joka oli
+hänen ainua aittansa, ja kussa hään säilytti niitä ruokapalaisia,
+jotka annettiin hänelle ja hänen Runo-ruunallensa (Pegás). Minä näin
+häntä Joulu-pyhinnä _Vintturin_ luonna _Männymäellä_, kussa hään
+yhellä jalallansa lauleli olven eäressä, ja lauluillansa kootti sinne
+koko kylänkunnat kuuntelemaan. Hänen nimensä oli _Yrjö Hirvoinen_,
+ja sanoi olevasek Ristiinasta kotoisin, ehkei hänellä ollut kotia
+niin taivaallista. Ite hään oli varsin onnellinen mielestään, ja
+lauluissaan niin mielullinen, että se heihin unohutti kaikkia muuta.
+Nähessäin häntä, juohtui minun mieleen _Diogenes_ tynnörinensä, ja
+oattelin: jos _onnellisuus_ ainoastaan seisoo siinä että olla _ilman
+huoletak_, niin ei löyvyk näitä miehiä onnellisempia! Hänen isänsä,
+samalla nimellä (Yrjö Hirvoinen) oli ollut sotamiessä, ja asunna
+Ristiinan kirkolla; hänen äitinsä nimi oli _Anna Skottman_. Ite
+hään oli jo nuoruutessaan tullut vaivaiseksi oikeesta jalastaan,
+ettei hään kyenyt käyvä, jostapa Hevoinen oli hänelle tarpeellinen.
+Hään oli ollut aikanansa tolppari; mutta ne moalliset menot eivät
+ouk tahtoneet häneltä kävestyä. Hänen vaimonsa _Anna Valkoinen_ --
+sekin oli ollut roaja-rikko, sillä se oli tullut sokeeksi. Niin
+että se kyllä näytti meistä ouollen, mistä se lie soanut näitä
+ilon-aineitansa. Tästäpä nähään että ihmisissä löytyy toinenkin
+mieli, ei ainoasti se luonnollinen tahi moallinen; ja että tämä
+toinen mieli ussein näyttäiksen meillen luonottomaksi, koska sillä
+ei ouk tämä moallinen luonto. Niinpä Ukko _Hirvoinen_ ei pannut
+suutansa suruillen näistä ruumiillisista murheistansa, mutta
+hukutti heitä näihin henkellisiin huvituksiin, ja oli lauluissansa
+varsin onnellinen. Hään piti joulua Juvalla kauvemmin kuin ykskään
+muu. Ja kuin toisten ilot oli aikoa loppunut, niin silloin _Yrjö_
+vielä veisaisi laulujansa kylän raitteilla, ja hujautti heitä
+kujan-suussa.[40] Minä kuulin että hänellä oli monia äkkinäisiä
+Runoja, joita en ole ennen kuulut; ja kuin kyselin näitä, niin
+hään sanoi heijän olevan omatekemiään. Minä otin häntä kanssaini
+Pappilaan, kussa minä viinalla laulatin kaikkia hänen laulujansa,
+joista minä tässä toimitan kolmet, jotka ovat minusta niitä
+paraaimmia. Heissä ei löyvyk mitä myö varsin _Runomukseksi_ kuhumme,
+kuitenkin heitä luetaan ajan-ratoksi, muihen puutteessa. Runollisessa
+ansiossa hään ei ouk Ryynäisen kanssa verrattavana -- ei ies että olla
+hänen jälkiimmäinen. Kuitenkin olemme asettaneet häntä tähän, ei
+hänen _Runomuksensa_ suhteen, mutta näihen _runoaineensa_ suhteen; koska
+se on tässä ottanut yhtä _tarintavaista_ ainetta (ett historiskt ämne)
+laulataksensa.
+
+
+
+JYRÄNKÖ.[41]
+
+
+Jos tämä Runo on itestään kehno ja runotoin (opoetisk) niin syy
+taitaa olla aineessa enemmin kuin laulajassa. Se joka tahtoo vähästä
+kehua, tahi paisuu tyhjästä, hänestä nauretaan, niin myös hänen
+puheestaan. Minä en tunnek lukenoonko Heinolaiset tämän Hirvoisen
+Runon kunniaksensa vai pilkaksensa; mutta kyllä ukko, joka ei lie
+muita kaupunkia nähnyt, on koittanut, että parraan ymmärryksensä
+myöten ylistää kaikkia, yksinkin portit ja korstenit. Luulisi tämän
+hyväksikin kaupunkiksi, josta näin jalosti lauletaan:
+
+    Ajattelen ankarasti
+    Miten virsi veisatahan,
+    Sana-laskut lauletahan
+    Suloisesta Suomen-moasta,
+    Kylän-peästä kuuluisasta,
+    Herttaisesta _Heinolasta_,
+    _Jyränköstä_ jylkisestä.
+    Siinäpä on kaunis kaupunk'
+    Suloissesa Suomen-moassa,
+    Jos on punaiset pytinkit,
+    Kaikk' on kaksin-kertaisia;
+    Jotk' on sisältä siniset,
+    Kullan karrella kuvatut,[42]
+    Jos on korjat korstenitkin
+    Katon piällä kaunihisti;
+    Kuin on muurit mörjättynnä,
+    Kaklunkit on kaikki tyyni
+    Mualinkilla mualattunna.
+    Onpa ovet oivalliset,
+    Peili-lauvat laitettunna,
+    Ruusun-kanssa ruusattunna;
+    Onpa lukotkin lujimmat,
+    Avaimmet on ankarammat;
+    Onpa puhtaat porstuatkin.
+    Kuin on raput rakettunna,
+    Värin kanssa värjättynnä,
+    Katoksill' on kaunistettu;
+    Kartanot on kauniit kaikki
+    Jylkisessä _Jyränkössä_,
+    Kylänpiässä kuuluisassa,
+    Suloisessa Suomenmuassa.
+
+    Onpa selvät sisus-kalut,
+    Pöyät, kuapit kaunihimmat,
+    Tuolit, sohvat, aivan sorjat.
+    Sänkyt, hyllyt, aivan hyvät,
+    Onpa ikkunat ihanat,
+    Kuin on lasit laitettunna,
+    Kartenit on kahen puolen.[43]
+
+    Voi sinä jyIkinen _Jyränkö_!
+    Kuimma tiijän ajan-tievot,
+    Tunnen tuossa tunnin miärät,
+    Kuin on uurit oivalliset
+    Kammarissa kaikissakin
+    Nauloillansa näkymässä;
+    Kuin on selvät seinä-kellot,
+    Jotk on suatu saliloillen,
+    Jotka soivatte somasti
+    Tuossa korviin kuuvellessa,
+    Kaksin, kolmin kaikkumassa.
+
+    Voi sinä jylkinen _Jyränkö_!
+    Tämä kylä kuuluisampi
+    Suloisessa Suomenmuassa.
+    Asukkaat on ankarammat:
+    Suomenmuani Muaniherra
+    Suomen muata suojeloopi,
+    Halusesti hallisoopi,
+    Oikeuvet oivaltaapi;
+    Onpa kanssa Kammareerit
+    Jylkisessä _Jyränkössä_,
+    Kanselia kassomassa,
+    Jos on Ruunun rotokollat,
+    Kaikki tyyni Suomen-kartat;
+    (Pankottain on paperia)
+    Jos on siitten joka sielu
+    Suloisesta Suomenmaasta
+    Ylöspantu pännän kanssa,
+    Tähän Liäniin laitettunna,
+    Ise kukin kirkko-kunta --
+    Papit Herran palveliat
+    Seurakunnat selvittännä,
+    Kirkonkirjat kirjuttanna,
+    Puhunut Puukhollarillen,[44]
+    Herroillen Herskriivarillen,
+    Henken-panossa on pantu --
+    Kaikk' on tiällä Kanselissa
+    Jylkisessä _Jyränkössä_,
+    Löyvetään löysriivälitkin,
+    Kaikki tyyni karkulaiset.
+    Siitten suuri Suomenkanssa
+    Kanselissa kassotahan:
+    Kuinka huonot huojetaani,
+    Kutka henkelt' heitetääni,
+    Kutka pannaan piä-rahoillen,
+    Asessuorit asettaavat,
+    Luvun-teossa luvetaan
+    (Voatiipikin Esivalta
+    Ruunu-rahan rakennusta.
+    Valtakunnan vahvistusta.)
+    Suloisesta Suomen-muasta
+    Kaikk' oo tiällä Kanselissa
+    Jylkisessä _Jyränkössä_.
+
+    Tiällä tilat tiiätääni --
+    Ruotiloista, Numeroista,[45]
+    Kylän-päitä kysytääni --
+    Jossa suuri Suomenkanssa
+    Joka päivä jutteloopi,
+    Käräjätä kävelööpi.
+    Silloin suuret Suomenherrat
+    Atestista aatteloovat
+    Kuink' on laitettu muan-laissa,
+    Kuinka virkkoi vierasmiehet,
+    Kuinka tunnolla totisti,
+    Kuinka valalla vahvisti.
+    Konttuorista kohottaavat
+    Raja-kartat kasseloovat,
+    Piiri-kirjat perustaavat,
+    Mitankin nimet nimittäävät,
+    Jonk' on tehneet Terehtyörit.[46]
+    Koska piätös piätetähän,
+    Suomenmuani Muaherra
+    Silloin kiäntääpi kätensä,
+    Pännän kanssa piättelööpi.
+    Tähän lak' on laitettunna,
+    Kaikki tyyni Kanseliihin
+    Jylkisehen _Jyränköhön_.
+    Näinpä virret veisatahan
+    Jylkisestä _Jyränköstä_,
+    Hallitukset huastetahan
+    Että tuhmat tuntisivat,
+    Ymmärs' yksinkertaisetkin
+    Suloisessa Suomenmuassa,
+    Oikeuven olennoista;
+    Kuin on kaikki Kanselissa
+    Jylkisessä _Jyränkössä_.
+
+    Voi sinä Jylkinen _Jyränkö_!
+    Tämä kylä kuuluisampi
+    Suloisessa Suomenmuassa,
+    Tallella Ruuniin tavarat,
+    Raketinkin Ränteri'it,[47]
+    Makasiinit Suomenmuassa.
+    Onpa vahvat Välskäritkin
+    Jylkisessä _Jyränkössä_,
+    Tohtoritkin toimelliset.
+    Asetetut Apoteekit,
+    Laitettunna Lasareetit,
+    Jos on siukkoja sisässä,
+    Sairaita suatetahan
+    Suloisesta Suomenmaasta.
+    Tässä köyhät korjatahan,
+    Ruaja-rikot ravitahan,
+    Vaivaisetkin vuatitahan,
+    Ruunun ruuall' ruokitahan;
+    Vielä rohot ruuan kanssa
+    Tohtorit ne toimittaavat.
+    Joka päivä jouvuttaapi
+    Liäkitykset lähättääpi,
+    Pitaliset puhistaapi,
+    Näitä tekis tervehiksi.
+
+    Voi sinä jylkinen _Jyränkö_!
+    Kuin on vahvat Hantverkerit,[48]
+    Suutaria, Reätäliä,
+    Kaupunniss' on Karvalitkin
+    Jylkisessä _Jyränkössä_.
+    Onpa vahvat Varvalitkin,
+    Väkevät on Värjälitkin,
+    Mestarit on melkiämmät.
+    Onpa sielä selvät Sepät,
+    Kisellit on kerkiämmät,
+    Opinpojat oivalliset,
+    Palveliatkin on parraat
+    Kaikissakin kartanoissa.
+    Seurakunta kokonainen
+    Kylänpiässä kuulusassa
+    Jylkisessä _Jyränkössä_.
+
+    Voi sinä jylkinen _Jyränkö_!
+    Kuin on tehty Temppelitkin,
+    Kirkko keskellen kylee.
+    Papp' on Herran palvelia,
+    Jok' on selvä sielun-paimen.
+    Onpa luja Lukkarikin
+    Veisomaani vänkiästi,
+    Herran-iänen hellästi.
+    Sunnuntaina suuri ilo
+    Jylkisessä Jyränkössä;
+    Kuuluu kuparit kotiini,
+    Kirkon-soitto soria kyllä
+    Kaikkuu kaikkiin kartanoihin;
+    Vielä ilo ihanampi,
+    Kirkko-veisu vänkiämpi. --
+    Kuin on portit pyvättynnä
+    Jylkisessä _Jyränkössä_,
+    Rauta-linkut liitettynnä,
+    Pihti-pielet perustettu --
+    Ne on auki avattunna.
+    Ise kukin kotonansa
+    Korvillaase kuunteloopi
+    Usko-virttä veisatessa
+    Kuinka kuutaan hurskahasti,
+    Kuinka palvellaan parahin,
+    Jumalata julkisesti
+    Pyhä-päivee pyhitessä.
+
+    Voi sinä, jylkinen _Jyränkö_!
+    Tämä kylä kuuluisampi
+    Suloisessa Suomenmuassa.
+    Kuin on vahvast varustettu.
+    Vahvat vanki-kartanotkin,
+    Vannoitetut vanki-nihit,
+    Jossa vankit valiltahan.
+    Pahateot paimetahan;
+    Ettei kansass' ois kamina,
+    Seurakunnassa sevutos;
+    Varkaat kaikki vuaralliset,
+    Murhamiehet, muutkin synnit,
+    Esivalta varoittaapi.
+    Ruunun raitat rakettunna,
+    Vanki-talot varustettu
+    Suloisehen Suomenmuahan.
+    Kyyin kanssa kulettaapi
+    Jylkisehen _Jyränköhön_
+    Suahaanpa sakon-alaiset,
+    Viijään vesi-leiväläiset --
+    Nämät vankit vallollahan.
+
+    Voi sinä jylkinen _Jyränkö_!
+    Tämä kylä kuulusampi
+    Suloisessa Suomenmuassa.
+    Tästä harmaat huasteloovat[49]
+    Kuin on ennen ennustettu,
+    Riitinkilla riitattunna,
+    Kaupunniksi kassottuna
+    Tämä paika parahaksi
+    Suloisessa Suomenmuassa.
+
+    Voi sinä jylkinen _Jyränkö_!
+    Kavun-suussa sula salmi
+    Kymin-koski kuuluisampi[50]
+    Jok' ei jeähän jeävykkähän,
+    Suloo syvän-talvellakin.
+    Parahalla pakkaisella
+    Tässä vesi viereksiipi,
+    Lainehtii kuin meren lahti.
+    Ompa silta siihen suotu,
+    Käsi-puut on kahen-puolen,
+    Maantiekin on mainittava
+    Jylkisehen _Jyränköhön_,
+    Jossa Herrat Hevoisillaan
+    Vaunuillansa vaeltaavat.
+    Siitä suuri Suomenkansa
+    Matkojase matkustaapi,
+    Asioita ajelloopi.
+
+    Nyt on virsi veisattunna,
+    Seremóni selitetty
+    Jylkisestä _Jyränköstä_.
+    Kielelläin oun kirjuttanna,
+    Mielelläin oun muistuttanna,
+    Älyllä ajattelunna;
+    Nytpä nimensä nimittää,
+    Julkisesti julistaapi
+    Seurakunnan kuuluisasta
+    _Ristiinahan_ pitäjästä
+    _Jöran Hirvoinen_.[51]
+
+                    Hirvoinen.
+
+
+
+HEINOLAN MARKKINAT.
+
+
+Kuin Runoja oli lauluissansa ensin ihmitellyt tätä _Jyränkön_
+kaupunkia, niin hään vielä erittäin runoilleepi heijän
+_markkinoista_, niin että se kyllä näyttää, kuin oisi tämä kaupunki
+paljon pyörytellyt hänen mieltänsä. Hään laulaa:
+
+    Mieli-juotella julistan
+    Kuinon syksyllä, suvella,
+    Keväellä kerkkiällä;
+    Silloin suuri Suomenkansa
+    Kovahasti kokountuupi
+    Jylkisehen _Jyränköhön_.
+    Kuin on latsit laitettunna,
+    Miärä-päivät piätettynnä;
+    Markkinat on mainittavat.
+    Jossa samuu _Savolaiset_,
+    _Pohjolaiset_ polisoovat,
+    _Hämäläiset_ helisöövät.
+    Tuli tänne _Turun Liäni_,
+    _Helsinkistä_ suuret Herrat,
+    Kaupunkista Kauppa-miehet
+    Kyyin kanssa kulettaapi,
+    Tavaroita tanhuillen.
+    Kuinon puo'it pyvättynnä,
+    Lauvoista on laitettunna.
+    Silloin suuri Suomenkansa
+    Kaupuniss' on kahen-puolen,
+    Onpa toisia torilla;
+    Piikkinäitä pihti-pieliss',
+    Kahvi-pannuja kavulla
+    Rahtyörit on rakettanna --[52]
+    (Paloviina parempana).
+
+           *   *   *
+
+    _Hämäläiset_ helisöövät
+    Sillan-suussa, sunti-paikka
+    Jossa parret parisoovat.
+    Väki valta vaeltaapi,
+    Tahtoi kuatua kaupunti;
+    Ajoivat Muaherran muahan,[53]
+    Piältä kassoi Kammareerit.
+    Oli vahvat vahti-miehet --
+    Otti kiini kiiruhusti,
+    Voati vanki-kartanoihin.
+    Miehet tuotiin tokki-huusiin.
+    Koska päivä piätettihin,
+    Aamu toinen alottihin,
+    Tuli Tuomar' tutkimaani
+    Kuinka eilen elettäni.
+    Silloin vankit vastaellivat:
+    "Hyvät Herrat helpoittaaka!
+    Eilen tässä elettäni,
+    Rahallamme ravittini,
+    Toverit on toisin-käsin. --
+    Viina tämän villin suatto!"
+    Tuomarit ne tutkistivat
+    Juoma-sakot juttelivat.
+    -- Laskit vankit vallollehen
+
+                            Hirvoinen.
+
+
+
+KURVILAN EMÄNTÄ.
+
+
+Kurvilan kylässä Ristiinan pitäjässä asui kaks veljestä _Maunus
+ja Niiles Torniainen_. Maunuksen akka, nimellä _Anna Himainen_, joka
+oli Emäntänä talossa, oli suuri tuhlatar (slöserska) ja hukutti
+talon tavaroita ylenpalttisella elämisellänsä, josta häntä viimen
+eroitettiin talosta pois. Hään läksi silloin tyttäresek luokse,
+nimeltä _Vappo_, jota hään oli toista kymmentä vuotta siitten
+poisnainut _Maunus Tiusaisellen_; ja kussa se viimeisellä joutui
+varsin köyhäksi. Tässä lauletaan ensin niitä aikoja, kuin näit
+tyttären läksiäisiä piettiin, ja siitten niitäkin, jollon se joutui
+pois talostaan.
+
+    _Kurvilass'_ oil korja vaimo,
+    Akka aivan ankarainen,
+    Kovin kuuluisa Emäntä,
+    Sepä käyvä käpsyttääpi
+    Kirkko-tietä kiekkarasti;
+    Sielä panoo pajakkata[54]
+    Kansan kanssa käyvessänsä,
+    Oman talonsa tapoja.
+    Yksin tyttö urhollinen,
+    Piene-läntä piika-lapsi
+    Kerhekästi kätettäni,
+    Kiekkarasti kihlattiini,
+    Sepä naitiin nuapurihin,
+    Temmattihin _Tiusaisehen_,
+    Kopattiin koti-kylähän.
+
+    Käytiin sielä kaltaisissa,
+    Vietiin viinat viemisiksi,
+    Lihat, leivät, lättiäiset,
+    Piti piot Piiallensa,
+    Lävähytti läksiäiset
+    Kotonasek korkiasti,
+    Kuuluisassa _Kurvilassa_,
+    Lattiassa laveassa,
+    Pöyän piässä pökiässä.
+    Kussui vieraita kotiisek
+    Pöyän piähän pökiästi,
+    Yökaueksi ylpiästi.
+
+    Iltaisella istuttiini
+    Rekeheni riemuisesti,
+    Ahvakkaasti ajettihin.
+    Oli kuasot kannoilahan
+    Puhemiehet puolellahan.
+    Ruuna eissä roilottaapi
+    Yli pellon ylpiästi,
+    Rokan iäreen röyhkiästi,
+    Pöyvän piähän pökiästi.
+    (Kohta koto muistettava
+    Kuuluisassa _Kurvilassa_,
+    Jossa huomena hölisi,
+    Hiäväkiä helisi).
+    Ilon kanssa erettiini --
+    Sukulaiset suuta anto,[55]
+    Kättä kaikki kämmen-päihen.
+    Täss' on suvut, sulhaisetkin,
+    Pökiämmät poika-miehet
+    Miniätä mielivätten,
+    Rikkahaita riitelöövät
+    Kaunihita kasseloovat.
+    Täss' on lapset laitettavat
+    Kuin on tyrsät tyttäretkin;
+    Ouvot ovat orpanoina,[56]
+    Karva-piänä kartanoilla.
+
+    Tulipa kesä kerkiästi,
+    Tuli lehti lempiästi,
+    Ruoho puhkeis röyhkiästi.
+    Laskit Lampaat laitumellen.
+    Karjat kaikki kartanoillen.
+    Tulipa ruuasta rojua,
+    Tuli viljasta vihelys,
+    Tuli sota syömisestä,
+    Tuli rahasta räminä,
+    Tuli pannuista parina,
+    Tuli karjasta kamina,
+    Tuli nuja nuotastakin
+    Tuli riita riistastakin.
+    Aitat lyötän aukioksi.
+    Ei ou elo ennellään. --
+    Jopa ero ilmistyypi!
+    _Nikolausipä_ nimeltä
+    Ilmaisekse Isännäksi,
+    Akka aivan ankarainen
+    Ennustaiksen Emännäksi.
+
+    Pilkall' syötiin suola-heinät
+    Pimiässä pirtihissä
+    Sakeassa savuhussa
+    Petkelellä pieksettihin.
+    Lapset laulaavat kotona:[57]
+    "Makea on maito kulta
+    Kaunihista koalin kanssa;
+    Meill' on leikki leivästäkkin,
+    Parittain on pannujamme,
+    Kaksittain on kattiloita,
+    Lehmiä on leviästi,
+    Lompakoita laviasti;
+    Koska uutinen ulettuu
+    Elon-ajat ennättääpi,
+    Huasioita havakasti,
+    Kahiloita kukkuloinsa --
+    Näkyy näitä nuapurihin."
+
+                         Hirvoinen.
+
+
+
+
+Lassi Lappalainen
+
+Juvalta.
+
+
+Juvan pitäjä, Savossa, tuloo mainittavaksi niistä moneista
+_Runojoista_, jotka se on jo kasvattanut, ja joita se ehkä vielä
+kasvattaa. Koska se on ikeän kuin minun syntymäpitäjä, kussa minä
+olen ensin ruvenut harjoittamaan ja oppinut ymmärtämään tätä Suomen
+puhetta, ja kussa minä olen ensin koetellut että kansan mielestä
+ulos-miettiä heijän runomuksiansa -- niin se on minun velvollisuus,
+ettei unouttaa näitä omiamme puhuissain muista virren-tekiöistä.
+_Juvan_ pitäjän tunnen minä tässä tarkoituksessa, paremmin kuin
+yks-kään muu; ja taijan sanoa, että siinä löytyy harva kylä, kussa
+ei tavatak Runoja ja Runo-niekkoja. Niin se on ollut vielä näinä
+aikoina, soannethan vastapäin kuulla, jos tämä kaunis tapa
+harjoitetaan hänessä vielä vastakin, eli jos se keäntyy (niin kuin
+moni muu pitäjä) tyhjäksi ja kolkoksi laulun-aineista.
+
+To'istukseksi minun puheini, tahon minä julistella muutamia näistä
+hänen täänaikuisia _Runon-tekiöitä_, joista tämä _Lassi Lappalainen_
+oli Sotamies, ja asui _Tuhkalan_ kylässä, _Remojärven_ pohjalla.
+Koska minä kotona ollessain en ymmärtännyt ottoo tarkempoa tietoa
+näistä miehistä, niin minä en nytkään tunnek hänestä muuta, kuin
+että hään v. 1807 sepitti seuravaisen Runon, jonka _Lassi Oinoinen
+Lehkolasta_ lauloi minullen s. 13 p. Lokak. v. 1815.
+
+
+
+HEVO-VIRSI.
+
+
+_Pekka Moarainen Pylkkelänniemeltä_ lainais kerran Hevoistansa,
+palkan eistä, _Mikko Kovaisellen Tuhkalassa_. Joka kynti sillä
+kunnekka se uupui. Silloin otti hään ja serkkunsa keralla (nimeltä
+_Jussi Kovainen_) tappo Tamman, josta asiasta _Lappalainen_ teki
+virrensä.
+
+    _Lappalainen_ luatu-poika[58]
+    Alko kylpyä kysäillä;
+    Tulipa tuolla puheeksi
+    Koska _Kokinkin_ pakinaksi.
+    Siinä samassa sanoopi:
+    "Mieleni minun tekööpi
+    Rueta Runon-tekooni,
+    Hevo-virttä laulamaani."
+
+    _Kokkipa_ kotona sanoo:[59]
+    Joka-aamu aatteloo:
+    "Mistä Hevoinen suotaneen?"
+    _Kokki_ käsineet käteesek!
+    Alko tietä telkentellä
+    Pitkin _Piiparin_ ahoa.[60]
+    Kohten _Kovaisen_ torppaan,
+    Sen saman setäsen mökkiin.
+    Ei siitten _Simoiseen_ käynyt,
+    Eikä pistän't _Piispahassa_;
+    Niinpä mäni _Nilkkilään_,
+    Ei siinä sisässä käynyt;
+    Yli kynnyksen kysyypi,
+    Lapsillenpa lausutteloo:
+    "Missä tejän miehet ovat,
+    Elikkä emä entuansa?"
+
+    Vielä mieli _Mikko_ männä
+    Aina auman sivuihten
+    Leveelle _Lehmä-lahelle_,
+    Ynnä _Ylöisen_ sivuihten,
+    Pitkin tietä _Tihmaksellen_.
+    Järitteli _Jääkeriini_.
+    _Pekkapa_ se perehen-miesi
+    Mieli vieraalta kysyä:
+    "Tuoltakos tulet _Tuhkalasta_,
+    Matkustat majansialtais?"
+    "Tuoltapa tulen Tuhkalasta,
+    Matkustan majasialtain!
+    Jos nyt joutaisi Hevoinen!"
+    Akkapa hyvä auttamaan. --
+    Pekka puhui puolestansa:
+    "Autan kyllä ankarasti!"
+    (_Pekka_ pelloilen samoopi;
+    _Mikko_ tuasta tuloopi)
+    "Ruoka tämän rumentanna,
+    Huonot heinät huonontanna."
+    _Mikko_ mieliksi sanoopi:
+    "Ruuan annan runsahamman,
+    Palkan paremman perästä!"
+
+    _Mikko_ rehvastiin rekeen,
+    Liittihinpä liisteheillen,
+    Alkopa ajoa kovemmin
+    Niinpä tuota niityn-tietä
+    Pitkin tietä _Tihmaksellen_,
+    Ynnä _Yloisen_ sivuihten,
+    Vieläpä _Viikinkin_ sivuihten;[61]
+    Niinpä mäni _Nilkilähän_,
+    Alko pistellä _Piispahan_,
+    Väinistellä _Viänäisellen_;
+    _Mikkopa_ sivullen sipuupi,
+    Aina kökötti kotiisak.
+
+    Koska kuuli _Kovaisen_-poika
+    Mitä _Mikko_ tuolta toi,
+    Alko aatella kotona --
+    Ensin emänsä tahotak
+    Ilman isän tietämätäk
+    Tekipä jouon joutahamman,
+    Kokotti _Kokin_ mökkiin,
+    Tuota tuolta tietämääni
+    Mitä _Mikko_ tuolta toi.
+    Tupahansa tultuansa,
+    Pirttihinsä piästyänsä:
+    "Mitäs _Mikko_ siihen virkat,
+    Jos Tamma tasan pantaisiin,
+    Jaettais' jalo elävä?"
+    _Mikko_ lystist luan anto.
+    _Jussi_ pellollen perätin
+    Ulos uksesta ojensi,
+    Tallusteli Tamman luokse,
+    Luokse luontokappaletta.
+    Alko Tammoonsa taluttoo
+    Pitkin _Piiparin_ ahoa,
+    Suatto saunaasek kupeellen,
+    Peri-ikkunan perään.
+    Siinä samassa sanoopi:
+    "Kussa se _Jussin_ kurikka?"
+    _Ellipä_ tuo iänen kuuli;
+    _Elli_ kujasta kurikan[62]
+    Juoksutti _Jussin_ käteen.
+    _Jussipa_ se oli julma miesi
+    Siinä samassa sivalsi,
+    Siihen silmihin väliin,
+    Kohten korvihin väliin,
+    Kulma-luuhun kulahutti,
+    Kiero-luuhun kilahutti.
+    Siitäpä Hepo hervahti,
+    Kyntyisilleen kyhnähti.
+    _Kokkipa_ häntä kohotti.
+    "_Jussipa_ se oli Julma miesi"
+    (Hevo ... vihelsi)
+    "Revon-reittä suahakseen."
+
+    Vanha _Kovainen_ kokotti:
+    "Anna olla ajon-kulmaan,
+    Piästä päivä illoilleen!
+    Sanan lasket _Savonmoahan_
+    Lasket larmin kylällen."
+    Mitäs miehet tuosta huoli,
+    Miehet ketti kerkiästi,
+    Nyrkillänsä nytystvetten.
+    _Ellipä_ sitä ensin kysyi:
+    "Jokos varsa valaistunna,
+    Hepo herttainen ketetty?"
+    _Ellipä_ sitä ensin neuo:
+    "Tehkee jako jalohompi,
+    Elkee riiellä risalla,[63]
+    Tapella Tamman-palliolla!"
+    _Ellipä_ tuohon ensin joutui;
+    Maksat maljaiseen mulisti,
+    Keuhot kopsaasek kohisti.
+    _Kokki_ osall' olallansa
+    Alko astua kotiinsak.
+    Anto osan akallensa,
+    Lapa-luuta lapsillensa,
+    Ise söi paremman palan.
+    Turpa tuhmallen Sepällen,
+    Huulet huonollen Sepällen,[64]
+    Suu-posket Suutarillen,
+    Koko ruato Kovaisellen,
+    ... Virren täkiällen.
+
+                    Lappalainen.
+
+
+
+
+Joakko Keäriäinen
+
+Juvalta.
+
+
+Talonpoika _Joakko Keäriäinen Remojärvältä_ Juvan pitäjästä, on yksi
+niistä _kunniallisimmista ja rehellisimmistä_ miehistä Juvalla,
+joka on sanottu hänellen isommaksi kunniaksi, kuin mikään muu. Hään
+on myös kuuluisa niistä töistään, joita hään _moa-viljelemisellänsä,
+kosken-perkauksellansa ja kivi-rovioittamisellansa_ oli aikoin soanut,
+ja kussa hään hukutti omaisuutensa yhtäiseksi hyväksi.[65] Mutta myö
+heitämme tässä kaikkia näitä puheenaineita; ja hoastamme ainoastaan
+hänen _Runon-taijosta_, josta se on myöskin mainittava, ikään kuin
+_laulamisestaan_[66] ja _kirjaan-harjoituksistaan_.[67]
+
+Niistä moneista vieraista että omista Runoista, joita hään lauloi
+mullen _Juan_ pappilassa, keväillä v. 1816, s. 14 p. Tammik. tahomme
+tässä luettoo kaksi näytteeksi hänen runomisestaan.
+
+
+
+HEVOIS-RUNO.
+
+
+_Matti Kokkoinen Alamaan_ kylästä, _Mikkelin_ pitäjästä rupeisi v.
+1785 tappamaan Hevoistansa. Hään nakkais häntä jo peähän, josta se
+hervahti voan ei kuollut. Silloin rupeis Mattia peloittamaan, että
+pitivät pois pyyhkimän häntä Puumalan komppaniasta Savon jälka-väin
+Rykmentistä, kussa hään oli Sotamiessä, nimellä _Örn_. Hään laitto
+seneistä sanan _Joakko Keäriäisellen, Vehmaissa_ (noapurissa) tulla
+sinne lopettamaan tappuuta, koska hään oli jo eiltä-käsin ostanut
+toisen puolen nahasta. _Joakko Keäriäinen Seppolasta_ teki Runon.
+
+    _Kokkoinen_ koria miesi,
+    _Matti Örni_ ylpiämpi,
+    Koppais kurikan kujasta,
+    Koukin kassoi kartanosta,
+    Jolla Hevoista heläytti,
+    Kohten korviin väliä.
+    Tamma kohta tanhuallen
+    Siäriänsä suoroomaani.
+    Tämäpä tunkiin tupa'an:
+    "Oisin Tamman tappanunna
+    Pannut henketen Hevoisen;
+    Vaan ei jaksa jäseneini,[68]
+    Eikä voimani yletä!"
+    Laitto sanaa lapsellansa,
+    Herttaisella _Heikillänsä_.
+
+    _Matti_ läksi matkustamaan
+    Kohten _Kokkoisen_ kotia,
+    Alla-päin paholla mielin.
+    Tapais Tamman tanhualta,
+    Vielä henkissä Hevoisen.
+    Veti tuiman tupehesta,
+    Puukon reisi-puoleltansa,
+    Työnsi rintaan terästä.
+    Siitä veri vieremääni,
+    Käsihillen _Kiäriäisen_.
+    Tekisin tuosta jakoa,
+    Kuinka osahan tulisi.
+    Tuosta persettä _Pekalle_,
+    _Perno Pekan_ emännälle,
+    Jalan _Juakko Hämäläiselle_,
+    Toisen _Tahvo Pulkisellen_,
+    Ala-sikko _Annikallen_,
+    Munaiset muullen pereellen;
+    Puolen siitten sivalsi
+    _Pulli_ pisti povellensa.
+    Maksat vienmä _Matiskalaan_,[69]
+    Itrat kannanma _Iloiseen_,
+    Palliotpa _Puajalahan_,
+    Hoikat suolet _Kunnelille_,
+    Korvat _Kokkoisen_ akalle.
+    Vieläpä veisin männessäini
+    Osuutta _Ollikkalahan_,
+    Taka-jalat Tammastaini.
+    En isekkään ilman jäisi!
+    Vieläpä keuhot keittäisin,
+    Selkä-luut suolaan panisin;
+    Joita paistiksi tekisin,
+    Imeksisin iltikseini,
+    Joulun pitkinnä pyhinnä.
+    Häntä seppä _Hennisellen_ --
+    _Vappu Tarkiain_ tapaisi
+    Hännän _Hennisen_ säkistä.
+    Laiko-suolet _Luatikaisell'_,
+    Pohjukka-suoli Suutarille,
+    Muut räpälät Riätälille.
+    Ei tätä paisteta Papille,
+    Eikä tuua Tuomarille,
+    Eikä lahjakskaan lakihin.
+    Viimeiset virren-tekiälle,
+    Sille jalolle _Juakopille_.
+
+                        Keäriäinen.
+
+
+
+KOIRAN-RUNO.
+
+
+Yksi tyttö nimeltä _Poasoinen, Häppälän_ kylästä _Mikkelin_
+pitäjästä, tapais kerran kirkko-tiellä yhen juoksu-Koiran,
+jonka hänen isänsä _Poavo Poasoinen_ oatteli piteäksensä; mutta
+Mustipa tappoi kaks Lammasta _Yrjö Hokkaiselta_, joka löi häntä
+henkettömäksi. Kuin Keäriäinen läksi näihen kyläläisten keralla
+kyntämään _Haisoan_ syvämmoahan, sai hään tiellä kuullaksensa tämän
+asian, ja teki siihen-liittoon Runon.
+
+    Aika ois ruveta Runoiksi,
+    Lähteä tästä laulamaani
+    Mitä nyt kuuluupi kylässä:
+    Hätä nähhään _Häppälässä_
+    Koiran kurjan kuolennosta.
+    _Puasoinen_ pikiä miesi, --
+    Tytär se oil ylpiämpi,
+    Kohtais Koiran kirkko-tieltä,
+    Toipa tuon kohta kotiisek.
+    Koiroo ois koria nähä;
+    Vuon teki vaivaiset vahinkot.
+    Tappo kaksi Karitsata --[70]
+    _Yrjö_ suuttua sorahti.
+    Kasso kepin kankiamman,
+    Koivusta kovoa puuta,
+    Jolla Koiroa kolautti,
+    Jolla raukkoa ramautti.
+    Koira kohta kuoliaksi.
+    _Puasoinen_ pikiä miesi,
+    Tämä kohta torumaan.
+    _Hokkainen_ kohta häväisi:
+    "Vieläkös viskoot vihojais?"
+    (Silloin seivästä sivalsi).
+    _Puasoinen_ pani pakohon,
+    Akka piipatti perästä.
+    Tuosta pistäiksen _Piikkillen_,[71]
+    Pani palliot patahan.
+    Tekisin tuosta jakoa,
+    Vuan ei annak aika myöten;
+    _Lassi Matiskain_ Lautamies
+    Tarkoin kaikillen tasoopi.
+
+                        Keäriäinen.
+
+
+
+
+Oatto Tuovinen
+
+Juvalta.
+
+
+_Oatto Tuovinen_ oli kotoisin _Pylkkälänniemeltä, Juvalta_. Hänestäkään
+minä en tunnek muuta, kuin että hään mahto aikanansa olla aika
+Runoja, jota hänen Runot kyllä toistaa. Se näyttäiksen kuin hään
+oisi erinomattain ollut Kissoillen rakas, koska se niin mielellään
+runoilli heistä. Tässä on näitä hänen Kissan virsiä kolmetkin, jotka
+Keäriäinen lauloi mullen.
+
+
+
+VARSAN-RUNO.
+
+
+Nuon 40 vuotta siitten, niin juoksi tämän _Tuovisen_ varsa _Kaipialan_
+Rysthollin hevoisiin, jotka oli laskettu mehtään; ja seuraisi heijän
+parvessa _Remojärveläisten_ ruoka-mailien, kussa se tuli vikuutetuksi
+jalastaan. Tuovinen peätti että Kaipiaiset olivat viskanet sitä
+kivellä. Josta se rupeis runoillemaan.
+
+    _Kaipiaiset_ karnuttaavat,
+    Kylän turmiot tuloovat,
+    Lika-silmät liirettelöö
+    Ruistahansa ruopimasta[72]
+    Kaurojansa karhisemasta:
+    "Oletkos Suen sukua,
+    Vaiko koiran-kuontolaisten,
+    Kuin söit siären sälöltäin,
+    Varsastain vasemman jalan?"
+    Vielä _Tuovinen_ toruupi,
+    Valittaapi varsastansa!
+
+                        Tuovinen.
+
+
+
+KISSAN-RUNO.
+
+
+Kornetti _Brusin Maivalasta_ osti nuon 40 vuotta siitten yhen Kissan
+Talonmieheltä _Poavo Hyytiäiseltä Tuhkalasta_, jonka hään oli soanut
+lahjaksi toiselta. Siitäpä jo Tuovinen teki Runonsa.
+
+    _Hyökisell'_ oil hyvä lykky,
+    Saipa Kissan _Kilpolasta_,
+    Rahatakkin, tenkatakkin.
+    _Brusinipä_ runsas miesi
+    Tarjois kahta Taaleria.
+    _Hyökipä_ kohta hyrskähti,[73]
+    Narskahtipa nauramaani.
+    Akkapa oil ahnas rahaan:
+    "Tarpeen on raha talossa,
+    Tuota piestään pehuistakin,
+    Otetaanpa olista jauhot."
+    Vetipä lempo _Vesterisen_ --
+    Siäret säkkikin sovitti,
+    Sitopa suuta seisallaan,
+    Heitti hännälle sioo.
+    _Juakko_ kahto karsiasti[74]
+    Tuolta torppaasek tuasta
+    Kissan kurjan kulkemista.
+    _Kilkit_ ne on kiitettävät,
+    Lauleloovat lapsillensa.
+    _Tuomas_ tutkiipi visusti
+    Sitä, saunan salvoksilta
+    Virren värsyä vetääpi.
+    Akat autto akkunasta.
+    Siitä huutoo hujahutti
+    Järven rannalla rajautti
+    Pitkä ukko piertehessä.
+    Suappa tieteä suaren-röhkö
+    _Hyökin_ hyvästä lykystä.
+    Musta Kissa kaupattiin,
+    Harjakkaiset haukattiin,
+    Kuka tästä ilman jääpi?
+    _Asilainen_ akkoineen,[75]
+    _Pennoinen_ perehineen
+
+                       Tuovinen.
+
+
+
+KASSIN-RUNO.
+
+
+_Niilo Myyryläinen Tuhkalasta_ lainais kerran Kissansa vävyllensä,
+tälleh samallen _Poavo Hyytiäisellen_, mutta akatpa unoittivat sitä
+saunaan, kussa se tukehtui, ja kuoli savusta. Josta _Tuovinen_ toas
+teki virren.
+
+    _Hyöki_ tuiskulla tuloopi,
+    Pakkaisella paukuttaapi:
+    "Anna _Anni_ Kissiäisi,
+    Hyvä _Niilo_ Niisiäisi,
+    Hiiret syövät hinkaloini,
+    Rotat kantaapi rukiini!"
+
+    Niinpä kuoli _Niilon_ kissa,
+    _Annin_ ainua eläin,
+    _Hyökin_ saunaan savuiseen.
+    _Simo_-poika sipsattaapi,[76]
+    _Raso_-poika rauskuttaapi,
+    _Niilo_-poika niin sanoopi:
+    "Ei räkkee kylet kylään!
+    _Puavolla_ on kaita kasvo;[77]
+    _Paavo_ paistin tarvissoopi."
+    _Hyökin Matti_ mainihtoopi:
+    "Käyväänpä nahan-jakoon!"
+    _Simo_ suuttua suhahti:
+    "Nahkoin en annak ensinkään,
+    Kukkarot' en kellenkään."
+
+                       Tuovinen.
+
+
+
+KISSAN-VIRSI.
+
+
+Tämä kolmaas Kissan-Runo on tehty samasta miehestä, ja otettu siitä,
+että _Pirilänniemen_ Kissa läksi kerran mänemään _Hyytiälään_, jossa
+_Hyöki_ häntä tappo. _Keäriäinen_ ei muistant tästä virrestä muuta,
+kuin alku-sanat, jotka oli näin:
+
+    Läksipä Kissa kulkemaan,
+    Hiiren-surma hiihtämääni
+    Periltä _Perilänniemen_.
+    Tämäpä tuli _Tuhkalaan_,
+    Tunkiinpa _Hyökin_ tupahan.
+    -- -- -- -- -- -- --
+    -- -- -- -- -- -- --
+    -- -- -- -- -- -- --
+
+Näistä kolmesta _Kissan-Runoista_ niin _Hyytiäinen_ paituutti
+_Tuovista_ lakiin, joka tapahtui jo Laintutkian _Maténin_ aikana.
+_Tuovinen_, jota pelloitti Lakihin männä, pyysi toista sovinnollen, ja
+lupaisi hänellen i'äkspäiviks yhen 2:hen rein-alaisen niityn. Mutta
+kuin _Hyytiäinen_ mäni sinne heiniä tekemään, niin tuloo _Tuovisen_ akka,
+ja ajo pois hänet. Siihenpä se asia siitten loppui. Mutta kyläläiset,
+kuin saivat asian kuullaksensa, niin panivat nimeksi tällen
+niityllen _Kissan-niity_, ja niin sitä kuhutaan vielä tänä päivänäkin,
+muistiksi että se oli tarjottu sovinnokseksi näistä kolmesta
+_Kissan-Runoista_.
+
+
+
+
+Heikki Huuhtinen
+
+Juvalta.
+
+
+Tolpparin-poika _Heikki Huuhtinen Pitkälahen_ kylästä _Juvalla_,
+on yksi hilpiä ja iloisa nuorukainen, joka on vielä toisen
+palveluksessa. Hään oli yksi niistä nuorista miehistä, jotka v. 1824
+pyrki peästäksensä Norin ja Ruotin Suomalaisiin, opettelemaan heitä
+Savolaisten tavalla palon-kyntämistä.[78] Ehkei hään ouk vasta kuin
+nuon 19 tahi 20 vuotta vanha, niin hänessä jo ilmoittaiksen isoja
+aljeita (anlag) Runomukseen, niin kuin näyttäiksen näistä hänen
+kokeistaan: niin että toivotaan hänen aikoa myöten tulevan yheks
+kuulaisaksi _Runo-sepäksi_ Savossa.
+
+
+
+
+SIAN-RUNO.
+
+
+Talonpojalta _Tuomas Asikaiselta Pitkälahen_ kylästä katoisi syksyllä
+vuonna 1823 yksi Sika, jonka Suet lie syöneet suuhunsa. Hään otti
+noapurin- mieheltä _Eiro Siiskoiselta_ toisen Sian siaan, koska se
+oli melkeen sen-näköinen kuin hänen omansa. _Siiskoinen_ otti kyllä
+Sikansa takaisin, voan _Asikainen_ omisti tätä jälleen, ja tappo
+sitä, josta _Huuhtinen_ teki virren.
+
+    _Ikolan_ suuri emäntä
+    Jolta söi Susi Sikoja,
+    Tappo lempo tallukoita --
+    _Tuomas_ totinen isäntä
+    Saipa säkin seinukselta,
+    Vaels _Vantin_ kartanollen;
+    Pistänpä kohta pihaani.
+    Älyis Tallun tallin eissä --
+    Tämän säkkiisek säväytti;
+    Alko koitsia kotiisek.
+    Sika huusi huikiasti,
+    _Tuomas_ juoksi joutuisasti --
+    (Se ilo ilollen näytti).
+
+    Kuuvennoksen kannon tyttö[79]
+    Jok oil kylvyssä kylässä,
+    Älyspä _Tuomaan_ tulevan.
+    Eukoillen ensin saneli:
+    "Mistä tuo _Tuomas_ tuloopi?
+    Sika säkissä selässä."
+    Eukko _Sohvollen_ sopotti:
+    "Ole vaiti vaka tyttö,
+    Elä virkaja mitähän!
+    Meiltä söi Susi Sikoja,
+    Tappo lempo tallukoita.
+    Tuomas tuopi nyt Sian,
+    Miltä Sian, kulta kaksi --
+    Nyt toi Sian _Siiskoiselta_."
+
+    Suattiinpa sana kylällen,
+    Iso-nauru nuapuriisen:
+    "Tiäll' on _Siiskoinen_ Sikais!"
+    _Eerikk'_ tuota essimääni.
+    Älyis Tallun karsinasta --
+    Sepä samassa saneli:
+    "Tiäll' on miehet meijän Sika!"
+    _Juhana_ jutusti perästä;[80]
+    Sepä sanoi samatek.
+    _Ikolan_ suuri emäntä
+    Joka väitti viärinpäin,
+    Toisinpäin totisti:
+    Olevan oman Sikase.
+
+    Nouvattiin _Eeva Nopoistaa_,[81]
+    Se sanoi samalla lailla
+    Niin kuin eiltäpäin isäntä.
+    _Piekäinen_, se pitkä tyttö,
+    _Muaria_ mahava piika
+    Toas toiseppäin totisti:
+    "Se on meijän-talon tallu!"
+
+                             Huuhtinen.
+
+
+
+NÄPISTÄJÄ.
+
+
+Siiskoisen torpassa oli _Juho Siiskoinen_ ja hänen vaimonsa _Maija
+Haikarainen_ tunnetut nuapuruksissa, heijän näpistelemisestänsä
+(snatteri) josta Huuhtinen v. 1821 synnytti laulunsa.
+
+    _Jussi_ se oli julma miesi;
+    Ei se olt akka armahampi!
+    Joka juoksi _Juonoksehen_,
+    Kohten korsua kokotti;
+    Tallin-usta tarkotteli.
+
+    Olipa _Jussi Juoneksessa_,[82]
+    Ajoipa Akkoa jälestä,
+    _Kalvonimehen_ kavasti.
+    _Muaria_ mahtava imeinen
+    (Joka juoksi joutuisasti)
+    Kiisti _Kilkin_ kartanolle.
+    Siis otti sinisen vyyhän,
+    Märkänä kutais kupoon.
+    Pyysi käyvä _Pyrrhöisessä_,
+    Miehellen mekko-alusta.
+    Tulipa toisehen tupaani,
+    Kannikkata kassomaani,
+    _Ikolassa_ istumassa.
+    Suoloja soristamassa,
+    Tolkia kopistamassa.[83]
+
+    Mies lykkäis lylyen piällä
+    _Tyrysalmen_ tyyntä muata;
+    Suihki kyllä suksen-käret,
+    Kolkki kenkän-kolpottimet,
+    Tasaellen talven-varoo.
+
+    _Puavo_ miehiä parraain
+    Suattopa sanat kylään.
+    _Turuinen_, se tuttu miesi
+    Havais _Puavon_ huastanne'en --
+    Vasta päivee jälemmän
+    Älyis kuhjosen kupeen
+    Kynnen kanssa kynsityksi.
+
+                          Huuhtinen.
+
+
+
+YÖTYRI.
+
+
+Talonpoika _Heikki Lassinpoika Nopoinen_ Pitkälahen kylissä kävi aina
+yökenkässä _Marketta Haloisen_ luonna, joka ei ollut arka Pojillen,
+kunnekka se kerran tuli ilmin, sillä, että uni petti häntä viipymään
+siinä kovin kauan. Huuhtinen teki tuosta Runonsa v. 1822.
+
+    _Tahvo Haloinen_ tarkka miesi,
+    Joka asuupi _Juvalla_,
+    Pistänpä _Pitkälahellen_,
+    Rehelsipä _Rensin_ muallen.[84]
+    _Tahvoll'_ oli tarkka tyttö,
+    _Marketta_ mahava piika,
+    Viisas virsien-tekiä,
+    Luatu-laulun laittelia,
+    Ankara ajo-hevoinen,
+    Jota k... _Koikkalaiset_,
+    Mielellä'än _Mikkiläiset_,
+    Hipsui _Mikko Puumalasta_.
+    Tapalttui tämä tarina
+    Kymmenees päivä Kyntö-kuussa,
+    Toisen kielen Touko-kuussa:
+    _Nopolasta Pekan_-poika,
+    _Heikki_-poikapa hevelsi,
+    _Suopi-suaresta_ sukaisi,
+    Hevelsi Hevoisen kanssa.
+
+    _Vantit_ luulit varkahaksi
+    _Eerik_ kassoi ikkunasta.[85]
+    Näki _Heikin_ heiluavan,
+    Olkia ottavan kujasta.
+    Nämät kantoi kankahalla:
+    "Otappas olkia Hevoinen,
+    Syöppäs Ruunain ruumenia!"
+    Ise juoksi joutusasti
+    Panetti portista pihaan,
+    Kyykistänpä kynnyksellen. --
+
+    _Liisa_ piika, liukas tyttö
+    Laskipa _Heikkiä_ lava'an,
+    Ise laskiin lavan alak.
+    Päivä nousi nopiasti,
+    Uamu tuli ahkerasti;
+    Ei noust _Heikki Nopoinen_!
+
+    _Vantin Matti_ vanha miesi,
+    Taitavainen talon-renki
+    Tulipa saunasta tupa'an,
+    Riensi kohta riihen luokse;
+    Kirves olalla ojensi.
+    Kolkutos kävi kovasti.
+    _Heikkipä_ huoneesta häväisi,
+    Yrittipä ylös-nousta;
+    Laukaispa lavasta tankot,
+    Perä-seinästä perästä;
+    Luiskahtpa luta... t...st.
+    Pläsi pännä... rs...st.
+
+                         Huuhtinen.
+
+
+
+YÖ-JALKALAINEN.
+
+
+Talonpoika _Antti Penttinen Pitkälahesta_ kävi niinikeän tytöstämässä,
+ja läksi kerran yö-jalassa _Rekina Liikaisen_ luokse, samassa kylässä;
+mutta tarttuipa kiini ikkunaan, josta Huuhtinen runoilee:
+
+    Pitkä poika _Penttisessä_,
+    _Antti_ se sama armas miesi,
+    Joka työntel' tyttölöitä,
+    Yhtä, toista, yritti,
+    _Haikaraiseen_ kakitti.
+    Saunan luokse savisti,
+    Oven ete'en ennätti;
+    Eipä osant ollenka'an
+    Oven eteen ensinkään --
+    Pist'pä piänsä pienemmästä
+    Ikkunasta niin iloissaan.
+
+    Kävipä kiini kulku'usta,
+    Kiäntyi kaulasta kahisemaan.
+    Suatiinpa sana tupa'ani:
+    "_Penttisen Antti_ on akkunassa!"
+    _Heikki_ vanhasta vihasta
+    _Antin_ luokse ahkerasti,
+    _Pekka Lampinen_ perästä --
+    _Antti_ huusi armon-kättä,
+    Kuuees numero kujersi:[86]
+    "Elä heitä _Heikki_ rukka,
+    Kyllämä tapaini parannan!"
+
+    Siitten marsi markkinoillen,
+    Saksan-puoti'in savisti;
+    Ott'pa uurin oivallisen.
+    Kohta kulki kurja poika,
+    Toiseen puotiin tupitti,
+    Suamaan sieltä samettia.
+    Tulipa tuostakin kotiin
+    Alko naija nuapurista,
+    _Anna-Stiinoa_ ajeli,
+    _Taltan Ansoa_ tavotti.
+
+                       Huuhtinen.
+
+
+
+YÖTYMYKSET.
+
+
+Kuuenos-miehen _Matti Nopoisen_ tytär _Pitkälahesta_, nimeltä _Sohvi
+Nopoinen_ piti _Heikki Nopoista_ hyvänä, samasta kylän-peästä.
+
+    Kuuennoksen kunnon tyttö,
+    Kirkon-miehen kiltti likka,
+    _Sohvi, Seiloista_ soriamp',
+    Uotti miestä _Mikkelistä_,
+    Puuter-piätä _Puumalasta_.[87]
+    Olipa junkkari _Juvalla_,
+    Pieni poika _Pitkälahelta_
+    Joka -- -- -- -- --
+    Suotiinpa sana kylään,
+    Iso-nauru nuapurihin.
+    _Sohvo_ sotki puolestansa:
+    "Se on nyt meijän _Tiinan_ töitä,
+    Suatti hyvän sisarein!"
+
+                           Huuhtinen.
+
+
+
+YHTYMISET.
+
+
+_Antti Asikainen Pitkälahesta_ likisti metässä _Tiinat Pekantytär
+Nopoista_, mutta sattupa kyläläiset siihen, heitä hätyyttämään. Josta
+Huuhtinen laulo:
+
+    _Asikaisen Antti-poika_
+    Kävi pyhinä kylillen,
+    _Nopolata_ nouatteli.
+    _Tiinapa Anttisen_ älysi!
+    _Antti_ juoksi ahkerasti,
+    _Tiina_ aivon ankarasti;
+    Sipuvatten _Silta-suollen_,
+    Luajallen _Lampisen_ muallen,
+    _Lehmäniemen_ lehto'on.
+    Kylä kuuli --r-- iänen,
+    Nuapurit --t-- natinan.
+
+                      Huuhtinen.
+
+
+
+SYÖMÄRI.
+
+
+Talon-isäntä _Tuomas Asikainen Pitkälahen_ kylästä tuli kerran
+lankonsa _Poavo Montoisen_ luokse, samassa kylässä; ja söi siinä
+sillä innolla lihoa, että juuttui palainen kulkkuun, josta hään
+tukehtui ja kannettiin pyörtynynnä pihallen, kussa Montoinen viimein
+sai liha-kyörän pois kulkusta, jonka hään pisti omaan sunhuusak,
+sanoilla: "ei minun tavarain pie hukkaan joutua; jos ei hänelle
+kelpoo, niin kelpoohan mullen," ja silloin se nieli sitä mahasek.
+Tästä sai Huuhtinen virsi-aineensa.[88]
+
+    _Ikolan_ isäntä-miesi,
+    Armas _Tuomas Asikainen_
+    Kävi pyhinnä kylissä.
+    Kestiin piällä keikkumassa.
+    _Montoinen_ miesi mokoma
+    Kussui lankosek kotiisak.
+    Lanko tuli, ja tukehtui
+    Liikohin liha-siruin.
+
+    Kuoliana kannettiin
+    Lankon pihan lattiallen.
+    _Montoinen_ mies mokoma,
+    Joka kourist koprallaan
+    Kulkusta liha-kurikkoo,
+    Jota veisellä viteli,
+    Lautasella lapsutteli -- -- --
+    -- -- -- -- -- -- --
+
+                       Huuhtinen.
+
+
+
+
+Heikki Summainen
+
+Juvalta.
+
+
+_Heikki Summainen Kiiskilänniemeltä_, Juvan pitäjästä, on yksi nuori
+Rysthollarin poika, joka nuon salakähmässä synnyttää Runojansa; koska
+hään ei ite tahok tulla kuulluksi. Niin on hään e.m. tässäkin tehnyt
+heitä _toisen nimessä_, että sillä välttää tullaksensa asianomaisilta
+vihan-alaseksi. Samassa kylässä asui yksi loisimies nimeltä _Poavo
+Kiiskinen eli Köppö_, (niin kuin häntä usseemmittain kuhutaan)
+joka pietään isona velhona ja Runon-laulajana; häntä lykättiin
+virren-tekiäksi. Että kirjoja on tehty toisen nimessä, tunnetaan
+Tarinamuksesta; mutta että meijän laulutkin ovat toisinaan näin
+varsin vieraalla nimellä kastettunna, on yksi esimerkki, joka on
+erin-omainen, ja joka toistaa ettei heihin aina ouk uskomista, ilman
+tarkempata asian tutkimista.
+
+
+
+VÄVY-MIES.
+
+
+Rysthollari _Pekka Kiiskinen Kiiskilänniemeltä_ otti _Joakko Auvista_
+(tahi Avelinia?) Teivaasta vävyksensä, sillen vanhemmallen
+tyttärellensä _Maija Liisallen_; mutta hään piti salassa sitä
+nuorempatakin hyvänä, nimeltä _Eeva Sohvia_, joka tuli tietyksi siitä,
+että heijän sisaren-lapsi kuuli heijän keskenäisiä puheitansa,
+mehtämajassa, joita hään kotiin-tultuaan ilmoitti vanhimmillensa;
+josta ukko Kiiskinen kyllä kovasti suuttui. Heikki Summainen teki
+tästä Runon v. 1814, jonka Joakko Pulliainen Kiiskilänniemeltä laulo
+mullen s. 13 p. Lokak. v. 1815.
+
+    _Kiiskilänniemi_, kiitettävä --
+    Siin' on viisaat virren-sepät,
+    Viisaat virsiin-tekiät!
+
+    _Puavo Köppö_ köyhä miesi,[89]
+    Tämä vanha vaiva-sukka,
+    Tämä viisas virren-seppä
+    Ajatteli ajan piälle,
+    Pitkin tietä käyessänsä,
+    Kuinka laulut laitettaneen,
+    Kuinka virsi veisattanneen.
+    (Tätä kieltää _Kiiskiset_,
+    Eikä antais _Auvisetkaan_).
+
+    _Pekka_ puhuu _Purhoisillen_:
+    _Purhoisei_ puhuu _Pekallen_:
+    "_Teivaassa_ on tietty poika,
+    Sekä Suutar' että Riätäil';
+    Tekööpi työt molemmat."
+    Tämä viänettiin vävyks',
+    Otettiin otto-pojaks'.
+
+    _Juakko_ vielä viisi vuotta
+    _Maija-Liisoa_ likisti.
+    "Laita mulle lapsukkainen,
+    Tahi pieni perillinen!
+    Jos et laitak mulle lasta
+    Niinma suostutan _Sohvia_."
+
+    _Juakko_ suostutti _Sohvian_[90]
+    "Laita mulle lapsukkainen,
+    Tahi pieni perillinen!"
+    Tyttö näytti tykevällen,
+    Aivan paljon paksummallen.
+
+    Juakko istui eine-puulla:
+    "Jok' on _Sohvi_ suovallaan?"
+    (_Pekka_, pieni pentu-koira,
+    Kassoi ala kainalonsa)
+    "Jok' on poika puoltununna,
+    Jok' on uupuna unehen?"
+
+    _Pekka_ peitti silmoisensa
+    Käsi-varrella omalla;
+    Kohta tultua kotiinsak,
+    Ensin huasto emännällen,
+    Siitten ilmoitti isällen.
+    Ukko suuttua suhahti,
+    Alko _Auvista_ torua:
+    "Tuos' on tuutu tyttärelleis![91]
+    Jos on Siat syötettynnä,
+    Rupa-turvat ruokittunna." --
+
+                              Summainen.
+
+
+
+
+Poavo Heikkinen
+
+Mikkelistä.
+
+
+Minä en varsin tunnek oliko tämä Heikkinen kotoisin Juvalta vai
+Mikkelistä; sillä kumpaisessakin pitäjässä löytyy paljon näitä
+sukuisia. Juvalla minä olen kuullut tätä laulettavan; mutta koska
+asiat, joista tässä lauletaan, ovat tapahtuneet Mikkelissä, niin on
+arvattava, että laulu on myös siinäkin synnytetty.
+
+
+
+HALPA-POIKA
+
+
+_Erko Raminen_ oli yksi tolppari _Skinnarin_ Hovin alla, Mikkelin
+pitäjässä, jolla oli kaks kelvotointa poikoo, _Hanno ja Mikko_.
+Hanno oli hevoisen huijari, ja vaihto pois ilman isänsä luatak
+hänen Hevoisiansa, tappeli kirkko-tiellä, ja teki muita semmoisia
+kokkauksia. Tuli viimeisellä myös riitaan isänsäkkiin kanssa, jonka
+hään veljensä avulla sitoi nuoriin. Mutta _Antti Heikkinen_ noapurista
+tuli ukon avuksi, joka irti-peästettynnä otti pakonsa hänen luokse,
+eikä ottanut talosta muuta myötensä kuin nuusku-purakkonsa; (joka oli
+jo tapahtunut 35 vuotta siitten). Poavo Heikkinen teki siitä Runon,
+jonka Joakko Keäriäinen laulo mullen v. 1816.
+
+    _Ramin-Hanno_, halpa poika,
+    Kiljui kovast' kirkko-tiellä...
+    Ori juoksi joutusasti;[92]
+    Laulatteli _Lampisehen_,
+    Pienen _Pietarin_ pihaani.
+
+    Sai siitä Ruunan rumemman
+    Perä-mieheltä _Pekalta_.
+    Vielä lauloi _Lampisessa_
+    Viinan-virttä viimeiseksi. --
+
+    Siitten ajo ankarasti
+    Niitun taakse _Nikkilähän_.
+
+           *   *   *
+
+    Akka vanha vapiseva[93]
+    Toipa rokkaa rohkiasti,
+    Syyvä syntisen ete'en.
+    -- Ropsais rokan ovensuuhun!
+
+    "Tuolta tuttuni tuloopi,
+    Ennen-nähtyni näkyypi, --
+    Auta armainen minua!
+    Jo minusta mies mänöö,
+    Rahan-suaja raukenoopi."
+
+    Otti tuiman tupestansa.
+    Jolla ratko raippa-köyet,
+    Selvät site'et sivalsi.
+    Otti potin ovensuusta,
+    Nenä-kellosek keralla;
+    Heitettehin _Heikkiseen_,
+    Pienen _Heikkälän_ pihaani.
+
+                           Heikkinen.
+
+
+
+
+Ikoinen
+
+Mikkelistä.
+
+
+Koska minä kotona ollessain en paremmin tiiustellut tätä miestä, niin
+minä en taija varsin sanoa oliko se Juvalta vai Mikkelistä, eikä
+mikä hänen ristimä-nimensä lie ollut. Ettei hään ollut Runon-töihin
+taipumatoin, selitetään tästä hänen laulusta, josta minä olen kuullut
+3 erinnäistä vaihtausta, nimittäin jo v. 1815, s. 22 p. Lokak. Matti
+Veänäiseltä, Kaskista; siitten Olli Laukaiselta, Luukkalasta;
+ja viimen renkiltä Martti Hämäläiseltä, Pihlansalosta, joka laulo
+sitä mulle v. 1816, s. 23 p. Moalisk.
+
+
+
+ANTTOLAN-HERRA.
+
+
+Anttolan hovissa, Mikkelin pitäjässä, asui silloin Kirjuttaja _Eerik
+Juh. Virilander_, isäntämiessä. Hään pieksi oman Rakuunasak vaimoo,
+siitä syystä että se tapais hänen lehmänsä, aijastaan. Josta Ikoinen
+sai virren alkunsa.
+
+    _Ikoinen_ iloinen miesi.
+    Viisas virsien-tekiä,
+    Laitto liänit laulamaani,
+    Kylä-kunnat kuulemaani.
+    "Herraiseni herttaiseni
+    Kuules kuinka lauletaani,
+    Kuinka virsi viänetääni,
+    Puustavit pujotetaani!"
+
+    Tämä on virsi _Anttolasta_,[94]
+    Hovin-Herrasta hopotus.
+    Aamulla äkin varain
+    Läksi messään mehuten. --
+    _Eerik Jussi_, julma miesi,
+    Supitpa suurella suolla,
+    Kulkipa kurjan karjan luokse;
+    Löys'pä Lehmät aijastansa
+    Niittuansa nilkomasta,
+    Ajo _Antolaan_ pihaani,
+    Kaikotti karja-kuja'an.
+    Rakuuna paran raukka akka
+    Astu _Anttolan_ pihaani:
+    "Herraiseeni herttaiseeni,
+    Anna Lehmäini kotiini!"
+
+    _Virilander_ viisas miesi
+    Ajo akka räppänätä
+    Nahka-piiskalla pihasta,
+    Tuppais nahka-tullikolla,
+    Antoipa korvalle kolauksen.
+
+    Mäni porstuppaan pakooni. --
+    Siellä seisoivat sopessa
+    _Jyljänäisen_ julma akka,[95]
+    Kaunis kakkaran varas,
+    Hyvän-leivän leikkeliä;
+    _Poavo Suutarin_ sukkela poika,
+    Kakkaraisen kannattaja,
+    Hyvän leivän lennättäjä.
+
+                         Ikoinen.
+
+
+
+
+Risto Viljakainen
+
+Joroisista.
+
+
+Tämä Risto Viljakainen oli asunut _Taipalen_ kylässä, _Joroisissa_.
+Tämän hänen laulunsa laulo mullen Oappo Härköinen, Kaskista,
+v. 1815 s. 25 p. Marrask.
+
+
+
+KUKON-RUNO.
+
+
+Oatto Härköisellä. Taipalen kylässä Joroisissa, oli yksi vanha Kukko,
+jonka akat vaihtovat pois Viljakkalaan, yhteen nuorempaan. Niin Risto
+Viljakainen otti siitten ja tappo sen vanhan, josta hään ite teki
+Runon.
+
+    Ah, sinua kurja Kukko![96]
+    Lauloit lammin-lantereella,
+    Mäen-kollossa kakaihtit,
+    Ainoan _Aaton_ kotona --
+    _Kaisan_-vaimon kartanossa.
+    _Kaisoo, Annia_ ajelit
+    Kukon-kaupallen kylällen;
+    _Viljakkalaan_ vikkelästi.
+    _Anni_ aatteli asian,
+    "Kuinka käynöön Kukon-kauppa?
+    Kumma vaihtan vastatuksin!"
+
+    Ensin _Ellillen_ puheli,
+    Siitten huastoi _Hannan_ kanssa,
+    Sattupa _Juutihta_ Juvalta,
+    Pitkä piika _Putkolasta_,
+    Savon-niemeltä samatek
+    _Kaupottari_ kahtomaani,[97]
+    _Antin_ morsia mokoma
+    _Kiiskilästä_ käätteli.
+    Vieläpä riukkuisi _Rikina_,
+    _Latuttari_ lasketteli,
+    _Tiina_ juosta tilkiitteli
+    _Antin_ kanssa kalkutteli,
+    _Annukka_ ajo perästä. --
+    Ah, sinua julma _Jussi_,
+    Kesken koipesit kotihin,
+    Lippaisit liinan-liolta,
+    Kapinata kahtomaani.
+    "Onko Kontio kotona,
+    Kukon-surma suutuksissa?"
+    _Risto_ juosta riipotteli,
+    Piian kanssa piipotteli;
+    _Liena_ lensi liien ette'en
+    Pankon luokse painutteli:
+    "En annak pata'in panna,
+    Siivo-veteen siivekkästä!"
+    _Hanna_ paipatti patoa.
+    _Maija_ muita mahtavampi
+    Ei voi kuunella kumossaan,
+    Eikä toisessa tuvassa.
+    Kukon-virttä veisattavan.
+
+                        Viljakainen.
+
+
+
+
+Lassi Nissinen
+
+Joroisilta.
+
+
+Lassi Nissinen Kaijolta, Joroisin pitäjästä, yksi pitkä
+rokon-arpinen mies, on yksi niistä kuuluisimmista Runojoista sillä
+pohjalla, ja myöskin vahva loihtia. Hään kävi mun luonnain s. 25 p.
+Tammik. v. 1816, ja luetteli koko vuorokauven lukujansa. Hänellä
+oli paljon omiakin tekemiään,[98] jotka muuten oisivat olleet somat
+teoltaan, ellei heissä oisi ollut niin paljon näitä roakoja sanoja,
+jotka teki heitä valaistunneillen korvillen varsin karkeiksi.
+Yksi, kussa heitä vähin tavataan, olkoon tässä näytteeksi hänen
+Runomuksestaan.
+
+
+
+KISSAN-RUNO.
+
+
+_Tahvo Monoisella Tuusmäin_ kylässä _Rantasalmen_ pitäjässä, oli
+yksi suuri Kissa, joka usseen juoksenteli _Pakkilaan, Martti
+Pakin_ luokse. Niin tapahtui kerran, että hänen vaimonsa _Rikina
+Tuuhattar_ tappo häntä ruoka-tuassansa; josta Lassi Nissinen,
+Kaijolta, teki Runon.
+
+    Alotanma aika veisun,
+    Virren värsyn viisahamman,
+    _Monoisell'_ oli muoti Kissa
+    Joka juoksi joutusasta,
+    Vikevästi viiletteli,
+    Painatteli _Pakkilaana_.
+    _Tuuhattari_ tuima vaimo
+    Hirtti kissan kiirehestä
+    Rotan-syöjän rohkiasta.
+    _Tiina Huorni_ tiijon anto.
+
+    Kissa kiljuupi tuvassa!
+    Pistiinpä _Rikina_ pihalen.
+    Otti Kissan kynsihisek;
+    Kissa kisko kynsillänä,
+    Repi leuka-pielillänä.
+    Vei pihallen piiskatakseen.
+    Huoneisen oven sisällen
+    Hirtti hivus-karvoillansa
+    Kytki perse-jouhillansa.
+    Kissapa kiljuupi kiirusta:
+    "Ei henki hevillä lähek!"[99]
+    Saipa sieltä sievän puuni
+    Jolla piähään peikaroipi.
+    Kissa kuoli kiirehesti,
+    Rotan-syöjä rohkiasta.
+    Sitä nylki nyrkillänsä,
+    Kisko kissan kynsillänsä,
+    Veritteli veitellänsä;
+    Pani kissan palkan-puillen.
+    Sai saparon lapsillensa,
+    _Martillensa_ maha-paijan,
+    _Rikinalle_ rimpottimet,
+    _Liena-Tiinallen_ tiperon,
+    Isännälle ije-lihan;
+    Esi-jalan emännällen,
+    Taka-reijet renkilöillen,
+    _Mikollen_ mitä tuloopi.
+    Risan anto _Ulrikallen_,
+    Kaula-murun _Kallukallen_,
+    Korvat _Maija Kuosmaisellen_,
+    Mulkut muillen tyttärillen.
+    Piioillen pisi-lihasta.
+
+    Jopa loppu loisten Kissat,
+    Torparien torvi-hännät.
+    Tuli murhe murkinasta,
+    Paha-mieli _Pakkilana_.
+    Viellä ois viiksiä jälellä --
+    Viikset virren laulajoillen.
+
+                             Nissinen.
+
+
+
+
+Mikko Koivuinen
+
+Taipalensaarelta.
+
+
+Mikko Koivuinen, joka asuu Niemen kylässä Taipalensoaren pitäjässä,
+mahtaa niissä paikoissa olla selvä virren-seppä. Minä en tunne
+hänestä muuta, kuin että minä, Maalisk. v. 1816, kuulin yhen miehen,
+nimeltä _Heikki Inkinen Taipalensoaresta_, laulelevan muutamia heistä.
+
+
+
+NUOTTA-MIEHET.
+
+
+Emäntä _Maija Koivuinen_, Niemen kylästä Taipalensoaressa, torui
+aina poikoansa _Matti Koivuista_, siitä että se kävi kaikket yöt
+kalastamassa, ja siitten makaisi kaiket päivät. Koska se ei tuonut
+kyllä paljo kaloja hänen mielestään, niin se luuli että hään anto
+heitä kylään; ja peätti että kerran olla vahtimassa, kahtoamassa
+kuin tulivat rantaan, ellei heillä ollut enemp kaloja, kuin mitkä
+kotihin tuotiin. Niinpä läksi hyvin varain yhtenä oamuna rannallen,
+heitä outtamaan. Miehet, jotka luuli lykkynsä piloavan jos vaimot
+heitä silmiltivät, eivät näyttäneet akoillen sualistansa. Poika,
+kuin ikään keksi Eukon raosta kahtoavan heijän soalistansa, kätki
+kalansa, ja kyseltyä: vastais heitä ei olevan. Josta Mikko Koivuinen
+teki laulun.
+
+    Kumma laulamaan rupian,
+    Ensin laulan Eukon virren.
+    Eukko hiijen hillimätöin,
+    Talon työhön taipumatoin,
+    Jolla aina ol' urina,[100]
+    Kalan-soaliista sanoma:
+    "Yöllä karkeli kalassa,
+    Kaiken päivän peä kekassa."
+
+    Olipa varteessa varahin,
+    Yli kolkan kassomassa,
+    Joko joutuuvat kotihin
+    Koho-miehet -- kontin kanssa --
+    Saisin ne saloa nähä!
+    "Soapiko varia tehä,
+    Vai ei?" -- "On varsin vilua!" --
+
+                                Koivuinen.
+
+
+
+NAURIS-VARTIAS.
+
+
+Talonpojan akka _Eeva Hämäläinen_, Niemen kylästä Taipalansoaresta,
+kahtoi nauriita itellesek Rysthollarin Heikki Koivuisen
+nauris-moasta. Tämä laitto toissa pänä miehiä sinne vahtimaan. Akka
+kuin tuli, niin miehet sutkivat häntä selkään, josta siitten Mikko
+Koivuinen sai sanojansa.
+
+    Tulipa tora talohon,
+    Suutto kova _Koivuisehen_,
+    Kosk' ei vältyk varkahailta --
+    Vievät nauriit noatineen.
+    Äsken mies mietettiin,
+    Laiha-kuakko laitettiin,[101]
+    Nauriin-vartiaks varahin.
+    Joka oli uskollinen.
+    Tuli vaimo varkahaksi,
+    Naurihita nappomahan.
+    Keksipä tuo kuiva miesi,
+    Karkaisi kohta kamala,
+    Otti vapaa vavan-peästä.
+    Kovan ruasun kouraltansa,
+    Jolla selkeä sivalsi,
+    Turkin piälle tupsutteli.
+
+    Eukko illalla kotiisek.
+    Nosti turkin naulan piälle,
+    Viitan seinälle siveli.
+    Mies kyleltä kysyypi:
+    "Onkos selkä sen-näköinen?
+    Kosk' on turkki turvonnunna,
+    Nuttu nurian-näköinen."
+
+    "On näitä kepillä lyöty,
+    Patukalla paukutettu.
+    Eipä tuo konna havainut
+    Jos ois ollut vatsa paksu,
+    Ennen kuin selkee siveli,
+    Turkin peälle tupsutteli
+    Hitto _Heikkiä_ himoisi,[102]
+    Lyömään vielä visalla,
+    Panemaan patukan kanssa."
+
+                           Koivuinen.
+
+
+
+
+Nimen Tietämättömiltä
+
+
+_Juvalla_, niinkuin muissakin paikoissa, löytyy paljon niitäkin
+Runoja, jotka ehkä ovat nykyisempinnä, ovat jo kuitenkin niin vanhat,
+ettei muistetak heijän tekiöitänsä. Monet heistä ovat aivan somat, ja
+ansaihtee tulla kuultuiksi. Myö olemme seneistä sovittanut muutamia
+näitäkin tämän kirjan lopulla.
+
+
+
+VAIMON-TAPPELIA.
+
+
+_Pekka Kämäräinen Tuusmäestä_ läksi kerran kaskeensa karsimaan.
+Hänen kälyksensä tyttärineen läksipä perästä, ja piiskaisivat häntä,
+vanhasta vihastaan. Yrjö Kämäräinen kuuli hänen parkumista, ja huusi
+akoillen, että hänen piti valittaman asian nimismiehellen. Juho
+Ronkainen Laukkalasta, joka laulo tätä mulle v. 1816, s. 1 p. Toukok.
+ei muistant kaikkia, eikä kuka sitä oli sepittänyt. Kuitenkin se on
+niin somasti tehty, että se ansaihtee tulla tietyksi.
+
+    Läksi _Pekka_ perkamaani,
+    _Kämäräinen_ kähnimääni,
+    Tuonnek murrolle mittaisi,
+    Kohotulle kaskis-moalle;
+    Sekä kahto, jotta karsi.
+    _Liena_ lippaisi perästä:[103]
+    "Tyttäreini nuoremmaini,
+    Ota kanssais kassaraisi,
+    Soimonen sota-aseisi!
+    Jolla pieksät piätä vastaan." --
+    _Liena_ kiitteli kivillä,
+    Mua-munilla mukkiloipi,
+
+    _Yrjö_ huusi hujautti.
+    Mäin piältä mäkäisi
+    Naisten hätään hävittömän:
+    "Heretkee naiset helvettiin!
+    Miehen poloisen pelistä,
+    Tok' teist' _Kurkki_ kumman soapi,[104]
+    Rohvorsi ropotin suuren."
+
+    _Pekka_ ryysti ryömyllään,
+    Muan kovilla koprillaan.
+    -- -- -- -- -- -- --
+
+
+
+TAPAILLEMISET.
+
+
+Se on kerran tapahtunut _Tuusniemessä Rantasalmella_, koska siinä
+juotiin hautaisia, että yksi niistä juopuneista miehistä oisi yöllä
+hiiskutellut piikoin luokse; mutta sattuipa toiset häntä näkemän, ja
+antoivat akoillen sanan, jotka ajoi häntä poikkeen. Kuka on Runon
+tehnyt, minä en tunne, ainoastaan että _Niilo Ruuskainen_ Laukkalasta
+laulo mulle sitä v. 1815, s. 31 p. Marrask.
+
+    Kuolipa nainen nuapurista,
+    Emäntä hyvä talosta;
+    Kuhuttiinpa kunnotonta,
+    Kunnotonta, kelvotonta
+    Kestiini kelpo talooni,
+    Jok' oil villi viinan-juoja,
+    Hullu huorien-pitäjä.
+    Otti otsalla olutta,
+    Viinoa kovin veteli.
+    Tulipa hullu humalaani.
+
+    _Antti Kärkkäinen_ ajaapi,
+    Tuppi-tiitinen tuloopi,
+    _Utin-Antti_ uilottaapi;[105]
+    "Tulkootto akat avuksi!
+    Tiäll' on _Antti_ ajan-raoss',
+    Tunkeksen tupakka-muahan!"
+
+    _Hipsuttari_ hietas vaimo,
+    Koppais koivuisen korennon:
+    "Sivallankoma sivuilleisi,
+    Eli piähän paukahutan?"
+
+    "Elkäätte Emäntä kulta!
+    En ouk tullut toin-perästä,
+    Ilman suotta irvistimme."
+
+                     Nimittämätöin.
+
+
+
+VENTISEN HÄRÄN-RUNO:
+
+
+_Pekka Ventisellä_ oli yksi Härkä, joka mäni Kettuisen hakaan. Niin
+_Kettuinen_ häntä siinä tappo, eikä siitä tullut tietoo sen-koommin,
+ennen kuin vasta vuuen peästä, jollon hään tietti nahasta soappaita
+itelleen. Silloin miten lie tullut sanomaan Suutarillen näistä
+nahoistaan, että rupeisivat arvoomaan asiata; joka sillä tavalla
+viimen suatiin ilmiin. _Kettuista_ kuhutaan seneistä _narriksi_, kuin
+ei osanut paremmin suutansa pitellä, voan ilmoitti asian, näin omalla
+tuhmuuellaan. Missä kylässä se lie tapahtunut, en taija varsin sanoa,
+eikä kuka on tehnyt Runon; vaan Juvalla sitä lauletaan. Minä kuulin
+ensin vähä tästä v. 1815 _Niilo Ruuskaiselta_ Laukkalasta, ja siitten
+v. 1816 _Joh. Ronkaiselta_ samasta kylästä; joka taisi sen kokonaan.
+
+    Olipa Härkä _Ventisellä_,
+    Vanhan _Hermikin_ vasikka,[106]
+    _Sormuttaren_ sormi-juotto.
+    Vähä on mieli Ventisellä,
+    Vähä Ventisen tytöllä,
+    Härällä sitä vähempi, --
+    Mäni Kettuisen hakaani.
+    Alko _Kettuinen_ ajella,
+    Kirkon-poika piipatella,
+    "Tpuiptä, tpupitä, Härköstäini!
+    Kuinma saisin sarven kiini,
+    Tolhon toisehen käteeni;
+    Tok' minun toinenkin käteini
+    Kova koskisin sinua,
+    Henken paikalta panisin."
+
+    Uilon ohtahan osotti,[107]
+    Sivals Härkee silmä-luuhun.
+    Härkä kuatu kalliolla.
+    Voipui muahan vuoren piältä,
+    Kahtoipa vielä päivän piälle,
+    Illistiinpä ilman piälle.
+    "Jop' on päiveä vähältä,
+    Aurinko on pikkarainen,
+    Empä joua nylkemääni;
+    Kylpy jättääpi kotona."
+
+    "Tehkeepä nyt mulle vuue,
+    Tyynyn kanssa tyssätkätten!"
+
+    Uni petti, vuue voitti,
+    Sänky pehmiä nukutti.
+    Aamu haikia havaitak!
+    Löysi päivän paistamasta,
+    Aurinkon kuumottamasta.
+    "Voi minua poloinen poika!
+    Jop' on Härkäini hävinä,
+    Suonut sarvi-ruavahaini,
+    Kuhun illalla asetin,
+    Panin päivän-lasketessa."
+
+    Alko astua tupaasek.
+    Astu kohta kuapin luokse,
+    Kovaisinta koprahasek
+    Alko veistänsä hioa;
+    Kuraisinta kurskuttaapi
+    Tuollen _Ventisen_ Härälle,
+    _Pekan_ pienen ruavahallen.
+    Pistipä tuiman tuppehesek,
+    Pamppusek pahan-tekiä.
+    Alko astua pesälle,
+    Soro-tietä soirotella.
+
+    Suapi Härän vuoren luokse
+    "Ole kiitetty Jumala!
+    Eip' ouk Härkäini hävinnä,
+    Suatu sarvi-ruavastaini
+    Kuhun illalla asetin,
+    Panin päivän-lasketessa.
+    Voi minua poloinen poika!
+    Ei ou lapset luahillain,
+    Kynttä pystyssä pitäisi,
+    Kyllämä tähän neuon keksin,
+    Viänänmä vesalla kiini,
+    Koivun-oksalla ojenan."
+    Kohta koipehen ajaksen,
+    Veti kohta koiven halki,
+    Munat muahan muksautti,
+    Kiven piälle kiljahutti.
+    ... kynsiisek repäisi,
+    Kiäntelööpi, kahteloopi:
+    "Mitäs tästä suataneeni?
+    Suapi pitkän piipun-varren,
+    Sen saman savun-vetimen."
+    Nylki Härän kokonansa.
+    Alkopa astua ahollen,
+    Väpätä väkeensäk luokse.
+
+    Veli tirskuupi torassa,
+    _Tahvo_ huasto hartahasti:
+    "Missäs sinut piru pitännä,
+    Paha henki painellunna?"
+
+    "Veliseini, Vuariseini!
+    Mull' on tulluna vahinko.
+    Härkä kuoli _Ventsieltä_,
+    Jota illalla ajelin."
+
+    "Kuin on tulluna vahinko,
+    Vastoo siitten parastais!"
+    _Kämärätär_ kiärä muori[108]
+    Haasteli halu-sanoilla,
+    Puhu lämpi-luoteilla:
+    "Suattuoon sana taloon,
+    Antoa asian ilmin!
+    Tok se toistenkin tuloopi,
+    Jos ei ennen, niin erossa."
+
+    "Pitä suutais pienempänä!
+    Itek ymmärrän enemmin,
+    Asiasta paljon tiijän.
+    Kannan lihat kotihin,
+    Kosku-torvella tojotan.
+    Ammu Härkä aitassaini,
+    Luiku lukkoihen takana!
+    Lihat suolahan sovitan,
+    Nahka parkiin panemme --
+    Kelmi kenkiä tekööpi,
+    Suapi narri suappahaita
+    Tuosta _Ventisen_ Härästä,
+    Pekan pienen ruavahasta."
+
+                     Nimittämätöin.
+
+
+
+NÄLKÄ.
+
+
+_Nälkä_ kuvaellaan tässä kuin yksi mies, jolla oli olki-petkele
+olalla, vehka-vihko kainalossa; ja joka tultua Mikkelistä-päin,
+käveskeli pian joka kylässä Juvalla. Jos tällä Runolla tarkoittaneen
+niitä isoja nälkä-vuosia v. 1695, 1696 ja 1697, tahi muita
+halla-vuosia, on tietämätöin; mutta että se on kotoisin Juvalta,
+arvataan siitä, että tässä puhutaan hänen kylistä. Meijän Torppali
+_Kalle Pasainen_ Kirkko-kylästä, Jualta, joka lauleli minullen tätä
+Runoo, sanoi sitä olevan pitemmältäkin, vaikk'ei hään sitä muistanut.
+
+    Nälkä näkyypi tulevan
+    Rautajärven jeätä myöten;[109]
+    Olki-petkele olalla,
+    Vehka-vihko kainalossa. -- -- --
+
+    Tunnettiin tuo _Turakkalassa_,[110]
+    Mutt' ei nähty _Niärinkillä_;
+    Havaihtiinpa _Hassolassa_,
+    Piettiin tuota _Piikkilässä_.
+    Kirkon-kylästä kirottiin:
+    "Mänek tuonek _Männymäellen_,
+    Tietä myöten _Tirrolahan_ --
+    Tuonne tuhmiin tupiin,
+    Talonpoikaisten taloihin!"
+
+                          Nimittämätöin.
+
+
+
+
+Selitykset:
+
+
+[1] Syy tähän viipymiseen luetaan esipuheessa I:seen Osaan XXXIII:llä
+puoliskolla (Pagina) ja seuravilla.
+
+[2] Lue tästä Otavan esipuhetta.
+
+[3] Tähän luemme e.m. ne "uusiksi" tahi "tämän vuotisiksi" kuhutut
+_Laulut, Virret ja Veisut_, joita vuosittain tuuvaan Turusta,
+ja jotka ovat luonnostaan niin kehnot, että se on kumma jotta
+heitä ostetaan ja luetaan. Tähän luettaisiin myös ne Topeliuksen
+Runoissa nimitetyt _Nykyisemmet Laulut_, ne Oulussa äsken painetut
+_Forteliukselta_ kootut _Suomalaiset Laulut_, suurin osa _Rénvallin
+Veisuista_, ja joku osa ehkä meijän omistakin laitoksistamme.
+
+[4] Nimittäin sillä tavalla, että mikä on _Runomus_, olkoon
+ajatuksessa tahi kielessä, siks' se jääpiki ikuisesti, ikään kuin
+mikä on soittamus (musik) se on soittamus iankaikkisesti. Muussa
+tarkoituksessa, niin on Runomisen keto varsin lavea, ja niin lavea
+että se ulottuu taivaaseen. Hänen juohtumukset ovat myös kirjavammat
+kuin päivän säteet.
+
+[5] Jos seneistä multa tunnettomat Runojat, (Skalder) tahi
+Runon-koottajat, tahtoisivat runoillansa lisätä näitä tietojamme,
+ja tarkoittoo meijän Suomalaisen Runo-Tarinamuksen valaistamista,
+niin heille oisi tässä tilaisuutta soaha heitä painetuiksi ja
+kunnollisesti toimitetuiksi, jos lähättäävät heitä mullen postilla
+tahi matkustavaisten kanssa. Ja tahon minä mielelläinkin, kostoksi,
+tästä heijän toimeestaan, lähättee heillen kustentamatak yhen
+kirjan-kappaleen (Exemplar) niistä kirjoista kuhun näitä painetaan.
+Vielä tahtoisin muistutella, että soisin mielelläin, jos 1)
+laitettaisiin heihin selitöksiä äkkinäisistä nimistä ja sanoista,
+2) että oisivat kirjutettunna sillä kielen-murrella kuin ovat
+tehtynnäkin, ja 3) että sepittäjöihen nimet ja elämäntievot oisi
+mainittunna.
+
+[6] Lue tästä, Otavassa I Osa, m.m. Tämä Runomus osoittaiksen
+e.m. _alku-sointumisella_ (genom alliteration) kussa joka sana ja
+juotos on jo itekseen sointuva, josta sitä eroitetaan kaikesta
+nykyisestä runomisesta, jossa aina, kahen, kolmen eli neljän sanan
+peästä, tavataan loppu-sointumista (slut-rim) johon peästyämmä
+jo unoutetaan hänen eillimäistä vastaussanansa, ellei sitä hyvin
+tarkoitetak peähään, joka toas keäntää työksi ja vaivaksi, joka oisi
+huvitokseksemme. Tällainen vanhan-aikuinen alku-sointuminen tavataan
+vanhoin _Islandilaisten, Anglo-Saksilaisten ja Messo-Göthiläisten_
+runomuksessa, joka toistaa että se on ollut _meijän tapainen_,
+tahi että Runomus _pohjoisessa_ on vanhuutessa ollut tois-tapainen
+piiroksestaan, kuin _etelässä_.
+
+[7] Otava, 1 Osa, p. 269.
+
+[8] Ensin eroitettiin ne henkelliset aineet, sillä, että Uskomus
+hävitti sen vanhan Salautsen; siitten eroitettiin ne moalliset
+aineet, sillä, että _Tarinamus, Luonnoisuus (Fysiken) ja Luonon
+Tietomukset (Natur-wetenskaperna)_ hävittivät Taikaukset ja muut
+turhat tietämiset.
+
+[9] Eikä myö muuta tarvihtek, toistamiseksi tämän nykyisen Runomisen
+luontoa (aineensa suhteen) jos ainoasti nämät kahet sananlaskut:
+"_Noista viisas virren otti, hullun pitkistä puheista, mielettömän
+lausunnosta_"; ja "_Siitä viisas virren suapi, jost' ei tuhma
+tunnekkaan_". Jotka sanat myös toistaavat että Runojoissa piti löytyä
+ei ainoasti _runomusta_, mutta myös _viisautta_, jota perustaiksen
+sen peälle, että meijän _Runojat_ oli muinon meijän _viisahimmat
+miehet_.
+
+[10] Koska näissä Runoissa mainitaan (pian kaikissa) vallattomasta
+elämästä, niin saattaa moni ehkä luulla, että elättiin niinnä aikoina
+varsin kelvottomasti, koska heillä aina oli näitä aineita; mutta
+myö uskomme toiseppäin, että olivat siviämmät kuin nykyisin, koska
+yksi kunnotoin käytös tehtiin (hänen tavattomuutestaan, owanlighet)
+runoilla kuulluksi ympäri moata. -- Niinpä sanoivat: "hyvä kello
+kauaks kuuluu, paha sanoma etemmäks". Nyt kuullaan tätä järähtämätäk.
+
+[11] Tämä Savon puheen-murreh eroittaiksen eteläisemmissä pitäjissä,
+niin kuin Mikkelissä, Joroisissa, Juvalla, m.m. siitä pohjoisemmasta
+Savon Suomesta, erinomattain puhumisessa (i uttalet) ja vississä
+sanoissa, niin kuin e.m. _ise, veisi, messä, messo, essii, kassoi,
+kussui, tarvissoo, ilmaisekse_, joita pohjoisessa sanotaan _ihe_
+(ite, itse) _veihti_ (veitti, veitsi) _mehtä_ (mettä, metsä) _mehto_
+(metto, metso) _ehtii_ (etti, etsi) _kuhtui_ (kuttui, kutsin)
+_kahtoi_ (kattoi, katsoi) _tarvihtoo_ (tarvittee, tarvitsee)
+ilmoittaiksen (ilmotta ihtensä t. ihtesäk).
+
+[12] Myö olemme tässä Runossamme uskallut synnyttää yhen Suomalaisen
+Salauksen (Myth) siitä tähti-sikeristä, jota kuhutaan Väinämöisen
+virsuksi, ei että niin millään tavalla omistaisimmo sanoillemme
+jotakuta mainioisuutta (auktoritet) ainoasti että vallollisesti
+käyttäisimme omia mielen juohutuksiamme. Vaikka se kuuluupi ikään
+kuin Salauksen luontoon (till naturen af en Myth) ei ainoasti
+että puhua salaisista aineista, ja toimittoo heitä salaisella
+sanan-tavalla (under en mystisk framställning), mutta myös että
+puheet ovat salassa synnytetyt, josta uskotaan heissä olevan
+jonkun isomman ja henkellisemmän voiman kuin ihmisissä -- niin se
+ei kielläk meitä salauttamasta (mysticera) meijän aatoksiamme ja
+mielen-juohtumuksiamme (fantasi) maallisissakin asioissa, tahi
+pukea heitä siihen salaiseen sa'unpuvuun, joka sillä luonottomalla
+eli henkellisella luonnollansa kiinittää meijän mielemme niihin
+luonottomiin (henkellisiin) aineihin, johon meijän ajatukset
+pyrkiivät, koska erkanoovat näistä moallisista, luonnollisista,
+joka-päivällisistä asioista.
+
+Myö neämmö esimerkin Ruomalaisten ja Greekkalaisten Runojoista,
+että yksinäisetkin juohtumukset (dikter) ovat hyvät kaunistamaan
+ja kasvattamaan salauksia, jotka oikeutta myöten olla pitäis
+yhteisiä kansallisia mieli-juohatuksia. Eli myö neämmö että
+kaikki heijän Salamus (mythologi) joka tarjoopi sekä Runojoillen
+että Kuvaeltajoillen lihavia ruoka-maita, harjoitaksensa heijän
+juohtelemuksiansa, on parraittain ainoasti yksinäisten tekoja.
+Oisikkohan se siitten meillen kielty viljelemään Runollisia hetelmiä
+salauksen moasta? Ei ikään! Eihään löyvyk taivaassa eikä moassa
+mitään ainetta, jota emme Runoilla soattaisi liikuttoo. Myö olemme
+seneistä uskaltannut, että varsin omasta peästämme runoitella tämän
+Väinämöisen Virsun syntymisestä, johon myö oomme ottaneet ainemme
+hänen Suomalaisesta nimestään. Myö mainihtemme tätä, välttäiksemme
+petosta, ett'etten luulisi näitä vanhoiksi kansan-puheiksi,
+ett'ettenkä kieltäisi teitä käyttämästä tätä asiata mielenne myöten
+toisenneppäin, jos tahotten. Myö oumme antaneet tämän tähti-sikeren
+ilmistyä Väinämöisellen, hänen unessaan, taivahassa oltuansa.
+Tämän unen-viettelyksen olemme yhteenkuvonut visseyteksi, hänen
+havaittuansa. Eli myö olemme tässä salauksessamme yhteenvirittänyt
+totuutta ja mielen-valetta yheksi runolliseksi tarimaksi,
+koeteeksi muka, jos kävisi meiltä omin-neuoin synnyttää ja enenteä
+Salamuksemme. Että olemme vieneet meijän Väinämöisemme Homeruksen
+ja muihen vieraisten joukkoon, ei piek teitä närkästee -- sillä se
+tapahtuu taivahassa. Että myö tässäkin (taivaassa) olemme koettanut
+karaista meijän kantelettamme ja meijän Runojamme, on yksi luvallinen
+yritys -- jost ei meitä sakoitettanek.
+
+Maito-heinä, Röd-wäpling. -- Vuohen-kukka, Hwit-Sippa. --
+Lehmän-kieli, Lilje Conwalje. -- Apilas, Hwit-wäpling. -- Leivoinen,
+Lärka. Mutta Kuopiossapäin se merkihtee Paju-pulmuista, Domherren. --
+Etelätär, Zefiren, Westan- (egentl. Sunnan-) flägten personifierad.
+-- Etelä tuuli tehty henkelliseksi.
+
+[13] Aaronin Saua on yksi Tähtisikeri (lue Otava II.).
+
+[14] Kauan kainusteliin. Myö olemme löytäneet soveliaksi antamaan
+Väinämöisellen Suomalaisen Runojan luonnon, ensin että äkkinäisessä
+joukossa ujostella, ja siitten että ottoo loveesta luontoansa, jolla
+se lumoutti näitä toisia Runon-niekkoja pystymästä häneen.
+
+[15] Lumohuttaa merkihtee tässä, "förtjusa".
+
+[16] Runotar, Poetissa, Skaldinna, Sångmö. -- Runottaret, Muserna. --
+Laulatar, Sångerska. -- Soitotar, Spelerska.
+
+[17] Myö pannaan häntä ensimmäiseksi, ei sen puolesta että se oisi
+runollisessa tarkoituksessa ollut jalompi näitä muita, mutta että se
+asian laveutessa on toimellisempi.
+
+[18] Konsan Heikki, eli Heikki Veänäinen, niin kuin hänen oikeansa
+nimensä oli -- sekin oli yksi hyvä juomari, ja lopetti murheellisella
+tavalla päivänsä.
+
+[19] Vamma t. vaiva -- _Suoni sormia vetääpi_, merkihtee: sendrag
+i fingren. Runoja alkaapi ensin puhua Laulajan pahasta elämästä
+öylöisen päivän pioista, ja sanoo sitä syyksi, ettei hänen laulunsa
+tahtona syntyä. Siitten rupea hään erittäin puhumaan niiten miesten
+mielen-luonnosta, joista runossa lauletaan -- ennen kuin hään rupea
+näistä peijaisista laulamaan. -- Peä on kieleni t. kielenpeä on,
+j.n.e.
+
+[20] Tämä Lautamies Poavo Eskelinen Kärmetlahesta, (joka oli Lautam.
+_Oaronin_ appi) kuhuttiin myös _Eskel-voariksi_ (niinkuin kohta
+kuullaan) ja oli ennen aikana ollut sota-miessä, mutta laskettiin
+pois, sillä että hään palkkais toisen miehen eistänsä. Seneistäpä
+Runoja kuhtuu häntä pilkan-vuoksi _sota-herraksi_. Hänen isä oli
+Kihlanmies (Häradsdomar) _Torsti Eskelinen_, Kermetlahesta. -- Torsti
+Eskelinen oli Lautamiehen _Poavo Eskelisen_ poika, häntä kuhutaan
+_sata-vaimoiseks_, koska hään mielusteli muihen vaimoja. -- Lukkaria
+kuhutaan tässä _kellon-soittajaksi_ (josta se lie ehkä suuttuna) sen
+eistä että se otti palkan kellon-soittamisesta, ehkä hään muilla
+soitatti. -- Runoja sanoo että se _pyrkki heillä meäkkimään_, (sillä
+se oli kehno lauluillen) _kivun kiussain keralla_. Tässä tarkoittaa
+Runoja että se peäsi Lukkariksi, sillä lailla että se osti itellesek
+huutoja. Sillä puhe kävi, että hänen veli Lautamies _Oaron Hoffrén_
+oli antanut Lainkirjuttajallen _v. Burghausillen_ yhen Lehmän, ja
+_Poavo Eskelisellen_ yhen Hevoisen, sillä eholla, että pitivät
+huutoo hänen veljensä _Jaakko Kustav Hoffrenin_ Lukkariksi. Tähän
+tarkoittaa Runossa nekin sanat (hänen Hevoisesta) "korvat korttelin
+pituiset", m.m. -- Tässä ilmoittaa Runoja, että se oli Lukkari,
+joka ensin rupeis hänen kanssaan juonittelemaan. -- Ne haukkuivat
+Lautamiestä _Hoffrénia Pukiksi_, siitä että hänen peässä aina istui
+yksi suuri Pukin-nahkainen myssy. -- Vater, (Fader) on yksi sana,
+joka on ruumenetettu Ruotin kielestä, ja merkihtee _kummi_. Näihen
+_Hoffreniloihen_ isä oli muinon ollut Herroinpäivämies Tukhulmissa,
+ja ollut kummina Kuninkaan _Gust. Adolfin_ ristiäisessä.
+
+[21] _Is' t. isä_. Runoja sanoo että Oaronin isä oli kyllä ihmisiksi
+(mainittavaa). Kuin ukkoa näin ylistetään, niin poikoa jo sillä
+alenetaan.-- _Rannihinsa t. noapurinsa_ (Granne) on toas yksi niistä
+meijän kielestämme poisheitettävistä Ruohtalaisista juoksu-sanoista.
+-- _Vihasen-lainen, t. vihalainen, vihainen_. -- _Kiltti_, t. kopia,
+hilpiä, pulski; sekin taitaa olla Ruohtalaisesta sukuperästä,
+nimittäin sanasta Gild. _Okkela_, t. vikkelä. -- _Viinan-tienuilla_.
+Se oli muka viinan-kauppias, ja sillä ansaihti (tienaisi) rahoja.
+-- Karhuiset, oli _Pekka ja Toavit Karhuinen_, sen kuolleen _Risto
+Karhuisen_ poikia. Hyö olivat _moa-kauppioita_, ja mahtoi olla
+tiurijä ja saittoja miehiä; alinomattain moittii Runoja heitä,
+etteivät antaneet hänellen oltta, vaikka hään oli kirstun tehnyt. --
+_Kasakka_ merkihtee Karjalankielessä _renkiä_. Saattaa se Venäläisten
+sana olla niin hyvä kuin se Ruohtalainen. -- _Kaukkoinen_ oli
+yksi päivä-mies, joka lie ruvenut Karhuisellen työllen, vähällä
+palkalla. -- _Toavit_ oli nuorempi näistä veljeksistä, häntä
+kuhutaan _Rouvariksi_ (Krögare) koska se piti viinan-kauppoo. Runoja
+syyttää hänen panneen vetta viinaasek, myöneen pienellä lasilla,
+ja hinnan vielä siittennik kohottanneen, kolmet isoa koiruutta
+jumalan lahjalla. -- _Ouvot_, t. äkkinäiset, jotk eivät tunteneet
+näitä hänen juonia; hään kuhtuu heitä ouoiksi, kosk eivät tätä
+ymmärtänneet. -- _Kummiksiipi_, panoo kummaksi. -- _Hyökäri_ (Hökare)
+t. Muonan-kauppias; häntä kuhutaan myös _Ruunun-kauppiaks_, koska
+se sota-aikoina v. 1788 oli urakka-mies (Entreprenör) Ruunullen, ja
+soatti eloa Kuopioon. Kuin Runoja oli näin ikäinkuin lyhykäisyytessä
+ensin toimittanut näihen miesten tapoja, niin rupia nyt vasta
+puhumaan näistä peijaisista. Ensin, mitenkä keskustelivat näistä
+keskenensä; siitten, mitenkä käytiin kuhtumassa näihin; ja siiten
+vasta siitä viinan villityksestä, sekä miehissä että vaimoissa.
+-- _Loppu Lohilta pelko_: sillä ukko oli ollut aikanansa suuri
+kalastaja. -- Loavullans t. loatullansa. -- Muori, merkihtee sen
+kuolleen Risto Karhuisen leskeä, nimeltä Anna Hussoa. -- _Leikkitäk_,
+t. täyvessä toessa. Runoja selittää ettei se ollut sanottu leikin
+vuoksi, mutta että heijän oli oatos piteä kehnoja moahan-laskiaisia.
+-- _Avahin aitan_, on sanottu taka-eillimäiseksi (Hysteron-proteron)
+kuin olla pitäis "aitanavain".
+
+[22] -- _Puoint_ t. puotin; _Pukkariksi_ kuhutaan semmoista puusta
+tehtyä avainta, jota pietään ruoka-aitoissa. -- _Marketta_, merk.
+_Marketta Ronkaa_, joka oli Pekka Karhuisen toveri. -- _Kaputtamatak_;
+kuin leivät otetaan pois uunista, niin koavitaan poro pois
+ala-puolelta. -- _Veärä-nenäksi_ kuhutaan sitä kuollutta isäntee,
+koska hänellä oli ollut veärä nenä. -- Kyrsäksi kuhutaan Savolaisten
+paksut leivät. -- _Jussi_, oli Pekan ja Toavetin nuorin veli; se
+mahto vielä olla kasvava poika, koskei hänestä näissä peijaisissa
+paljon puhutak. -- _Hovilla_ tarkoitetaan tässä _Tavinientä_, kussa
+Lainkirjuttaja _v. Burghausen_ asui, (jonka pojista yks lie ollut
+Kattein); tahi tavottaneen tässä ehkä _Halolan_ moisioo, jossa
+asui Kattein _Torsti Tavasti_. -- _Kakka-seula_, Bröd-soll. --
+_Samuli_. Moaninkan Kappalainen _Samuel Erland Agander_, joka
+piti Ruumis-soarnan. _Jaakolla_ tavoitetaan tässä Lukkaria. --
+_Hieno-seärisiä_, kuhutaan tässä vallasväki. -- Pistää puikohon
+punaisen, merkihtee, että se pisti punaisen Hevoisen aisoihin t.
+valjaisiin. -- _Poavollen puhuupi_. Se on se ennen mainittu _Poavo
+Eskelinen_. Se oli sanottu häpiäksi tain kuuluisan talon, että
+lainata kylästä kaluja: eikä se ollut kunniaksi vieraallenkaan tulla
+pitkä-korvalla pitohon.
+
+[23] _Konkari_ (gångare) on taas näitä häijyjä Ruohtalaisia sanoja;
+suomeksi: "käymäri." -- _Vanha Kaisa_ tahi Lukkarin Anoppi, oli
+_Kaisa Hyttäinen_.
+
+[24] _Hestansa_ (yksi paha haiseva sana) oisihan paremp' sanoa
+_Heponsa_. -- _Kuisti_ (farstuqwist) yksi porstua, joka on tehty
+seinän ulkopuolla. -- _Pontus_, oli Oaron Hoffrénin toinen
+ristimä-nimi. -- Turistaiksen ja Peristäiksen merk. että hään niisti
+neneänsä ja pyyhki jalkojansa, ennen kuin läksi sisään. Että hään
+ensin rupeisi puhumaan muita asioita, ennenkuin ilmotti peäasiatansa,
+on juuri Suomalaisten tapa; ei hyökään ilmoitak kohta asiatansa.
+-- _Naistenpalto_ merk. Naisväen rintaa, t. nänniä. Runoja sanoo
+että hyö nuorena kävivät yhessä tyttölöihin -- (ehkä olivat naineet
+yksisiä sisaria).
+
+[25] _Mari_ mahto olla hänen vaimonsa. -- Väisälä oli yksi talo
+_Kopolan_, kylässä, kussa Kirkkomies Poavo Väisäinen asui, jota tässä
+kuhutaan _karva-kulmaksi_, koska hänellä oli isot silmänkulmat. Hään
+oli Pekan Lankomies, sillä hään oli nainut _Marketta Karhutarta_
+Halolasta, Runoja kuhtuu hänen talonsa Kopoisen kotoksi, koska yksi
+Kopoinen ensin lie tässä kylässä ruvenut asumaan, ja josta se vielä
+Kopolaksi kuhutaan. -- _Kirkko-veärti_ on toas yksi näitä muukalaisia
+sanoja. _Konkari_ t, konkuri? (kamp).
+
+[26] _Kohta joutuvat kovullen_ t. kokountuvat -- _Pöyän arihan
+akahtiit_. Näitä sanoja minä en itekkään ymmärräk; ellei se olla
+pitäis _pöyän arinaan katahtiit, t. asettiit t. pakahtiit_, de
+sågo på, t. makade sig till det rågade bordet. _Arina_ merkihtee,
+en flat häll, offerhäll, ugns-bottnet. -- _Katko_ t. roato, merk.
+erinomattain yhen vanhan luuska-hevoisen. Runoja nimittää aina
+ihtesek näin kyhjillä nimillä, että osottoo missä alaassa arvossa
+häntä piettiin, näitä rikkaita talon-isäntiä vastaan. -- _Runtiksi_,
+kuhutaan heä-paikoissa sitä miestä, joka kulettaa morsiammen voateita
+ja muita kaluja siihen uuteen muutto-paikkaan, jo aikoa ennen kuin
+ite hiä-rahvas tuloo. Tässä se merkihtee semmoisia köyhiä vieraita,
+jotka kyllä ovat kuhuttu, mutta joita ei kuitenkaan lasketak siihen
+isoon pöytään, voan jotka ruokitaan jälestäpäin muihen tähteisillä.
+-- _Rahiksi_ kuhutaan sitä penkkiä, joka seisoo pöyän eissä. --
+_Lavihtalla_, t. laualla; polvi-jakaillemisen kautta (per diaeresis).
+
+[27] _Nukka-vieru_ logg- t. lo-sliten. -- _Turkin-puuhkaat_,
+päls-brämen, kragen; _Puuhkia_, yfwig, stolt, grann. -- _Kasukka_ t.
+pitkä turkki. Nuttu huhutaan toisinaankin kasukaksi. -- _Kurehihin
+kuivattunna_, torkad i skrynklor. -- _Korskat_, prydnaber, ehkä
+tässä merkihteevät soappaan nokat; toisessa kohin puhuu Runoja
+kankastuolista (ellei lie joku sana pois-heitetty, josta luetaan)
+"korskat korvihin rakensi".
+
+[28] _Runhustan rajoilla_, lupitan kenkän-rajoilla t. ramuilla
+(jotka oli tehty Hevoisen peä-nahasta). -- _Katrakkahan_, t.
+arastihin. Tässä Runossa lauletaan että hyö ainoasti aikoivat panna
+häntä _Sika-pahnaan_, mutta minä muistan kuulleen Hänen ite sanonneen
+toisessa Runon-vaihoksessa: "Rusi rukka runteltiin, kannettiin
+Sika-pahnaan." Asiassa se on yhtä. Mutta myö tahomme muistuttoo,
+että Savossa on talonpojisa semmoinen tapa, erinomattain häissä
+ja semmoisissa pioissa kussa leikkiä tehään, että sanotaan luokse
+sillen koottullen rahvallen, että se joka teköö rauhattomuutta, tahi
+käytöksillänsä hävittää toisten iloa, tuloo pantavaksi sika-pahnaan,
+tahi noen-karstalla noamatuksi. Ehkä se oli tästä syystä, kuin
+Ryynäistäkin tallottiin sinne. -- _Olli_  m. _Olli Hussoa_ Halolan
+kylästä. Se piti Rusin puolta. -- Kakko-puikot, pinnarne om hwilka
+härfwan hwilar i härfträdet. --
+
+[29] _Mustavirta_ kuhuttiin 2 taloa, kussa asui _Husson_ sukuja.
+Heitä oli kaks veljestä, _Antti ja Olli_, jotka pitivät Rusin
+puolta; jostapa se heitä kyllä kiittää. Antti, joka ei mahtant
+maistoo viinoo, oli puoltamisellansa vähältä tulla Pukilta
+ruoskituksi; taisi se jotaik sanoa seppä Tuppuraisestakin, koska se
+sai siltä korvankolauksen. -- Runoja antaapi _Pontuksellen_ vielä
+toisenkin Pilatuksen nimen, että sillä vielä enemmin paljaistaa hänen
+kovuutta.
+
+[30] _Vanha Antti_ taitaa tarkoittaa Antti Hussoa. Häänki mahto
+olla Puu-seppä. -- _Riinistäini_ (t. arkustaini) toas näitä
+häijy-sanoja! -- _Tuohiseppä_. Tämä _Olli Tuppurainen_ oli Karhuisen
+tolpari, ja varsin kehno seppä; seneistäpä Ryynäinen kuhtuu häntä
+"Tuohi-sepäksi" ja antaa hänellen muitakin pilkka-puheita, koska se
+löi hänen puolus-miestänsä. -- _Rautiain_ t. rautio merkihtee "Seppeä"
+Pohjalaisten kielellä. -- _Aijas-karvainen_, merk. että se oli harmoo
+niin kuin vanha aita. -- _Röky_ t. rökö, on yksi silta-peiteh
+(golfmatta) jota pietään talonpojissa.
+
+[31] _Petettiinpä Pekka vielä_. Tässä ymmärretään _Pekka Hussoa_,
+joka näissä peijaisissa lie tullut hyväilemään _Maija Ronkaista_.
+Häntä kuhutaan _sortiksi_, joka merkihtee yhtä siistoo poikoa.
+Gottlannissa kuhutaan myöskin Ruotiksi yksi puolkasvanut poika
+_Sorkiksi_. -- _Hyttylä_ oli yksi kylä; _Hyttylän hyvät emännät_,
+tarkoittaa Eskelisen vaimoo _Hedvig Hyttyistä_, ja Lukkarin vaimoo
+_Liisa Rautiaista_. -- _Mari_ merk. _Maria Ronkaista_, joka silloin
+lie ollut morsiammena, ja tuli siitten naituksi _Pekka Husson_
+kanssa. -- _Vainikkainen_ oli Husson tätin-toveri. -- _Kaisa_ oli
+Husson täti ja Vainikkaisen akka. Hään oli varsin vastaan tätä
+naimista.
+
+[32] _Matiksi_ kuhutaan tässä raha-kukkaro, joka on typö-tyhjä.
+-- _Riimut_ t. päihtet.-- _Kermo_, (Germund) oli yksi loisimies
+Peräniemeltä, jota Runoja kiittää hänen avullisuuestaan. --
+Soahaksein tästä Ryynäisen Runo-jutusta selvämmen tievon, olen minä
+variten-vasta Kuopiosta hankkinut rotokollat tahi Lain-toimeukset
+(Rättegånshandlingarne) tässä asiassa; joista nähään, että ovat
+kolmet päivee jutelleet Laissa tästä Runosta, nimittäin s. 1:nä,
+13:nä ja 14:nä päivänä Loka-kuussa vuonna 1791; ja että Lukkari,
+soahaksensa Ryynäistä syypeäksi, syytti (veljensä kautta) häntä ensin
+moahanpaniais-päivänä tehneen kirkko-hämmennöksen (kyrkoförargelse)
+Moaninkan kirkossa, ja siitten vielä Karhulassa vastanneen häntä
+hävittömästi, koska häntä tästä nuhteltiin. Vierasmiehiksi
+kuletettiin Talonpoika Antti Pekanpoika Husso Tavisalmelta, Lampuoti
+Oappo Ristonpoika Möykkynen Halolasta, Toipari Antti Tuppurainen
+samasta kylästä, ja renkimies Heikki Vainikkainen Kermetlahesta.
+
+Hyö toistivat kaikki yhöllä suulla, että Ryynäinen (joka ehkä lie
+ollut vähä rohkeisillan) laulo virttensä vähä toisella tavallaan,
+koska tämän _Risto Karhuisen_ ruumis-soarnoa piettiin Moaninkan
+kirkossa, josta Eskelinen, joka istui samassa penkissä, nykäis
+häntä vähä käellänsä; mutta ettei hään laulanut mitenkään veärin,
+eikä tehnyt mitään hämmennöstä. Siitten oli hään Karhulassa kysynyt
+syytä tähän, ja silloin tullut Lukkarin kanssa riitaan, jonka se
+oli viimeisellä käskenyt haistella häntä taka-paikoillansa. Muuta
+syytä eivät hänessä löytäneet: mutta sitä vastoin ilmoittivat
+että peällen-kantaja Lautamies _Oaron Hoffrén_ oli hetken peästä
+pieksänyt häntä pihalla piiskallansa (niin kuin Runossa mainitaan)
+jotta hänellä oli ollut silmissänsä viis veri-mustelmia. Oaron
+kannatti syyksi, että hään oli haukkunut häntä Pukiksi, ja kanteli
+yhessä Appensa _Poavo Eskelisen_ kanssa, että Ryynäisellä oli
+ollut tapa tehä hävittömiä Runoja _Hoffrénistä, Eskelisestä_
+ja Lainkirjuttajasta (Hofrätts Sekreteraren) _von Burghausista_,
+joita hään laulatti kylässä. Koska _Ryynäinen_ teki tätä tyhjäksi,
+niin tuotiin toistajaksi _Vainikkaista_, joka oli kotoisin samasta
+kylän-peästä, ja joka tunnusti kuulleesek hänen, viimeissä
+Juhannus-päivänä Talonmiehen _Tahvo Vainikkaisen_ talossa, laulanneen
+(Lukkarista): "Luulin Lukkarin hyväksi, kello-soittajan somaksi"
+(ja Lautamiehestä _Hoffrénista_): "Nyt minä puhun Pukista, Oaronista
+aloittelen, Tasa-turvasta tarisen." Hään oli myös laulanut jota-kuta
+_Eskelisestä ja v. Burghausista_, ehkei toistaja tainut tätä
+muistoo. Ryynäinen tunnusti nyt, että hään kyllä oli Runon tehnyt,
+voan kielsi kovasti vastaan, siinä olleen minkäänlaista häpeitä
+näitä miehiä vastaan. Niin kosk'ei Oikeus tainut mitään tähän asiaan,
+niin lykättiin juttu toiseks käräjäks, jollon riita-miehet piti olla
+molemmis-puolin soapuvilla, toistuksineen. Mitenkä siitten asiata
+siinä käytettiin, ja jos siinä Ryynäistä laulatettiin, eli jos
+heittivät koko jutun sipo-sillään, en taija varsin sanoa, koska minä
+en ouk ollut hyvä soaha näitä Lain-toimeuksia käsihin.
+
+[33] Solenni, t. julkeus (solemnitet, högtidlighet).
+
+[34] _Martti Lutherus_ oli syntynyt v. 1483 s. 10 p. Marrask.
+_Eisleben_ kaupunnissa, Saksanmoalla. V. 1501 tehtiin häntä
+Opettavaksi (Stubent) _Erfurtissa_, ja v. 1503 Oppiaksi (Magister).
+Hään löysi jo silloin yhen vanhan Latinalaisen Roamatun
+Opistonkirjan-koossa (i Akad. Bibliotheket) ja keksi että siinä
+luettiin toista, kuin mitä poavilaiset opettivat. V. 1505 rupeisi
+hään Augustineriläisten papis-kuntaan Erfurtissa, ja sulki ihtesäk
+Papistoon (i ett Kloster) kussa hään poastolla ja ruumiillisella
+kärsimisellä kovuutti ihtesäk, suruissaan ystävänsä _Alexin_
+murhamista. V. 1507 vihittiin häntä papiksi, ja v. 1508 tehtiin häntä
+Opettajaksi Wittenbergissä. V. 1510 näki hään omilla silmillänsä,
+Ruomissa käyessänsä, pappisten koiruutta ja ilkeyttä. V. 1512 tehtiin
+häntä Henkelliseksi Oppiaksi. V. 1517 s. 31 p. Marrask. naulatti hään
+koko Saksanmoan nähtäviksi, 95 ajatus-sanoo vasten tämän Tetzelin
+synnin-kauppamista. Ja koska olivat molemis-puolin ylöspolttaneet
+toisten kirjoituksia, niin hään v. 1520, s. 10 p. Jouluk. kirjutti
+yhön manaus-kirjan Poavia vasten, jossa se julkisesti rupeisi
+niskoittelemaan hänen kasaan. V. 1521, s. 4 p. Huhtik. läksi hään
+Herroinpäivillen Wormsin kaupunnissa, kuhun hään oli kuhuttu
+esivastaukseen. Hänen matkustamistansa sinne oli yksi kunnia-kulku
+(triumftåg); kaikki tunkeksivat nähäkseen yhtä miestä, joka oli
+uskaltannut riitelemään vasten 100 vuosien tapoin-pahennuksia
+(sedeförderf) ja kaiken henkellisen ja moallisen vallan vasten. Hään
+seisahtui yhen peninkulman ulkopuolella kaupunkin, 2000 miesten
+keralla, joka oli hänen seurassa, sekä hevoisin että jalkaisin.
+Sinä 17 p. Huhtik. astui hään vilpittömästi eteen Herroinpäivillä,
+kussa hään suurella uskalluksella ajoi asiatansa Keisarin kuulla,
+Peä-Hertun (Erke-Hertig) _Ferdinandin_, 6:en Kunnan-Ruhtinaisten
+(Chur-Furstar) 24 Herttuin, 7:en Moa-Grévilöihen (Mark-Grefwar)
+30 Piispoin, paihti monen Ruhtinan, Grévin, Herttuin, Herroin ja
+lähättämien lässä-ollessa. Tässä oisi hään joutunut henken-pauloin,
+ellei moni Saksan Ruhtinas oisi ystävällisesti suojellut häntä ja
+tämän uuven mielivalaistamisen, jonka hään soattoi moailmaan. V. 1523
+niin poisheitettiin ensin Wittenbergissä tätä poavilaista messumista
+(Lithurgien) ja nouatettiin uutta parempata järjestystä kirkko-menoin
+harjoittamiseksi. V. 1524 heitti Lutherus pois pappis-vaipansa
+(Munkkåpan) jolla se tarkoitti papistoin hävittämistä, paremmaksi
+henkelliseksi papis-harjoitukseksi. Vuotesta 1526 vuoteen 1529,
+toimitti hään Melanchthonin avulla yhen uuven Evangeliumin opin,
+ja painutti suuremman ja pienemmän Katekismuksensa. V. 1537
+kirjutti hään Schmalkaldin kuhuttavaiset liitokset, ja v. 1521-1534
+ulostoimitti hään sen ensimäisen keännöksen Roamatusta. Hään oli
+yksi oppinut rehellinen ja hurskas mies, mutta luonnostaan oli hään
+syvämikkö, yksipintainen ja jyrkkä-luontoinen, josta suuri osa
+hänen seurakunnista erkani hänestä, ja yhistivät ihtesäk nimellä
+Uuistetut (reformerte). Lutherus kuoli s. 18 p. Helmiki v. 1546
+Eisleben kaupunnissa 63:lla vuuellansa, ja hauattiin Wittenbergin
+linnan-kirkossa. Häntä kunnioitetaan koko ristikunnassa, niin kuin
+kaiken ihmiskunnan onnistaja ja valaistaja.
+
+[35] Philip Melanchthon, joka oli Lutheruksen puolus-toveri
+uskomuksen muutoksessa, oli syntynyt s. 16 p. Helmik. v. 1497
+Brettenissä, Phalz am Rheinin moakunnassa. Hänen isä oli Rustmestari
+Georg Scharzerd, jonka nimen poika keänsi Greekaksi. Hään oli jo
+nuoruutessa hyvin oppinut vanhoissa kielissä, ja vanhoin-jeännöksissä.
+Häntä tehtiin Oppivaksi Heidelbergissa v. 1510, ja v. 1511
+Tietous-Oppiaksi. V. 1518 tehtiin häntä 22 v. vanhana Opettajaksi
+Wittenbergissä, Greekkalaisessa Oppimuksessa (Grek. Litteraturen),
+ja oli siinä viisauellansa ja mielen-tyyneyellänsä Lutheruksellen
+parhaina puolus-miessä. Hään kuoli s. 19 p. Huhtik v. 1560, 63
+v. vanhana. -- Johan Tetzel oli yksi kuulussa synnin-kauppias,
+joka oli Leipzigista kotoisin. Hään rupeisi v. 1489 Dominikanerin
+papis-kuntaan, ja sai luan käyä ympärin moata soarnoamaan. V. 1502
+pani Poavi häntä synnin-kauppiaksi, jota hyövyllistä kauppoo hään
+toimitti 15 vuotta, ja käytti ne häpiällisimmät apu-keinot näihin
+kujeihinsa. Hään oli käytöksissään ja elämässään niin kelvotoin,
+ylenylpiä ja irstainen, että häntä jo kerran tuomittiin ikuiseen
+vankeuteen, mutta vapautettiin Ruomissa, kussa se Poavi Leo X:neltä
+sai synnin peästöstä. Siitten rupeisi hään vielä isommalla koiruuella
+(oförskämdhet) pitämään tätä synnin-kauppoa (aflatskrämeri).
+Kulkiissaan Saksan moalla niin Tähti- ja Miekka-miehet (Riddare)
+soattoivat hänen vaununsa, kussa nähtiin kahta isoa kirstua, joista
+yksi säilytti kauppakirjat (aflats-brefwen) toinen rahat, jotka
+heistä maksettiin, ja jonka peälle luettiin namät sanat:
+
+    Sobald das Geld im Kasten flingt,
+    Sobald die Seel gen Himmel springt.
+
+Joka ois: "Kuin rahat kirstuhun heläht', Silloin sielu taivaaseen
+välähe." Hänellä oli kuussa 90 Gyldeniä kullassa palkoo, paihti
+ruokansa. Sillä tavalla kootti hään rahoa ja kultoo monesta moasta,
+kunnekka Luther v. 1517 anto ulos ajatus-sanojansa (satser) näitä
+koneita vastaan. Tetzel kuoli Rutto-tauvissa v. 1519, s. 4 p. Heinäk.
+juuri samana päivänä kuin Luther piti sitä kuuluisaa Juttelemusta
+(Disputation) Oppia Eckin vastaan Ingolstadtista. -- Paul von
+Samosata oli muinon yksi Piispa Antiochiassa, joka asetti Syriassa
+yhtä eriuskon-noutamusta (religionsekt) jota kuhuttiin Samosatanaisen
+tahi Paulianilaisen; ja joka eroittiin _kolminaisuen opissa_ (i läran
+om treenigheten) ja _Ristuksen Jumalisuutessa_. Mitenkä Ryynäinen
+sanoo hänen olleen synnin-kauppiana (aflatskrämare) ja luettaa häntä
+Lutheruksen aikuiseksi, tainnoon hään ehkä ite parhaittain selittää.
+Mutta on uskottava, että koska koko hänen tietonsa perustaiksen yhen
+soarnan peälle, niin se tuloo sitämyöten mitenkä nämät asiat on
+tulleet Papilta toimitetuiksi.
+
+[36] Munkki t. Pappinen, oli poavilainen pappi.
+
+[37] Kosk' ei oppinut osaja. Se näyttää niin kuin Ryynäinen oisi
+epätievossa Opin-isänästään.
+
+[38] Upsalan kokous, kussa kaikkia poavilaisia menoja
+pois-heitettiin, ja nouattiin tätä uutta oppia, piettiin v. 1593.
+Muutoin niin tässä Ryynäisen sananjuotteessa ei ouk täyvellinen
+ajatus.
+
+[39] Kahesti kuulla. Vuonna 1793 piettiin yhtä Juhlin-juhloo
+s. 8 p. Moalisk. muistoksi Upsalan kokouksen peätöksestä. Jolla
+kunnioitettiin Lutheruksen opin harjoittamista Ruotsin valtakunnassa;
+ja vuonna 1817 vietettiin yhtä Juhlin-juhloo s. 31 p. Lokak.
+muistoksi tämän opin ensimäisestä ilmauntumisesta moailmassa.
+
+[40] Häntä piettiin, ikeän kuin vähä hällä-päissä tahi hölmönä
+muissa asioissa, ja niin se näytti minustakin kuin ei kaikki saumat
+oisvat olleet paikoillansa, tahi kuin joku voarna oisi ollut varsin
+helpoillaan. -- Hänen Runoissa osoittaiksen paljon huolimattomuutta
+ja harjoittamattomuutta; mutta ettei hään ollut ilman runollista
+juohutusta nähään monesta paikasta, liioitten _Kurvilan Emännästä_,
+kussa hänen runossa tavataan yhtä erinkummasta mielen-hilpeyttä ja
+somaisuulta.
+
+[41] Jyränköksi kuhutaan Suomeksi Heinolan kaupunkia, koska sitä
+1770 vuosiin luvulla rakenettiin Jyränkän t. Jyränkön Rysthollin
+vainiolla, Päijänen rannoilla, Keltin kosken varrella. Jyränköksi
+kuhutaan vielä nytkin tämä lähimmäinen kylä, kaupunnin ulko-puolella.
+
+[42] Kullan karrella t. kullan karvalla. -- Mörjättynnä (smorda) on
+toas näitä vaivaisia vieraita sanoja, joista oisi parempia itellämme,
+e.m. tellättynnä, tukettunna, voijettunna m.m. -- Värjättynnä (färgade)
+yksi pahalainen juoksusana Ruotinkielestä; Suomeksi: "painetunna."
+
+[43] Kartenit (gardiner) saatais kuhtua Suomeksi lasi-liinoiksi, t.
+akkunan vaipoiksi.
+
+[44] Puukhollari (Bokhållare) on yksi Ruohtalainen sana, joka Suomeksi
+saattais sanoa Kirjuttama-mieheksi. -- _Löysriiväli_ (lösdrifware)
+t. moa-kulkiain, moa-juoksia, -- Asessuori oomme Suomeksi kuhtuneet
+Lainistujaksi.
+
+[45] Ruoti (rote) merkihtee yhtä talonkuntoa joka kustentaa yhen
+sota-miehen, tahi elättää yhen ruoti-vaivaisen.
+
+[46] Terehtyöri (Director) t. Käyttäjä; Peä-käyttäjä.
+(General-Director). Tässä Runossa luetaan niin paljon näitä
+virka-nimiä, jotta ei ouk paljon heijän Suomentamisesta.
+
+[47] Ränteri'i (Ränteri) t. Vero-huone. -- Makasiini (Magasin)
+t. Elohuone. -- Välskäri (Fältskär t. Parantaja.) -- Tohtori (Doctor)
+Oppia. Medicines-Doctor, Paramus-Oppia. -- Apoteeki, (Apothek)
+Rohto-huone -- Lasareetti (Lasarett) t. Poto-huone.
+
+[48] Hantverkeri (Handtwerkare), Kalun-tekiä. -- Varvali
+(Swarfware) Pyörittäjä. -- Värjäli (Färgare) Painuri, t. Painaja. --
+Mestari (Mästare) Taitaja, t. Taituri. -- Kiselli (Gesäll) Taitava.
+
+[49] Harmaat t. harmaat peät, vanhat ihmiset.
+
+[50] Kymin-koskeksi ei kuhutak sitä virtoa, joka juoksoo Jyränkön
+sivuitten, voan Keltin-koskeksi; joka vasta Iitin pitäjässä
+puottaiksen Kymihin.
+
+[51] Jos Hirvoinen piti ihtesäk isommanna Runo-niekkana Savossa,
+niin se ei ouk laimin lyönyt että virressäkin osottoo tätä
+paha-haisevata oma-kehutosta.
+
+[52] Rahtyöri (Traktör) t. Ruoka-kauppias.
+
+[53] Ajoivat Maaherran moahan, merkihtee että Moaherra tuli
+ite ulos kahtoamaan tätä meteliä. Tässä on puhe josta-kusta
+tappeluksesta, joka lie tapahtunut Heinolan markkinoilla.
+
+[54] Panoo pajakkata, merk. että se paipatti paljon kylässä
+omista talon-laitoksistaan. -- Kerhekästi t. ketterästi. --
+Kiekkarasti, t. sukkelasti. -- Ahvakasti, t. ahkerasti.
+
+[55] _Sukulaiset suuta anto_, sanotaan pilkan vuoksi; sillä tällaista
+tervihtimistä ei tavatak talonpojissa.
+
+[56] _Ouvoiksi_, kuhutaan tässä ne köyhemmät tahi rumempnäköiset
+tytöt, koska eivät miehet heihin miellyk.
+
+[57] _Lapset laulaavat kotonna_. Tahi tässä ymmärretään Maunuksen
+lapsia, jotka lie muuttaneet emänsä kanssa pois; ja joille tuli
+köyhä elämä, tahi ymmäretään heitä, jotka lie jäänneet kotiin, voan
+jotk' ei nyt soaneet ellee niin herkullisesti kuin ennen.
+
+[58] Luatu-poika t. hyvä-loatuinen.
+
+[59] _Kokki_ oli Kovaisen sota-köllö, sillä se oli ollut sotaväessä.
+
+[60] _Piiparin-aho_, kuhuttiin yhtä ahoa t. selännettä. -- _Simoinen
+Piispa_, ja _Nilkkilä_ oli torppia tahi taloja, joihen sivuihten hänen
+tuli käyä. -- _Tihmakset_ oli yksi lampi. -- _Jääkeri_, mahto olla yksi
+mökki. -- _Ylöinen_, tais olla järven nimi.
+
+[61] _Viiki_ oli yksi torppa. -- _Kovaisen-poika_ tarkoittaa hänen
+veljensä Jussi Kovaista.
+
+[62] _Elli_ mahto olla Mikko Kovaisen akka.
+
+[63] Risa, körtel, muskel -- Pallio, njurtalg.
+
+[64] _Tuhmalle sepälle_. Jussi Kovainen oli Seppä, Suutari ja
+Pirran-tekiä.
+
+[65] Näistä hänen työ-vehkeistä kirjutti minun Isäin Suomen
+Talon-toimitus-kunnallen (Finska Hushållnings-Sällskapet) joka
+lahjoitti häntä kunnia-rahallansa.
+
+[66] _Laulamisensa_ suhteen niin minun Isäin oisi tehnyt häntä pitäjän
+Lukkariksi, mutta hään oli kehno kirjuttamaan, eikä ymmärtänyt
+sanoo Ruohtia, joka aina tarvitaan niin kauan kuin omoo kieltämme
+alas-poljetaan.
+
+[67] Hään oli periselvä kirja-lukemisessa, ja oli niin karaistanut
+muistinsa, että hään osais suuremman osan Roamatusta ulkoapäin.
+
+[68] _Vuan ei jaksa jäseneini_, sillä se oli muutenkin ollut
+siukka-sekainen. -- _Heikki_ mahto olla _Kokkoisen_ poika. --
+_Matti (Keäriäinen)_ läksi matkustamaan -- koko virstan peästä. --
+_Pekka_ oli yksi loispoika, _Rokkaisten_ sukuja; hänen äiti, jota
+tässä kuhutaau hänen emännäksi, oli Loatikkaisia. -- _Annikka_ oli
+Hämäläisen akka. -- _Pulli_ oli Annin poika.
+
+[69] _Matiskala, Iloinen ja Poajala_ oli talonnimiä.-- _Kunneli_
+(Gunnilda) oli Kokkoisen akka. -- _Ollikkala_ oli yksi talo, josta
+Keäriäinen oli kotoisin. -- _Vappu Tarkiain_ oli Suutar Loatikkaisen
+akka. -- _Laiko-suoleksi_ kuhutan maha-suolet. -- Muut räpälät, niin
+kuin satakerta, m.m.
+
+[70] _Karitsaksi t. karkoksi_ kuhutaan yhtä Lammasta, joka on jo
+toista vuotta vanha. -- _Yrjö_, nimittäin _Yrjö Hokkainen_. Hään oli
+sora-kielinen, seneistä sanotaan että hään sorahti.
+
+[71] _Piikki_ oli yksi yksinäinen asuva sotamies, Kankasniemestä
+kotoisin. Hänen oikea nimensä oli _Tahvo Lukkarinen_.
+
+[72] _Ruopimasta_ t. mullostamasta. Yksi sana synnytetty Ruohin
+kielestä.
+
+[73] _Hyrskähti_ t. puhkeis niinkuin nauramaan. -- Piestään t.
+pieksetään. -- _Vesterinen_ oli yksi Rakuuna, joka sattu silloin
+tulemaan sinne.
+
+[74] _Juakko_, tarkoittaa Joakko Karjalaista, joka kahtoi torpastansa
+karsahaksi (otacksamt) myyä yhen annetun lahjan; (sillä tie kulki
+hänen mökkinsä sivuihten). -- _Kilkki_ oli yksi talo joka niinikkään
+oli tien-varrella. -- _Tuomas_, nimittäin Tuomas Kaipainen, joka
+silloin oli saunoansa salvamassa. -- Akat autto muka laulamassa. --
+_Pitkä ukko_ tarkoittaa Tuomas Kaipaisen veljee. -- _Soaren röhköksi_
+kuhutaan Juho Kostiaista, koska hään oli soari-asukas (öbo).
+
+[75] _Asilainen_ oli yksi talonmies; ja _Pennainen_, yksi loisimies.
+
+[76] _Simo_, oli yksi Hyötin pojista, hään puhui tirskutti tihjästi,
+seneistäpä Runoja sanoo että se _sipsatti_ tästä asiasta. -- _Raso t.
+Erasmus_, oli toinen poika. Pojat juttelivat välillänsä, kellen Kissa
+oli annettava. -- _Poavo_, oli Poavo-Hyökin vanhin poika.
+
+[77] _Kaita kasvo_ t. laiha pelto. -- _Hyökin Matti_, oli yksi poika
+toisesta osakasta, samasta talosta.
+
+[78] Nämät Norin rajoilla asuvaiset Suomalaiset eivät ollenkaan
+ymmärräk _kyntää_ palojansa ja halmeitansa, voan kylväävät (niinkuin
+muinonkin meijän moassa) paljaasen tuhkaan, ja heittäävät
+siemenensä siihen poltetun moa-pintaan; jostapa hyö pouta-vuosina
+kuivaa pois, niin ettei siitä lähek niin mitään. Kuin meillä monta
+vuotta viljellään yhtä halmetta, niin hyö eivät semmoisista
+palon-maista soak jos _yhen touvon_, ja sekin tietämätöin. Kuin minä
+puhuin heillen mitenkä Suomessa _rovioitetaan, kynnetään ja
+karhitaan_ vaikka oisi miten kivisiä palo-maita, niin pitivät sitä
+mahottomaksi; ja pyysivät minua, että minä laittaisin heillen
+muutamia miehiä Suomesta, jotka oppettelisivat heitä tätä
+moa-viljelemistä, ja joihen vaivat ja kustennokset hyö lupaisivat
+runsaasti palkihtaksensa, ylitten voan ei alatten. Minä lupaisin
+heillen tätä tehäksein, ja koska jo _yksi_ mies oli minusta kyllä,
+täksi tarpeheksi, niin minä syksyllä v. 1824 otin kanssain Juvalta
+yhen nuoren miehen nimeltä _Tahvo Immoinen Multamäeltä_, joka teki
+heillen semmoiset oatrat ja kyntö-värkit kuin meillä, ja oli se
+ensimmäinen joka opetteli näitä kansoja _kyntämään mehtä-maitansa_.
+Hään viipyi näissä Suomalaisissa v. 1825 ja 1826. Ja vuonna 1827
+laiton minä häntä toas kotiinsak Savoon. -- _Ikolaksi_ kuhuttiin sitä
+taloa, kussa Asikainen asui. -- _Vantilaksi_ puhuttiin toas sitä taloa,
+kussa Siiskoinen asui.
+
+[79] _Kuuvennoksen kunnon tyttö_. Sillä sanalla tarkoitetaan tässä
+_Sohvia Seiloista_, joka silloin lie ollut Asikaisen talossa
+kylpemässä.
+
+[80] _Juhana t. Juho_ oli Eiro Siiskoisen poika. Hyö kävivät miehissä
+kavonnutta ehtimässä; kuin Siiskoinen löysi hänen, niin hään huusi
+niillen toisillen: "Teäll' on miehet, meijän Sika!"
+
+[81] _Eeva Nopoinen_ oli tämän Runojan Heikki Huuhtisen äiti. --
+_Muari Piekäinen t. Pietikäinen_, mahto olla Asikkaisen piika, koska se
+piti emännänsä puolta.
+
+[82] _Juonos_, oli yhen talon nimi. -- _Tallin usta_ t. tallin ovea.
+Uksi, joka Karjalan puheella merk. ovee, tavataan usseen Runoissamme.
+Akka aatteli tallista tahi korsusta ruumenia soahaksensa. -- _Jussi
+Juoneksessa_, mahto olla ite talon-isäntä. -- _Kiisti_, hään peäsi sinne
+kiistämällä. -- _Kilkki_ on talon nimi. -- Siis, t. siit, siitä. --
+_Märkänä_. Vyyhti oli vielä märkä, sillä se oli vasta otettu painosta.
+Hään piilotti häntä olki-kupoon, tullaksensa toisena kertana
+häntä ottamaan. Mutta sillä ajalla toiset jo löysivät sen olissa.
+-- _Pyysi_, t. aatteli, mieli. -- _Pyrrhöisessä_, siinä asui Eerik
+Pyrrhöinen, jolta hään aatteli kopataksensa vähä palttinata, paijaksi
+miehellensä. -- _Toiseen tupaan_, siinä asui Joakko Pyrrhöinen, jolta
+se kahto soahaksensa ruoka-neuoja.
+
+[83] _Tolki t. suola-tolki_ kuhutaan se kopsa jossa suoloja pietään
+-- _Mies lykkäis lylyen peällä_, ymmärretään Haikaraisen miestä, joka
+silloin hiiskutti muita maita, hankkiaksensa jotaik talven varaksi. --
+_Puavo_, merk. Puavo Jältti (Hjelt) -- _Kuhjonen_, merk. heinä-kuhjoo.
+
+[84] _Rensilä_ oli yhen ison talon nimi. -- _Viisas virsien-tekiä_,
+Tämä Marketta Haloinen oli Runotar. Hään ja ne toiset kylän tyttäret
+oli muinon tehneet runon tästä Huuhtisestakin, vaikka emminä
+suanut häntä sitä laulamaan. Tästäpä tämä oli sukkela tehä virren
+hänestäkin. -- _Mikko Ikoinen_ oli kotoisin Hurisalosta, Puumalasta.
+-- _Heikki (Pekanpoika) Nopoinen_ asui Niemen-Nopolassa. -- _Vantit_.
+Siiskoiset kuhutaan tässä Vantiksi t. Vantiloiksi, koska heijän talon
+nimi oli Vantila. Se oli heillä kuin tämä Marketta Haloinen oli
+piikana.
+
+[85] _Eerik_, merk. Eerik Siiskoista. -- _Liisa_, oli Liisa Siiskoinen
+joka makais Marketan vieressä voan joka nyt laskiin sieltä
+pois, kuin tuli sulhainen. -- _Kolkutos_. Kuin hään rupeis puitansa
+hakkoamaan riihen eissä, niin -- silloin vasta havautti Nopoista. --
+_Tankot_. Kuin rupeis nousemaan, niin lavat hajoisi.
+
+[86] _Kuues numero_. Runoja antaa hänellen semmoisen nimen, koska
+hänen talolla oli kirkonkirjoissa 6:ees numero, kylässä. -- _Taltan
+Ansa_ merk. Anna Tallaista.
+
+[87] _Puuter-piä_ (Puder-hufwud) on yksi näitä vaivaisia Ruohtalaisia
+otto-sanoja, joka on nouettu ainoasti sen vuoksi että se sointuu
+(rimmar) sanaan "Puumalaan". Suomeksi se tässä merkihtee:
+"liina-peä," (joll' on valkoiset hiukset.) -- _Tiinan töitä_, että
+nostaa tällaista puhetta.
+
+[88] Minä en muista mitä lie ollut estettä, ettei hään suanut lauloo
+virttänsä aina loppuun. Minä aattelin: "soanen minä tuon vastapäin."
+Mutta niinpä se jäi -- minä en eneän tavana häntä.
+
+[89] _Puavo Köppö_. Kaikki mitä tässä puhutaan hänestä, sanotaan
+ainoasti että villitellä heitä Runon-sepittäjästä. Köppö, joka
+äsköin on kuollut, oli yksi kylän-käviä, joka elätti henkensä
+paljaalla runomisellansa ja loihtimisellansa. Häänki kävi minun
+luonnain Helmikuussa v. 1816, jollon hään kahtena vuorokautena
+lasketteli näitä loihtu-sanojansa. -- _Pitkin tietä käyessänsä_. Se
+on merkillinen, että runoissa usseen kuullaan sanottavaksi, jotta
+heitä synnytetään tietä käyessä, ikään kuin eivät muullon oisi
+tätä joutaneet. -- _Pekka_, merk. Pekka Kiiskistä. -- _Purhoiset_,
+oli Kiiskisen lanko-miehet.
+
+[90] _Juakko_, merk. Joakko Auvista. -- _Einepuuksi_, kuhutaan yksi
+puu, jota pietään majassa. -- _Pekka_, merk. Pekka Hyytiäistä, joka oli
+Maijan ja Sohvin sisaren-poika; hään heittiin nukuksiin, mutta kuuli
+saloapäin kaikki mitä hyö keskenään hoastelivat, jota hään kertoi
+äitillensä.
+
+[91] _Tuutu_ t. kätkyt. Ukko tarjoi viha-päissänsä sian-kaukalota
+vävyllensä, kätkyeksi.
+
+[92] _Ori juoksi joutuisasti_. Hänellä oli hyvä Hevoinen kotoa, mutta
+humala-päissänsä vaihto itellesek huonomman, Lampiselta, josta hään
+joutui isäsäk kanssa toraan. -- _Pietar Lampinen_ oli Rusthollari.
+
+[93] _Akka vanha_, oli hänen äitinsä, joka tarjoi hänelle rokkoo,
+kotiin-tultuaan; mutta poika, joka silloin jo lie ollut riiassa,
+visko rokan oven-suuhun. -- _Tuolta tuttuini tuloopi_, sanoi ukko, kuin
+näki Antti Heikkisen tulevan, avuksensa. -- _Otti tuiman_. Heikkinen
+otti silloin ja veihtellänsä ratkais nuorat. Milloin tässä puhutaan
+yhestä, milloin toisesta, ilman nimittämätäk; joka usseen tapahtuu
+Runoissamme, ja jota lukioihen tuloo tarkasti eroittoo. -- Samaten
+sevoitetaan myös ajankauet, niin kuin usseen tehän, liiaksikin
+_vanhoissa_ runoissa. -- _Potuksi_, kuhutan sitä astiata, jossa nuuskua
+survotaan. Runoja nimittää sitä _nenä_-kelloksi, koska sitä aina
+piettiin nenän varaksi.
+
+[94] _Anttola_, on yksi iso moisio Mikkelin pitäjässä, lähes Juvan
+rajoa, joka niiten monen kylän suhteen, jotka ovat siihen kuulunet,
+on tullut kuhutuksi Anttolan Liäniksi.
+
+[95] _Jyljänäisen akka_. Se näyttää kuin hään oisi tullut
+jollon-kullon leivän-varkaaksi, (jossa Poavo Suutarinen lie ollut
+hänen apuaissa) sillä, että hään syyvessänsä otti leipä-palaisia
+muihenkin tarpeeksi.
+
+[96] _Ah_ (ack) ei ouk kunnollista Suomea; voi! on parempi. -- _Juutiht
+(Judit) Paunotar_ tuli sinne _Putkilasta_, Juan pitäjästä, keräjämään
+morsiammen lahjoja.
+
+[97] _Kauputar_. Minä en tiiä kuhtunoonko Runoja häntä niin, koska se
+kävi Kukkoa kauputtelemassa; vai lie ollut ehkä _Kaupoisiin_ sukujaan.
+
+[98] Kielen puolesta, hään aina nouatti sitä puheen murretta,
+kussa sanotaan e.m. _joutusasta_, mielellänä; kuin muualla sanotaan
+_joutusasti_, mielelläni, j.n.e. -- _Muoti_ (mått) on muukalainen sana,
+joka merk. että se oli mittaasek pitävä, t. suuri kooltaan. --
+_Tuuhattar, t. Tuuhainen_. Rantasalmella, Kuopiossa, ja monessa
+paikassa Savossa, lopetetaan akkojen nimet, sanalla _tar, ja tär_ (voan
+ei aina tyttölöihen) Tätä ruukataan silloin kuin ei ristimä-nimee
+mainitak, niin e.m. sanotaan Maija Patinoinen ja Anni Räisäinen;
+mutta jos ei ristimänimee nimitetäk, niin sanotaan Paunotar ja
+Räisäitär, että eroittoo heitä miehistänsä. Muuten niin vaimot
+kuhutaan heijan isän nimelliseksi, vaikka heitä kirkon-kirjoissa
+pannaan miehen nimellä. Tälläisiä vanhoja vaimollisia sukunimiä
+tavataan Gananderin Salamuksessakin, niin kuin e.m. Syöjätär. Moni
+luuloo, että ovat synnytteet näitä sillä, että sana tytär on veitty
+yhteen nimeen, niin että e.m. Paunotar oisi vanhuestaan merkihtenyt
+"Paunoisen tytär."
+
+[99] _Hävillä_. Kissa sanoi ei kuolevasek näillä
+hävittömillä koneilla. -- _Rimpottimet_ t. käpälet. --
+_Lena-Tiina_, oli hänen tyttärensä. -- _Isäntä ja Emäntä_, oli hänen
+vanhemmansa. -- _Ije-liha_ t. ikeneihin liha, (tandköttet). --
+_Kallukka_, oli Martin nuorin veli, ja Maija Kuosmainen, oli hänen
+vaimonsa.
+
+[100] _Urina_ t. tora, jurina. -- _Kohomiehet_, kuhutaan ne
+nuotta-miehet jotka vetäävät nuottansa kohonna, Reäpysten perästä.
+-- _Varia tehä_ t. tehä keitosta. Hään kysyi heiltä, oliko heillä
+kaloja, vai ei? Poika vastais: "on varsin vilua!" Jolla hään
+tarkoitti kehnon olleen heijän kalastamisen.
+
+[101] _Laiha-koakko_, kuhutaan tässä Heikki Koivuista, jota
+laitettiin vahtimaan, koska se lie ollut laiha-läntä mies. --
+_Ruasuksi_ kuhutaan kyntömiehen vissa. -- _Kyleltä_, t. kyljeltä,
+syrjältä. -- _Nurian-näköinen_ t. murheen näköinen, pahoillaan. --
+_Viitaksi_, kuhutaan Savossa yksi pitkä nuttu.
+
+[102] _Himoisi_ t. yllytti.
+
+[103] _Liena_, oli hänen kälys (Svägerska) ja mahto olla varsin
+paha-pintainen.
+
+[104] _Kurkki_, oli Nimismiehen nimi. -- _Rohvorsi_, t. piiskooja,
+pieksäjä. -- _Ryysti_ t. itki.
+
+[105] _Uti_ (Ut) kuhuttin tämän Antin isä; se oli hänen sota-köllönsä.
+
+[106] _Hermikki_, on yksi Lehmä-nimi. Sormuttar t. Sormuinen
+oli Ventisen akan suku-nimi. Vasikata kuhutaan tässä hänen
+Sormen-juotoksi, koska se oli syöttänyt häntä sormillansa. -- _Tytöllä
+oli vähä-mieli_, koska hään ajo hänet mehtään; ja Härällä vielä
+vähempi, kuin mäni Kettuisen hakaan.
+
+[107] _Uilo_ t. kirves. -- _Tpuipte_, merk. hänen huutamista, kuin hään
+kuhtui Härkeä luoksensa.
+
+[108] _Kämärätär t. Kämäräinen_, oli Kettuisen äiti. -- _Kiärä_ (kära)
+on toas niitä pahoja muukalaisia juoksu-sanoja. -- _Erossa_, koska
+veljet piti erkaneman toinen toisestaan. -- _Kosku-torvella_, hään toi
+lihat kotisak, sillä tavalla, että se piilotti heitä koskuilla, t.
+kuusen-kuoreilla. -- _Luika_, t. huuta, valita.
+
+[109] _Rautajärvi_ on yksi iso järvi Tietin kohalla, jota myöten
+talvella ajetaan Mikkeliin.
+
+[110] _Turakkala_ on yksi kylä, peninkuorman peässä kirkolta,
+Mikkeliin päin; siitten tuloo Niärinkin, Hassolan ja Piikkilän
+(t. Poikolan) kylät. Kirkolta Rantasalmellenpäin ovat Tirrolat
+ja Männymäet, ensimmäiset kylät.
+
+
+
+***END OF THE PROJECT GUTENBERG EBOOK VÄINÄMÖISET***
+
+
+******* This file should be named 54242-8.txt or 54242-8.zip *******
+
+
+This and all associated files of various formats will be found in:
+http://www.gutenberg.org/dirs/5/4/2/4/54242
+
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org 
+
+Section 3. Information about the Project Gutenberg Literary 
+Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
